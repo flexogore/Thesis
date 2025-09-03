@@ -1,0 +1,22 @@
+#reaction_ID	reactant_IDs(atom)	product_IDs(atom)	reversibility
+T_CO2	CO2.ex(a)	CO2(a)	0
+RUBISCO_CO2	RUBP(abcde) + CO2(f)	x3PGA(abc) + x3PGA(def)	0
+RUBISCO_O2	RUBP(abcde)   	x3PGA(abc) + x2PG(de)	0
+EX_2PG	x2PG(ab)	x2PG.ex(ab)	0
+GAPDHp	x3PGA(abc)	T3P(abc)	0
+FBAp	T3P(abc) + T3P(def)	FBP(abcdef)	0
+PFPp	FBP(abcdef)	F6P(abcdef)	0
+TK3	F6P(abcdef)	E4P(abcd) + EC2(ef)	0
+ALD	T3P(abc) + E4P(defg)	SBP(abcdefg)	0
+SBPase	SBP(abcdefg)	S7P(abcdefg)	0
+TK1	T3P(abc) + EC2(de)	PP(abcde)	1
+TK2	S7P(abcdefg)	R5P(abcde) + EC2(fg)	1
+PPI	R5P(abcde)	PP(abcde)	1
+PRK	PP(abcde)	RUBP(abcde)	0
+PGIp	F6P(abcdef)	G6P(abcdef)	0
+PGMp	G6P(abcdef)	G1P(abcdef)	0
+AGP	G1P(abcdef)	ADPG(abcdef)	0
+SS	ADPG	biomass	0
+PGIp_rev	G6P(abcdef)	F6P(abcdef)	0
+PGMp_rev	G1P(abcdef)	G6P(abcdef)	0
+FBAp_rev	FBP(abcdef)	T3P(abc) + T3P(def)	0
