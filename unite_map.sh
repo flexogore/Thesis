@@ -4,8 +4,8 @@
 echo -n "" > all_mapping.txt
 
 # Loop through each reaction folder
-for rxn in $(ls -1 reaction_intermediates6); do
-    rxn_folder=reaction_intermediates6/$rxn
+for rxn in $(ls -1 reaction_intermediates); do
+    rxn_folder=reaction_intermediates/$rxn
 
     # Check if mapping.txt exists in the folder
     if [ ! -f "$rxn_folder/mapping.txt" ]; then
