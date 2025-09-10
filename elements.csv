@@ -1,0 +1,1846 @@
+Abbreviation,Compartment,Name,Formula,Charge,CAS Number,Formula Neutral,KEGG cmpd ID,PubChem Substance ID
+10fthf,Cytosol,10-Formyltetrahydrofolate,C20H21N7O7,-2, ,C20H23N7O7,C00234,3533
+10fthf[h],Chloroplast,10-Formyltetrahydrofolate,C20H21N7O7,-2, ,C20H23N7O7,C00234,3533
+10fthf[m],Mitochondria,10-Formyltetrahydrofolate,C20H21N7O7,-2, ,C20H23N7O7,C00234,3533
+10fthf[x],Glyoxysome,10-Formyltetrahydrofolate,C20H21N7O7,-2, ,C20H23N7O7,C00234,3533
+10fthfglu-L,Cytosol,10-Formyltetrahydrofolyl L-glutamate,C25H28N8O10,-2, ,C25H30N8O10,C05928,8216
+10fthfglu-L[m],Mitochondria,10-Formyltetrahydrofolyl L-glutamate,C25H28N8O10,-2, ,C25H30N8O10,C05928,8216
+12dgr160[h],Chloroplast,"1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",C35H68O5,0, ,C35H68O5,C00641,3914
+12dgr16018111Z,Cytosol,"1,2-Diacyl-sn-glycerol (1-hexadecanoyl,2-(11Z)-octadecenoyl, 16:0/18:1(11Z))",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr1601819Z,Cytosol,"1,2-Diacyl-sn-glycerol (1-hexadecanoyl,2-(9Z)-octadecenoyl, 16:0/18:1(9Z))",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr1601819Z[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-hexadecanoyl,2-(9Z)-octadecenoyl, 16:0/18:1(9Z))",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr1801819Z,Cytosol,"1,2-Diacyl-sn-glycerol (1-octadecanoyl,2-(9Z)-octadecenoyl, 18:0/18:1(9Z))",C39H74O5,0, ,C39H74O5,C00641,3914
+12dgr1801819Z[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-octadecanoyl,2-(9Z)-octadecenoyl, 18:0/18:1(9Z))",C39H74O5,0, ,C39H74O5,C00641,3914
+12dgr18111Z160,Cytosol,"1,2-Diacyl-sn-glycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr18111Z160[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr18111Z18111Z,Cytosol,"1,2-Diacyl-sn-glycerol (1,2-di-(11Z)-octadecenoyl, 18:1(11Z)/18:1(11Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dgr18111Z1819Z,Cytosol,"1,2-Diacyl-sn-glycerol (1-(11Z)-octadecenoyl,2-(9Z)-octadecenoyl, 18:1(11Z)/18:1(9Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dgr18111Z1819Z[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-(11Z)-octadecenoyl,2-(9Z)-octadecenoyl, 18:1(11Z)/18:1(9Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dgr1819Z160,Cytosol,"1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr1819Z160[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C37H70O5,0, ,C37H70O5,C00641,3914
+12dgr1819Z1619Z[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl, 18:1(9Z)/16:1(9Z))",C37H68O5,0, ,C37H68O5,C00641,3914
+12dgr1819Z18111Z,Cytosol,"1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-(11Z)-octadecenoyl, 18:1(9Z)/18:1(11Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dgr1819Z18111Z[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-(11Z)-octadecenoyl, 18:1(9Z)/18:1(11Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dgr1819Z1819Z,Cytosol,"1,2-Diacyl-sn-glycerol (1,2-di-(9Z)-octadecenoyl, 18:1(9Z)/18:1(9Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dgr1819Z1819Z[h],Chloroplast,"1,2-Diacyl-sn-glycerol (1,2-di-(9Z)-octadecenoyl, 18:1(9Z)/18:1(9Z))",C39H72O5,0, ,C39H72O5,C00641,3914
+12dmpo,Cytosol,"1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one",C6H9O3S,-1, ,C6H10O3S,C15606,17396598
+13dampp[h],Chloroplast,"1,3-Diaminopropane",C3H12N2,2,109-76-2,C3H10N2,C00986,4233
+13dpg,Cytosol,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,-4,38168-82-0,C3H8O10P2,C00236,3535
+13dpg[f],Flagellum,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,-4,38168-82-0,C3H8O10P2,C00236,3535
+13dpg[h],Chloroplast,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,-4,38168-82-0,C3H8O10P2,C00236,3535
+13dpg[m],Mitochondria,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,-4,38168-82-0,C3H8O10P2,C00236,3535
+13oocdcy1829Z11Ea,Cytosol,"(9Z,11E)-13-Oxooctadeca-9,11-dienoic acid",C18H29O3,-1, ,C18H30O3,C14765,17395763
+13Shocdcy1829Z11Ea,Cytosol,"(9Z,11E)-(13S)-13-Hydroxyoctadeca-9,11-dienoic acid",C18H31O3,-1, ,C18H32O3,C14762,17395760
+13Shpocdcy1829Z11Ea,Cytosol,"(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid",C18H31O4,-1,33964-75-9,C18H32O4,C04717,7289
+1acpc,Cytosol,1-Aminocyclopropane-1-carboxylate,C4H7NO2,0,22059-21-8,C4H7NO2,C01234,4455
+1acpc[h],Chloroplast,1-Aminocyclopropane-1-carboxylate,C4H7NO2,0,22059-21-8,C4H7NO2,C01234,4455
+1acpc[m],Mitochondria,1-Aminocyclopropane-1-carboxylate,C4H7NO2,0,22059-21-8,C4H7NO2,C01234,4455
+1agpe180,Cytosol,1-Acyl-sn-glycero-3-phosphoethanolamine (18:0),C23H48NO7P,0, ,C23H48NO7P,C04438,7069
+1agpe18111Z,Cytosol,1-Acyl-sn-glycero-3-phosphoethanolamine (18:1(11Z)),C23H46NO7P,0, ,C23H46NO7P,C04438,7069
+1agpe1819Z,Cytosol,1-Acyl-sn-glycero-3-phosphoethanolamine (18:1(9Z)),C23H46NO7P,0, ,C23H46NO7P,C04438,7069
+1agpe1829Z12Z,Cytosol,"1-Acyl-sn-glycero-3-phosphoethanolamine (18:2(9Z,12Z))",C23H44NO7P,0, ,C23H44NO7P,C04438,7069
+1btol,Cytosol,1-Butanol,C4H10O,0, ,C4H10O,C06142,8398
+1Dgali,Cytosol,1-alpha-D-Galactosyl-myo-inositol,C12H22O11,0, ,C12H22O11,C01235,4456
+1Dgali[h],Chloroplast,1-alpha-D-Galactosyl-myo-inositol,C12H22O11,0, ,C12H22O11,C01235,4456
+1hdecg3p,Cytosol,1-hexadecanoyl-sn-glycerol 3-phosphate,C19H37O7P,-2, ,C19H39O7P,C04036,6739
+1hdecg3p[h],Chloroplast,1-hexadecanoyl-sn-glycerol 3-phosphate,C19H37O7P,-2, ,C19H39O7P,C04036,6739
+1odec11eg3p,Cytosol,1-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H39O7P,-2, ,C21H41O7P,C00681,3950
+1odec11eg3p[h],Chloroplast,1-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H39O7P,-2, ,C21H41O7P,C00681,3950
+1odec9eg3p,Cytosol,1-octadec-9-enoyl-sn-glycerol 3-phosphate,C21H39O7P,-2, ,C21H41O7P,C00681,3950
+1odec9eg3p[h],Chloroplast,1-octadec-9-enoyl-sn-glycerol 3-phosphate,C21H39O7P,-2, ,C21H41O7P,C00681,3950
+1odecg3p,Cytosol,1-octadecanoyl-sn-glycerol 3-phosphate,C21H41O7P,-2, ,C21H43O7P,C00681,3950
+1odecg3p[h],Chloroplast,1-octadecanoyl-sn-glycerol 3-phosphate,C21H41O7P,-2, ,C21H43O7P,C00681,3950
+1pyr5c,Cytosol,1-Pyrroline-5-carboxylate,C5H6NO2,-1, ,C5H7NO2,C03912,6642
+1pyr5c[m],Mitochondria,1-Pyrroline-5-carboxylate,C5H6NO2,-1, ,C5H7NO2,C03912,6642
+23dhdp,Cytosol,"2,3-Dihydrodipicolinate",C7H5NO4,-2, ,C7H7NO4,C03340,6183
+23dhmb,Cytosol,"(R)-2,3-Dihydroxy-3-methylbutanoate",C5H9O4,-1, ,C5H10O4,C04272,6935
+23dhmb[h],Chloroplast,"(R)-2,3-Dihydroxy-3-methylbutanoate",C5H9O4,-1, ,C5H10O4,C04272,6935
+23dhmb[m],Mitochondria,"(R)-2,3-Dihydroxy-3-methylbutanoate",C5H9O4,-1, ,C5H10O4,C04272,6935
+23dhmp,Cytosol,"(R)-2,3-Dihydroxy-3-methylpentanoate",C6H11O4,-1, ,C6H12O4,C06007,8280
+23dhmp[h],Chloroplast,"(R)-2,3-Dihydroxy-3-methylpentanoate",C6H11O4,-1, ,C6H12O4,C06007,8280
+25aics,Cytosol,(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate,C13H15N4O12P,-4,3031-95-6,C13H19N4O12P,C04823,7384
+25aics[h],Chloroplast,(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate,C13H15N4O12P,-4,3031-95-6,C13H19N4O12P,C04823,7384
+25dhpp[h],Chloroplast,"2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine",C9H15N5O8P,-1, ,C9H16N5O8P,C01304,4522
+25hvitd3,Cytosol,25-Hydroxyvitamin D3,C27H44O2,0,19356-17-3,C27H44O2,C01561,4719
+26dap-LL,Cytosol,"LL-2,6-Diaminoheptanedioate",C7H14N2O4,0,583-93-7,C7H14N2O4,C00666,3935
+26dap-M,Cytosol,"meso-2,6-Diaminoheptanedioate",C7H14N2O4,0, ,C7H14N2O4,C00680,3949
+26dmani[e],Extra-organism,"2,6-Dimethylaniline",C8H11N,0,87-62-7,C8H11N,C11004,13187
+2ahbut[h],Chloroplast,(S)-2-Aceto-2-hydroxybutanoate,C6H9O4,-1, ,C6H10O4,C06006,8279
+2ahethmpp[h],Chloroplast,2-(alpha-Hydroxyethyl)thiamine diphosphate,C14H20N4O8P2S,-2, ,C14H23N4O8P2S,C05125,7546
+2ahethmpp[m],Mitochondria,2-(alpha-Hydroxyethyl)thiamine diphosphate,C14H20N4O8P2S,-2, ,C14H23N4O8P2S,C05125,7546
+2ahhmd,Cytosol,"2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine",C7H9N5O8P2,-2,70608-72-9,C7H11N5O8P2,C04807,7369
+2ahhmp,Cytosol,"2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine",C7H9N5O2,0, ,C7H9N5O2,C01300,4518
+2aobut[x],Glyoxysome,L-2-Amino-3-oxobutanoic acid,C4H6NO3,-1, ,C4H7NO3,C03508,6318
+2cpr5p[h],Chloroplast,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,C12H13NO9P,-3, ,C12H16NO9P,C01302,4520
+2dda7p[h],Chloroplast,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate,C7H10O10P,-3,2627-73-8,C7H13O10P,C04691,7271
+2dhp,Cytosol,2-Dehydropantoate,C6H9O4,-1, ,C6H10O4,C00966,4217
+2dhp[m],Mitochondria,2-Dehydropantoate,C6H9O4,-1, ,C6H10O4,C00966,4217
+2dhp[n],Nucleus,2-Dehydropantoate,C6H9O4,-1, ,C6H10O4,C00966,4217
+2dr5p,Cytosol,2-Deoxy-D-ribose 5-phosphate,C5H9O7P,-2,102916-66-5,C5H11O7P,C00673,3942
+2h34hppr,Cytosol,2-Hydroxy-3-(4-hydroxyphenyl)propenoate,C9H7O4,-1, ,C9H8O4,C05350,7728
+2h3kmtp,Cytosol,2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate,C6H8O6PS,-3, ,C6H11O6PS,C15651,17396641
+2h3oppan[m],Mitochondria,2-Hydroxy-3-oxopropanoate,C3H3O4,-1, ,C3H4O4,C01146,4376
+2hg[h],Chloroplast,(S)-2-Hydroxyglutarate,C5H6O5,-2, ,C5H8O5,C03196,6073
+2ippm,Cytosol,2-Isopropylmaleate,C7H8O4,-2, ,C7H10O4,C02631,5611
+2kmb,Cytosol,2-Keto-4-methylthiobutyric acid,C5H7O3S,-1,583-92-6,C5H8O3S,C01180,4407
+2maacoa[m],Mitochondria,2-Methyl-3-acetoacetyl-CoA,C26H38N7O18P3S,-4, ,C26H42N7O18P3S,C03344,6187
+2mb2coa[m],Mitochondria,trans-2-Methylbut-2-enoyl-CoA,C26H38N7O17P3S,-4, ,C26H42N7O17P3S,C03345,6188
+2mbcoa[m],Mitochondria,(S)-2-Methylbutanoyl-CoA,C26H40N7O17P3S,-4, ,C26H44N7O17P3S,C01033,4276
+2mbdhl[m],Mitochondria,S-(2-Methylbutanoyl)-dihydrolipoamide,C13H25NO2S2,0,59865-13-3,C13H25NO2S2,C05118,7542
+2me4p[h],Chloroplast,2-C-Methyl-D-erythritol 4-phosphate,C5H11O7P,-2, ,C5H13O7P,C11434,13606
+2mecdp[h],Chloroplast,"2-C-Methyl-D-erythritol 2,4-cyclodiphosphate",C5H10O9P2,-2,143488-44-2,C5H12O9P2,C11453,13625
+2mhob[m],Mitochondria,2-Methyl-1-hydroxybutyl-ThPP,C17H26N4O8P2S,-2, ,C17H29N4O8P2S,C15978,47205291
+2mhop[m],Mitochondria,2-Methyl-1-hydroxypropyl-ThPP,C16H24N4O8P2S,-2, ,C16H27N4O8P2S,C15976,47205289
+2mp2coa[m],Mitochondria,2-Methylprop-2-enoyl-CoA,C25H36N7O17P3S,-4, ,C25H40N7O17P3S,C03460,6280
+2mpdhl[m],Mitochondria,S-(2-Methylpropanoyl)-dihydrolipoamide,C12H23NO2S2,0,53-42-9,C12H23NO2S2,C04424,7056
+2obut[h],Chloroplast,2-Oxobutanoate,C4H5O3,-1,600-18-0,C4H6O3,C00109,3409
+2obut[m],Mitochondria,2-Oxobutanoate,C4H5O3,-1,600-18-0,C4H6O3,C00109,3409
+2pg,Cytosol,D-Glycerate 2-phosphate,C3H4O7P,-3, ,C3H7O7P,C00631,3904
+2pg[f],Flagellum,D-Glycerate 2-phosphate,C3H4O7P,-3, ,C3H7O7P,C00631,3904
+2pg[h],Chloroplast,D-Glycerate 2-phosphate,C3H4O7P,-3, ,C3H7O7P,C00631,3904
+2pg[m],Mitochondria,D-Glycerate 2-phosphate,C3H4O7P,-3, ,C3H7O7P,C00631,3904
+2pglyc,Cytosol,2-Phosphoglycolate,C2H2O6P,-3, ,C2H5O6P,C00988,4234
+2pglyc[h],Chloroplast,2-Phosphoglycolate,C2H2O6P,-3, ,C2H5O6P,C00988,4234
+2pglyc[x],Glyoxysome,2-Phosphoglycolate,C2H2O6P,-3, ,C2H5O6P,C00988,4234
+34hpp,Cytosol,3-(4-Hydroxyphenyl)pyruvate,C9H7O4,-1, ,C9H8O4,C01179,4406
+34hpp[h],Chloroplast,3-(4-Hydroxyphenyl)pyruvate,C9H7O4,-1, ,C9H8O4,C01179,4406
+34hpp[m],Mitochondria,3-(4-Hydroxyphenyl)pyruvate,C9H7O4,-1, ,C9H8O4,C01179,4406
+35cgmp,Cytosol,"3',5'-Cyclic GMP",C10H10N5O7P,-2,7665-99-8,C10H12N5O7P,C00942,4194
+35cgmp[n],Nucleus,"3',5'-Cyclic GMP",C10H10N5O7P,-2,7665-99-8,C10H12N5O7P,C00942,4194
+3c2hmp,Cytosol,3-Carboxy-2-hydroxy-4-methylpentanoate,C7H10O5,-2, ,C7H12O5,C04411,7045
+3c3hmp,Cytosol,3-Carboxy-3-hydroxy-4-methylpentanoate,C7H10O5,-2, ,C7H12O5,C02504,5516
+3c3hmp[h],Chloroplast,3-Carboxy-3-hydroxy-4-methylpentanoate,C7H10O5,-2, ,C7H12O5,C02504,5516
+3c4mop,Cytosol,3-Carboxy-4-methyl-2-oxopentanoate,C7H8O5,-2, ,C7H10O5,C04236,6905
+3dhq[h],Chloroplast,3-Dehydroquinate,C7H9O6,-1, ,C7H10O6,C00944,4196
+3dhsk[h],Chloroplast,3-Dehydroshikimate,C7H7O5,-1, ,C7H8O5,C02637,5617
+3dsphgn,Cytosol,3-Dehydrosphinganine,C18H38NO2,1, ,C18H37NO2,C02934,5855
+3hbcoa,Cytosol,(S)-3-Hydroxybutanoyl-CoA,C25H38N7O18P3S,-4, ,C25H42N7O18P3S,C01144,4375
+3hbcoa[m],Mitochondria,(S)-3-Hydroxybutanoyl-CoA,C25H38N7O18P3S,-4, ,C25H42N7O18P3S,C01144,4375
+3hbcoa[x],Glyoxysome,(S)-3-Hydroxybutanoyl-CoA,C25H38N7O18P3S,-4, ,C25H42N7O18P3S,C01144,4375
+3hbcoa-R,Cytosol,(R)-3-Hydroxybutanoyl-CoA,C25H38N7O18P3S,-4,46495-39-0,C25H42N7O18P3S,C03561,6354
+3hbutACP[h],Chloroplast,(R)-3-Hydroxybutanoyl-[acyl-carrier protein],C4H7O2SR,0, ,C4H7O2SR,C04618,7208
+3hcvac11eACP[h],Chloroplast,(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein],C18H33O2SR,0, ,C18H33O2SR, , 
+3hdcoa[m],Mitochondria,(S)-3-Hydroxydecanoyl-CoA,C31H50N7O18P3S,-4, ,C31H54N7O18P3S,C05264,7651
+3hdcoa[x],Glyoxysome,(S)-3-Hydroxydecanoyl-CoA,C31H50N7O18P3S,-4, ,C31H54N7O18P3S,C05264,7651
+3hddcoa[m],Mitochondria,(S)-3-Hydroxydodecanoyl-CoA,C33H54N7O18P3S,-4, ,C33H58N7O18P3S,C05262,7649
+3hddcoa[x],Glyoxysome,(S)-3-Hydroxydodecanoyl-CoA,C33H54N7O18P3S,-4, ,C33H58N7O18P3S,C05262,7649
+3hddecACP[h],Chloroplast,(R)-3-Hydroxydodecanoyl-[acyl-carrier protein],C12H23O2SR,0, ,C12H23O2SR,C05757,8052
+3hdecACP[h],Chloroplast,(R)-3-Hydroxydecanoyl-[acyl-carrier protein],C10H19O2SR,0,320-77-4,C10H19O2SR,C04619,7209
+3hhcoa[m],Mitochondria,(S)-3-Hydroxyhexanoyl-CoA,C27H42N7O18P3S,-4, ,C27H46N7O18P3S,C05268,7655
+3hhcoa[x],Glyoxysome,(S)-3-Hydroxyhexanoyl-CoA,C27H42N7O18P3S,-4, ,C27H46N7O18P3S,C05268,7655
+3hhdcoa[m],Mitochondria,(S)-3-Hydroxyhexadecanoyl-CoA,C37H62N7O18P3S,-4, ,C37H66N7O18P3S,C05258,7645
+3hhdcoa[x],Glyoxysome,(S)-3-Hydroxyhexadecanoyl-CoA,C37H62N7O18P3S,-4, ,C37H66N7O18P3S,C05258,7645
+3hhexACP[h],Chloroplast,(R)-3-Hydroxyhexanoyl-[acyl-carrier protein],C6H11O2SR,0, ,C6H11O2SR,C05747,8042
+3hib[m],Mitochondria,(S)-3-Hydroxyisobutyrate,C4H7O3,-1, ,C4H8O3,C06001,8275
+3hibutcoa[m],Mitochondria,(S)-3-Hydroxyisobutyryl-CoA,C25H38N7O18P3S,-4, ,C25H42N7O18P3S,C06000,8274
+3hivcoa[m],Mitochondria,3-Hydroxyisovaleryl-CoA,C26H40N7O18P3S,-4, ,C26H44N7O18P3S,C05998,8272
+3hlido,Cytosol,3-Hydroxylidocaine,C14H23N2O2,1,34604-55-2,C14H22N2O2,C16560,51090889
+3hmbcoa[m],Mitochondria,(S)-3-Hydroxy-2-methylbutyryl-CoA,C26H40N7O18P3S,-4, ,C26H44N7O18P3S,C04405,7041
+3hmoa[h],Chloroplast, 3-Hydroxy-3-methyl-2-oxobutanoic acid,C5H7O4,-1, ,C5H8O4,C04181,6858
+3hmop[h],Chloroplast,(R)-3-Hydroxy-3-methyl-2-oxopentanoate,C6H9O4,-1, ,C6H10O4,C14463,17395463
+3hmrsACP[h],Chloroplast,(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein],C14H27O2SR,0, ,C14H27O2SR,C04688,7269
+3hocoa[m],Mitochondria,(S)-3-Hydroxyoctanoyl-CoA,C29H46N7O18P3S,-4, ,C29H50N7O18P3S,C05266,7653
+3hocoa[x],Glyoxysome,(S)-3-Hydroxyoctanoyl-CoA,C29H46N7O18P3S,-4, ,C29H50N7O18P3S,C05266,7653
+3hoctaACP[h],Chloroplast,(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein],C18H35O2SR,0, ,C18H35O2SR,C16220,47205528
+3hoctACP[h],Chloroplast,(R)-3-Hydroxyoctanoyl-[acyl-carrier protein],C8H15O2SR,0, ,C8H15O2SR,C04620,7210
+3hodcoa,Cytosol,3-Hydroxyoctadecanoyl-CoA,C39H66N7O18P3S,-4,42578-91-6,C39H70N7O18P3S,C16217,47205525
+3hpalmACP[h],Chloroplast,R-3-hydroxypalmitoyl-[acyl-carrier protein],C16H31O2SR,0, ,C16H31O2SR,C04633,7222
+3hpcoa,Cytosol,3-Hydroxypropionyl-CoA,C24H36N7O18P3S,-4,608-07-1,C24H40N7O18P3S,C05668,7976
+3hpcoa[m],Mitochondria,3-Hydroxypropionyl-CoA,C24H36N7O18P3S,-4,608-07-1,C24H40N7O18P3S,C05668,7976
+3hpp,Cytosol,3-Hydroxypropanoate,C3H5O3,-1,503-66-2,C3H6O3,C01013,4258
+3htdcoa[m],Mitochondria,(S)-3-Hydroxytetradecanoyl-CoA,C35H58N7O18P3S,-4, ,C35H62N7O18P3S,C05260,7647
+3htdcoa[x],Glyoxysome,(S)-3-Hydroxytetradecanoyl-CoA,C35H58N7O18P3S,-4, ,C35H62N7O18P3S,C05260,7647
+3ig3p[h],Chloroplast,C'-(3-Indolyl)-glycerol 3-phosphate,C11H12NO6P,-2, ,C11H14NO6P,C03506,6317
+3mb2coa[m],Mitochondria,3-Methylbut-2-enoyl-CoA,C26H38N7O17P3S,-4, ,C26H42N7O17P3S,C03069,5969
+3mbdhl[m],Mitochondria,S-(3-Methylbutanoyl)-dihydrolipoamide,C13H25NO2S2,0,59865-13-3,C13H25NO2S2,C05119,7543
+3mgcoa[m],Mitochondria,3-Methylglutaconyl-CoA,C27H38N7O19P3S,-4, ,C27H42N7O19P3S,C03231,6102
+3mhtpp[m],Mitochondria,3-Methyl-1-hydroxybutyl-ThPP,C17H26N4O8P2S,-2, ,C17H29N4O8P2S,C15974,47205287
+3mob,Cytosol,3-Methyl-2-oxobutanoate,C5H7O3,-1, ,C5H8O3,C00141,3441
+3mob[h],Chloroplast,3-Methyl-2-oxobutanoate,C5H7O3,-1, ,C5H8O3,C00141,3441
+3mob[m],Mitochondria,3-Methyl-2-oxobutanoate,C5H7O3,-1, ,C5H8O3,C00141,3441
+3mop,Cytosol,(S)-3-Methyl-2-oxopentanoate,C6H9O3,-1, ,C6H10O3,C00671,3940
+3mop[h],Chloroplast,(S)-3-Methyl-2-oxopentanoate,C6H9O3,-1, ,C6H10O3,C00671,3940
+3mop[m],Mitochondria,(S)-3-Methyl-2-oxopentanoate,C6H9O3,-1, ,C6H10O3,C00671,3940
+3mtpa,Cytosol,3-(Methylthio)propionic acid,C4H7O2S,-1,646-01-5,C4H8O2S,C08276,10474
+3ocvac11eACP[h],Chloroplast,3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein],C18H32O2SR,0, ,C18H32O2SR, , 
+3odcoa[m],Mitochondria,3-Oxodecanoyl-CoA,C31H48N7O18P3S,-4, ,C31H52N7O18P3S,C05265,7652
+3odcoa[x],Glyoxysome,3-Oxodecanoyl-CoA,C31H48N7O18P3S,-4, ,C31H52N7O18P3S,C05265,7652
+3oddcoa[m],Mitochondria,3-Oxododecanoyl-CoA,C33H52N7O18P3S,-4, ,C33H56N7O18P3S,C05263,7650
+3oddcoa[x],Glyoxysome,3-Oxododecanoyl-CoA,C33H52N7O18P3S,-4, ,C33H56N7O18P3S,C05263,7650
+3oddecACP[h],Chloroplast,3-Oxododecanoyl-[acyl-carrier protein],C12H21O2SR,0, ,C12H21O2SR,C05756,8051
+3odecACP[h],Chloroplast,3-Oxodecanoyl-[acyl-carrier protein],C10H17O2SR,0, ,C10H17O2SR,C05753,8048
+3ohcoa[m],Mitochondria,3-Oxohexanoyl-CoA,C27H40N7O18P3S,-4,5096-70-8,C27H44N7O18P3S,C05269,7656
+3ohcoa[x],Glyoxysome,3-Oxohexanoyl-CoA,C27H40N7O18P3S,-4,5096-70-8,C27H44N7O18P3S,C05269,7656
+3ohdcoa[m],Mitochondria,3-Oxohexadecanoyl-CoA,C37H60N7O18P3S,-4, ,C37H64N7O18P3S,C05259,7646
+3ohdcoa[x],Glyoxysome,3-Oxohexadecanoyl-CoA,C37H60N7O18P3S,-4, ,C37H64N7O18P3S,C05259,7646
+3ohexACP[h],Chloroplast,3-Oxohexanoyl-[acyl-carrier protein],C6H9O2SR,0, ,C6H9O2SR,C05746,8041
+3omrsACP[h],Chloroplast,3-Oxotetradecanoyl-[acyl-carrier protein],C14H25O2SR,0, ,C14H25O2SR,C05759,8054
+3oocoa[m],Mitochondria,3-Oxooctanoyl-CoA,C29H44N7O18P3S,-4, ,C29H48N7O18P3S,C05267,7654
+3oocoa[x],Glyoxysome,3-Oxooctanoyl-CoA,C29H44N7O18P3S,-4, ,C29H48N7O18P3S,C05267,7654
+3ooctACP[h],Chloroplast,3-Oxooctanoyl-[acyl-carrier protein],C8H13O2SR,0, ,C8H13O2SR,C05750,8045
+3ooctdACP[h],Chloroplast,3-Oxooctadecanoyl-[acyl-carrier protein],C18H33O2SR,0, ,C18H33O2SR,C16219,47205527
+3oodcoa,Cytosol,3-Oxooctadecanoyl-CoA,C39H64N7O18P3S,-4, ,C39H68N7O18P3S,C16216,47205524
+3opalmACP[h],Chloroplast,3-Oxohexadecanoyl-[acyl-carrier protein],C16H29O2SR,0, ,C16H29O2SR,C05762,8057
+3opcoa,Cytosol,3-oxopropionyl-CoA,C24H34N7O18P3S,-4, ,C24H38N7O18P3S,C05989,8265
+3otdcoa[m],Mitochondria,3-Oxotetradecanoyl-CoA,C35H56N7O18P3S,-4, ,C35H60N7O18P3S,C05261,7648
+3otdcoa[x],Glyoxysome,3-Oxotetradecanoyl-CoA,C35H56N7O18P3S,-4, ,C35H60N7O18P3S,C05261,7648
+3pg,Cytosol,3-Phospho-D-glycerate,C3H4O7P,-3, ,C3H7O7P,C00197,3497
+3pg[f],Flagellum,3-Phospho-D-glycerate,C3H4O7P,-3, ,C3H7O7P,C00197,3497
+3pg[h],Chloroplast,3-Phospho-D-glycerate,C3H4O7P,-3, ,C3H7O7P,C00197,3497
+3pg[m],Mitochondria,3-Phospho-D-glycerate,C3H4O7P,-3, ,C3H7O7P,C00197,3497
+3pg[x],Glyoxysome,3-Phospho-D-glycerate,C3H4O7P,-3, ,C3H7O7P,C00197,3497
+3php[h],Chloroplast,3-Phosphohydroxypyruvate,C3H2O7P,-3, ,C3H5O7P,C03232,6103
+3psme[h],Chloroplast,5-O-(1-Carboxyvinyl)-3-phosphoshikimate,C10H9O10P,-4, ,C10H13O10P,C01269,4488
+3sala[h],Chloroplast,3-Sulfino-L-alanine,C3H6NO4S,-1,1115-65-7,C3H7NO4S,C00606,3881
+3sala[m],Mitochondria,3-Sulfino-L-alanine,C3H6NO4S,-1,1115-65-7,C3H7NO4S,C00606,3881
+3snpyr[h],Chloroplast,3-Sulfinopyruvate,C3H2O5S,-2,28954-12-3,C3H4O5S,C05527,7870
+3snpyr[m],Mitochondria,3-Sulfinopyruvate,C3H2O5S,-2,28954-12-3,C3H4O5S,C05527,7870
+3spyr[h],Chloroplast,3-Sulfopyruvate,C3H2O6S,-2, ,C3H4O6S,C05528,7871
+3spyr[m],Mitochondria,3-Sulfopyruvate,C3H2O6S,-2, ,C3H4O6S,C05528,7871
+44mctr,Cytosol,"4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol",C29H46O,0, ,C29H46O,C11455,13626
+44mzym,Cytosol,"4,4-dimethyl-5alpha-cholesta-8,24-dien-3beta-ol",C29H48O,0,59865-13-3,C29H48O,C05108,7534
+4abut,Cytosol,4-Aminobutanoate,C4H9NO2,0,56-12-2,C4H9NO2,C00334,3628
+4abut[h],Chloroplast,4-Aminobutanoate,C4H9NO2,0,56-12-2,C4H9NO2,C00334,3628
+4abut[m],Mitochondria,4-Aminobutanoate,C4H9NO2,0,56-12-2,C4H9NO2,C00334,3628
+4abutn[h],Chloroplast,4-Aminobutanal,C4H10NO,1, ,C4H9NO,C00555,3835
+4abutn[m],Mitochondria,4-Aminobutanal,C4H10NO,1, ,C4H9NO,C00555,3835
+4abz,Cytosol,4-Aminobenzoate,C7H6NO2,-1,150-13-0,C7H7NO2,C00568,3847
+4adcho,Cytosol,4-Amino-4-deoxychorismate,C10H10NO5,-1, ,C10H11NO5,C11355,13530
+4c2me[h],Chloroplast,4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol,C14H23N3O14P2,-2, ,C14H25N3O14P2,C11435,13607
+4fumacac,Cytosol,4-Fumarylacetoacetate,C8H6O6,-2,28613-33-4,C8H8O6,C01061,4300
+4fumacac[n],Nucleus,4-Fumarylacetoacetate,C8H6O6,-2,28613-33-4,C8H8O6,C01061,4300
+4hproara[g],Golgi Apparatus,Hyp(4-b1)Ara,C10H17NO7,0, ,C10H17NO7, , 
+4hproaraara[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara,C15H25NO11,0, ,C15H25NO11, , 
+4hproaraaraara[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara(2-b1)Ara,C20H33NO15,0, ,C20H33NO15, , 
+4hproaraaraaragal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara(2-b1)Ara(2-a1)Gal,C26H43NO20,0, ,C26H43NO20, , 
+4hproaraaragal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara(2-a1)Gal,C21H35NO16,0, ,C21H35NO16, , 
+4hproaraaragalara[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara(2-a1)Gal(5-b1)Ara,C26H43NO20,0, ,C26H43NO20, , 
+4hproaraaragalmeara[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara(2-a1)Gal(5-b1)MeAra,C27H45NO20,0, ,C27H45NO20, , 
+4hproaraara-LPAREN-ara-RPAREN-gal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara[(2-b1)Ara](3-a1)Gal,C26H43NO20,0, ,C26H43NO20, , 
+4hproaraara-LPAREN-gal-RPAREN-gal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara[(2-a1)Gal](3-a1)Gal,C27H45NO21,0, ,C27H45NO21, , 
+4hproaraara-LPAREN-gal-RPAREN-megal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara[(2-a1)Gal](3-a1)MeGal,C28H47NO21,0, ,C28H47NO21, , 
+4hproaraaramegal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-b1)Ara(2-a1)MeGal,C22H37NO16,0, ,C22H37NO16, , 
+4hproaragal[g],Golgi Apparatus,Hyp(4-b1)Ara(2-a1)Gal,C16H27NO12,0, ,C16H27NO12, , 
+4hproara-LPAREN-aragalara-RPAREN-gal[g],Golgi Apparatus,Hyp(4-b1)Ara[(2-b1)Ara(2-a1)Gal(2-b1)Ara](3-a1)Gal,C32H53NO25,0, ,C32H53NO25, , 
+4hproara-LPAREN-aragal-RPAREN-gal[g],Golgi Apparatus,Hyp(4-b1)Ara[(2-b1)Ara(2-a1)Gal](3-a1)Gal,C27H45NO21,0, ,C27H45NO21, , 
+4hproara-LPAREN-aragal-RPAREN-galara[g],Golgi Apparatus,Hyp(4-b1)Ara[(2-b1)Ara(2-a1)Gal](3-a1)Gal(2-b1)Ara,C32H53NO25,0, ,C32H53NO25, , 
+4hproara-LPAREN-ara-RPAREN-gal[g],Golgi Apparatus,Hyp(4-b1)Ara[(2-b1)Ara](3-a1)Gal,C21H35NO16,0, ,C21H35NO16, , 
+4hproara-LPAREN-ara-RPAREN-galara[g],Golgi Apparatus,Hyp(4-b1)Ara[(2-b1)Ara](3-a1)Gal(2-b1)Ara,C26H43NO20,0, ,C26H43NO20, , 
+4hproara-LPAREN-ara-RPAREN-galaragal[g],Golgi Apparatus,Hyp(4-b1)Ara[(2-b1)Ara](3-a1)Gal(2-b1)Ara(2-a1)Gal,C32H53NO25,0, ,C32H53NO25, , 
+4hprogal[g],Golgi Apparatus,Hyp(4-a1)Gal,C11H19NO8,0, ,C11H19NO8, , 
+4hpro-LT,Cytosol,trans-4-Hydroxy-L-proline (protein-linked),C5H9NO3,0,51-35-4,C5H9NO3,C01157,4385
+4hpro-LT[g],Golgi Apparatus,trans-4-Hydroxy-L-proline (protein-linked),C5H9NO3,0,51-35-4,C5H9NO3,C01157,4385
+4izp,Cytosol,4-Imidazolone-5-propanoate,C6H6N2O3,-2, ,C6H8N2O3,C03680,6455
+4mlacac,Cytosol,4-Maleylacetoacetate,C8H6O6,-2,5698-52-2,C8H8O6,C01036,4279
+4mlacac[n],Nucleus,4-Maleylacetoacetate,C8H6O6,-2,5698-52-2,C8H8O6,C01036,4279
+4mop,Cytosol,4-Methyl-2-oxopentanoate,C6H9O3,-1, ,C6H10O3,C00233,3532
+4mop[h],Chloroplast,4-Methyl-2-oxopentanoate,C6H9O3,-1, ,C6H10O3,C00233,3532
+4mop[m],Mitochondria,4-Methyl-2-oxopentanoate,C6H9O3,-1, ,C6H10O3,C00233,3532
+4mzym,Cytosol,4alpha-Methylzymosterol,C28H46O,0,59865-13-3,C28H46O,C05103,7531
+4mzym-int1,Cytosol,4alpha-Methylzymosterol-4-carboxylate,C29H45O3,-1, ,C29H46O3,C15808,47205133
+4mzym-int2,Cytosol,3-Keto-4-methylzymosterol,C28H44O,0, ,C28H44O,C15816,47205141
+4ogm,Cytosol,4-oxoglutaramate,C5H6NO4,-1, ,C5H7NO4,C05572,7898
+4pasp[h],Chloroplast,4-Phospho-L-aspartate,C4H6NO7P,-2, ,C4H8NO7P,C03082,5980
+4pcys,Cytosol,N-((R)-pantothenoyl)-L-cysteine,C12H20N2O6S,-2, ,C12H22N2O6S,C04079,6773
+4ppan,Cytosol,D-4'-Phosphopantothenate,C9H14NO8P,-4, ,C9H18NO8P,C03492,6304
+4ppcys,Cytosol,N-((R)-4-Phosphopantothenoyl)-L-cysteine,C12H19N2O9PS,-4, ,C12H23N2O9PS,C04352,7001
+4pyrdx,Cytosol,4-Pyridoxate,C8H8NO4,-1,82-82-6,C8H9NO4,C00847,4104
+4r5au[h],Chloroplast,4-(1-D-Ribitylamino)-5-aminouracil,C9H16N4O6,0, ,C9H16N4O6,C04732,7303
+56dh5flura,Cytosol,"5,6-Dihydro-5-fluorouracil",C4H4FN2O2,-1,696-06-0,C4H5FN2O2,C16630,51090956
+56dura,Cytosol,"5,6-dihydrouracil",C4H6N2O2,0,504-07-4,C4H6N2O2,C00429,3718
+5aizc,Cytosol,5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate,C9H11N3O9P,-3, ,C9H14N3O9P,C04751,7321
+5aizc[h],Chloroplast,5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate,C9H11N3O9P,-3, ,C9H14N3O9P,C04751,7321
+5aop[h],Chloroplast,5-Amino-4-oxopentanoate,C5H8NO3,-1,106-60-5,C5H9NO3,C00430,3719
+5aprbu[h],Chloroplast,5-Amino-6-(5'-phosphoribitylamino)uracil,C9H15N4O9P,-2, ,C9H17N4O9P,C04454,7081
+5apru[h],Chloroplast,5-Amino-6-(5'-phosphoribosylamino)uracil,C9H13N4O9P,-2, ,C9H15N4O9P,C01268,4487
+5flura,Cytosol,5-Fluorouracil,C4H3FN2O2,0,51-21-8,C4H3FN2O2,C07649,9851
+5flura[e],Extra-organism,5-Fluorouracil,C4H3FN2O2,0,51-21-8,C4H3FN2O2,C07649,9851
+5flurimp,Cytosol,5-Fluorouridine monophosphate,C9H9FN2O9P,-3,796-66-7,C9H12FN2O9P,C16634,51090960
+5forthf,Cytosol,5-Formiminotetrahydrofolate,C20H22N8O6,-2, ,C20H24N8O6,C00664,3933
+5fthf,Cytosol,5-Formyltetrahydrofolate,C20H21N7O7,-2,58-05-9,C20H23N7O7,C03479,6294
+5fthf[e],Extra-organism,5-Formyltetrahydrofolate,C20H21N7O7,-2,58-05-9,C20H23N7O7,C03479,6294
+5fthf[m],Mitochondria,5-Formyltetrahydrofolate,C20H21N7O7,-2,58-05-9,C20H23N7O7,C03479,6294
+5hiu[m],Mitochondria,5-Hydroxyisourate,C5H3N4O4,-1, ,C5H4N4O4,C11821,13985
+5houdic[m],Mitochondria,"5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",C5H5N4O5,-1, ,C5H6N4O5,C12248,14393
+5mdr1p,Cytosol,5-Methylthio-5-deoxy-D-ribose 1-phosphate,C6H11O7PS,-2, ,C6H13O7PS,C04188,6864
+5mdru1p,Cytosol,5-Methylthio-5-deoxy-D-ribulose 1-phosphate,C6H11O7PS,-2, ,C6H13O7PS,C04582,7183
+5mta,Cytosol,5-Methylthioadenosine,C11H15N5O3S,0,2457-80-9,C11H15N5O3S,C00170,3470
+5mta[h],Chloroplast,5-Methylthioadenosine,C11H15N5O3S,0,2457-80-9,C11H15N5O3S,C00170,3470
+5mta[m],Mitochondria,5-Methylthioadenosine,C11H15N5O3S,0,2457-80-9,C11H15N5O3S,C00170,3470
+5mthf[m],Mitochondria,5-Methyltetrahydrofolate,C20H23N7O6,-2,134-35-0,C20H25N7O6,C00440,3729
+5mtr,Cytosol,5-Methylthio-D-ribose,C6H12O4S,0, ,C6H12O4S,C03089,5987
+5op,Cytosol,5-Oxoproline,C5H6NO3,-1, ,C5H7NO3,C01879,4992
+5prdmbz,Cytosol,"N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole",C14H17N2O7P,-2,975-91-7,C14H19N2O7P,C04778,7342
+6mpur,Cytosol,6-Mercaptopurine,C5H4N4S,0,50-44-2,C5H4N4S,C02380,5422
+6mpur[e],Extra-organism,6-Mercaptopurine,C5H4N4S,0,50-44-2,C5H4N4S,C02380,5422
+6pgc,Cytosol,6-Phospho-D-gluconate,C6H10O10P,-3, ,C6H13O10P,C00345,3638
+6pgc[h],Chloroplast,6-Phospho-D-gluconate,C6H10O10P,-3, ,C6H13O10P,C00345,3638
+6pgl,Cytosol,"6-phospho-D-glucono-1,5-lactone",C6H9O9P,-2, ,C6H11O9P,C01236,4457
+6pgl[h],Chloroplast,"6-phospho-D-glucono-1,5-lactone",C6H9O9P,-2, ,C6H11O9P,C01236,4457
+6tgsnmp,Cytosol,6-Thioguanosine monophosphate,C10H12N5O7PS,-2,15867-02-4,C10H14N5O7PS,C16619,51090945
+6tins5mp,Cytosol,6-Thioinosine-5'-monophosphate,C10H11N4O7PS,-2,53-83-8,C10H13N4O7PS,C04646,7235
+6txan5mp,Cytosol,6-Thioxanthine 5'-monophosphate,C10H11N4O8PS,-2,3237-49-8,C10H13N4O8PS,C16618,51090944
+7dhchsterol,Cytosol,"Cholesta-5,7-dien-3beta-ol",C27H44O,0,434-16-2,C27H44O,C01164,4391
+8aonn[m],Mitochondria,8-Amino-7-oxononanoate,C9H16NO3,-1, ,C9H17NO3,C01092,4327
+aacoa,Cytosol,Acetoacetyl-CoA,C25H36N7O18P3S,-4,1420-36-6,C25H40N7O18P3S,C00332,3626
+aacoa[m],Mitochondria,Acetoacetyl-CoA,C25H36N7O18P3S,-4,1420-36-6,C25H40N7O18P3S,C00332,3626
+aacoa[x],Glyoxysome,Acetoacetyl-CoA,C25H36N7O18P3S,-4,1420-36-6,C25H40N7O18P3S,C00332,3626
+aact[x],Glyoxysome,Aminoacetone,C3H7NO,0,298-08-8,C3H7NO,C01888,5001
+ac,Cytosol,Acetate,C2H3O2,-1,71-50-1,C2H4O2,C00033,3335
+ac[e],Extra-organism,Acetate,C2H3O2,-1,71-50-1,C2H4O2,C00033,3335
+ac[h],Chloroplast,Acetate,C2H3O2,-1,71-50-1,C2H4O2,C00033,3335
+ac[m],Mitochondria,Acetate,C2H3O2,-1,71-50-1,C2H4O2,C00033,3335
+ac[s],Eyespot,Acetate,C2H3O2,-1,71-50-1,C2H4O2,C00033,3335
+acac,Cytosol,Acetoacetate,C4H5O3,-1,541-50-4,C4H6O3,C00164,3464
+acac[m],Mitochondria,Acetoacetate,C4H5O3,-1,541-50-4,C4H6O3,C00164,3464
+acac[x],Glyoxysome,Acetoacetate,C4H5O3,-1,541-50-4,C4H6O3,C00164,3464
+acACP[h],Chloroplast,Acetyl-ACP,C2H3OSR,0, ,C2H3OSR,C03939,6663
+acald,Cytosol,Acetaldehyde,C2H4O,0,75-07-0,C2H4O,C00084,3384
+acald[h],Chloroplast,Acetaldehyde,C2H4O,0,75-07-0,C2H4O,C00084,3384
+acald[m],Mitochondria,Acetaldehyde,C2H4O,0,75-07-0,C2H4O,C00084,3384
+acald[x],Glyoxysome,Acetaldehyde,C2H4O,0,75-07-0,C2H4O,C00084,3384
+acaro[h],Chloroplast,alpha-Carotene,C40H56,0,7488-99-5,C40H56,C05433,7797
+acaro[u],Thylakoid Lumen,alpha-Carotene,C40H56,0,7488-99-5,C40H56,C05433,7797
+accoa,Cytosol,Acetyl-CoA,C23H34N7O17P3S,-4,72-89-9,C23H38N7O17P3S,C00024,3326
+accoa[h],Chloroplast,Acetyl-CoA,C23H34N7O17P3S,-4,72-89-9,C23H38N7O17P3S,C00024,3326
+accoa[m],Mitochondria,Acetyl-CoA,C23H34N7O17P3S,-4,72-89-9,C23H38N7O17P3S,C00024,3326
+accoa[s],Eyespot,Acetyl-CoA,C23H34N7O17P3S,-4,72-89-9,C23H38N7O17P3S,C00024,3326
+accoa[x],Glyoxysome,Acetyl-CoA,C23H34N7O17P3S,-4,72-89-9,C23H38N7O17P3S,C00024,3326
+acg5p,Cytosol,N-Acetyl-L-glutamyl 5-phosphate,C7H9NO8P,-3, ,C7H12NO8P,C04133,6819
+acg5sa,Cytosol,N-Acetyl-L-glutamate 5-semialdehyde,C7H10NO4,-1, ,C7H11NO4,C01250,4470
+acg5sa[m],Mitochondria,N-Acetyl-L-glutamate 5-semialdehyde,C7H10NO4,-1, ,C7H11NO4,C01250,4470
+acgam1p,Cytosol,N-Acetyl-D-glucosamine 1-phosphate,C8H14NO9P,-2, ,C8H16NO9P,C04256,6921
+acgam6p,Cytosol,N-Acetyl-D-glucosamine 6-phosphate,C8H14NO9P,-2,102029-88-9,C8H16NO9P,C00357,3650
+acglu,Cytosol,N-Acetyl-L-glutamate,C7H9NO5,-2,1188-37-0,C7H11NO5,C00624,3897
+achms,Cytosol,O-Acetyl-L-homoserine,C6H11NO4,0, ,C6H11NO4,C01077,4315
+achms[h],Chloroplast,O-Acetyl-L-homoserine,C6H11NO4,0, ,C6H11NO4,C01077,4315
+acorn,Cytosol,N2-Acetyl-L-ornithine,C7H14N2O3,0, ,C7H14N2O3,C00437,3726
+acorn[m],Mitochondria,N2-Acetyl-L-ornithine,C7H14N2O3,0, ,C7H14N2O3,C00437,3726
+ACP,Cytosol,acyl carrier protein,HSR,0, ,HSR,C00229,3528
+ACP[h],Chloroplast,acyl carrier protein,HSR,0, ,HSR,C00229,3528
+ACP[m],Mitochondria,acyl carrier protein,HSR,0, ,HSR,C00229,3528
+acser,Cytosol,O-Acetyl-L-serine,C5H9NO4,0,66638-22-0,C5H9NO4,C00979,4228
+acser[h],Chloroplast,O-Acetyl-L-serine,C5H9NO4,0,66638-22-0,C5H9NO4,C00979,4228
+acser[m],Mitochondria,O-Acetyl-L-serine,C5H9NO4,0,66638-22-0,C5H9NO4,C00979,4228
+actACP[h],Chloroplast,Acetoacetyl-ACP,C4H5O2SR,0, ,C4H5O2SR,C05744,8039
+actp[h],Chloroplast,Acetyl phosphate,C2H3O5P,-2,19926-71-7,C2H5O5P,C00227,3527
+actp[m],Mitochondria,Acetyl phosphate,C2H3O5P,-2,19926-71-7,C2H5O5P,C00227,3527
+ad,Cytosol,acetamide,C2H6NO,1,60-35-5,C2H5NO,C06244,8483
+ad[e],Extra-organism,acetamide,C2H6NO,1,60-35-5,C2H5NO,C06244,8483
+ade,Cytosol,Adenine,C5H5N5,0,73-24-5,C5H5N5,C00147,3447
+ade[e],Extra-organism,Adenine,C5H5N5,0,73-24-5,C5H5N5,C00147,3447
+adhlam[h],Chloroplast,S-Acetyldihydrolipoamide,C10H19NO2S2,0, ,C10H19NO2S2,C01136,4367
+adhlam[m],Mitochondria,S-Acetyldihydrolipoamide,C10H19NO2S2,0, ,C10H19NO2S2,C01136,4367
+adn,Cytosol,Adenosine,C10H13N5O4,0,58-61-7,C10H13N5O4,C00212,3512
+adn[m],Mitochondria,Adenosine,C10H13N5O4,0,58-61-7,C10H13N5O4,C00212,3512
+adp,Cytosol,ADP,C10H12N5O10P2,-3,58-64-0,C10H15N5O10P2,C00008,3310
+adp[f],Flagellum,ADP,C10H12N5O10P2,-3,58-64-0,C10H15N5O10P2,C00008,3310
+adp[h],Chloroplast,ADP,C10H12N5O10P2,-3,58-64-0,C10H15N5O10P2,C00008,3310
+adp[m],Mitochondria,ADP,C10H12N5O10P2,-3,58-64-0,C10H15N5O10P2,C00008,3310
+adp[n],Nucleus,ADP,C10H12N5O10P2,-3,58-64-0,C10H15N5O10P2,C00008,3310
+adpemtc[m],Mitochondria,ADP-5-ethyl-4-methylthiazole-2-carboxylate,C17H19N6O12P2S,-3, ,C17H22N6O12P2S,C20784, 
+adpglc[h],Chloroplast,ADPglucose,C16H23N5O15P2,-2, ,C16H25N5O15P2,C00498,3781
+adprib,Cytosol,ADPribose,C15H21N5O14P2,-2, ,C15H23N5O14P2,C00301,3595
+aflbala,Cytosol,alpha-Fluoro-beta-alanine,C3H6FNO2,0,3821-81-6,C3H6FNO2,C16632,51090958
+aflburppa,Cytosol,alpha-Fluoro-beta-ureidopropionic acid,C4H7FN2O3,0,5006-64-4,C4H7FN2O3,C16631,51090957
+agm[m],Mitochondria,Agmatine,C5H16N4,2,306-60-5,C5H14N4,C00179,3479
+agm[n],Nucleus,Agmatine,C5H16N4,2,306-60-5,C5H14N4,C00179,3479
+ahcys,Cytosol,S-Adenosyl-L-homocysteine,C14H20N6O5S,0,979-92-0,C14H20N6O5S,C00021,3323
+ahcys[g],Golgi Apparatus,S-Adenosyl-L-homocysteine,C14H20N6O5S,0,979-92-0,C14H20N6O5S,C00021,3323
+ahcys[h],Chloroplast,S-Adenosyl-L-homocysteine,C14H20N6O5S,0,979-92-0,C14H20N6O5S,C00021,3323
+ahcys[m],Mitochondria,S-Adenosyl-L-homocysteine,C14H20N6O5S,0,979-92-0,C14H20N6O5S,C00021,3323
+ahcys[n],Nucleus,S-Adenosyl-L-homocysteine,C14H20N6O5S,0,979-92-0,C14H20N6O5S,C00021,3323
+ahdt,Cytosol,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridinetriphosphate",C9H11N5O13P3,-5, ,C9H16N5O13P3,C04895,7446
+aicar,Cytosol,5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide,C9H13N4O8P,-2,3031-94-5,C9H15N4O8P,C04677,7258
+aicar[h],Chloroplast,5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide,C9H13N4O8P,-2,3031-94-5,C9H15N4O8P,C04677,7258
+air,Cytosol,5-amino-1-(5-phospho-D-ribosyl)imidazole,C8H13N3O7P,-1,25635-88-5,C8H14N3O7P,C03373,6208
+air[h],Chloroplast,5-amino-1-(5-phospho-D-ribosyl)imidazole,C8H12N3O7P,-2,25635-88-5,C8H14N3O7P,C03373,6208
+akg,Cytosol,2-Oxoglutarate,C5H4O5,-2,328-50-7,C5H6O5,C00026,3328
+akg[h],Chloroplast,2-Oxoglutarate,C5H4O5,-2,328-50-7,C5H6O5,C00026,3328
+akg[m],Mitochondria,2-Oxoglutarate,C5H4O5,-2,328-50-7,C5H6O5,C00026,3328
+ala-B,Cytosol,beta-Alanine,C3H7NO2,0,107-95-9,C3H7NO2,C00099,3399
+ala-B[h],Chloroplast,beta-Alanine,C3H7NO2,0,107-95-9,C3H7NO2,C00099,3399
+ala-B[m],Mitochondria,beta-Alanine,C3H7NO2,0,107-95-9,C3H7NO2,C00099,3399
+alac-S[h],Chloroplast,(S)-2-Acetolactate,C5H7O4,-1, ,C5H8O4,C06010,8282
+alac-S[m],Mitochondria,(S)-2-Acetolactate,C5H7O4,-1, ,C5H8O4,C06010,8282
+ala-L,Cytosol,L-Alanine,C3H7NO2,0,56-41-7,C3H7NO2,C00041,3343
+ala-L[m],Mitochondria,L-Alanine,C3H7NO2,0,56-41-7,C3H7NO2,C00041,3343
+ala-L[x],Glyoxysome,L-Alanine,C3H7NO2,0,56-41-7,C3H7NO2,C00041,3343
+alatrna,Cytosol,L-Alanyl-tRNA(Ala),C13H22NO11PR2,0, ,C13H22NO11PR2,C00886,4142
+alatrna[m],Mitochondria,L-Alanyl-tRNA(Ala),C13H22NO11PR2,0, ,C13H22NO11PR2,C00886,4142
+allphn,Cytosol,Allophanate,C2H3N2O3,-1, ,C2H4N2O3,C01010,4255
+allphn[m],Mitochondria,Allophanate,C2H3N2O3,-1, ,C2H4N2O3,C01010,4255
+alltn,Cytosol,Allantoin,C4H5N4O3,-1,97-59-6,C4H6N4O3,C01551,4709
+alltn[e],Extra-organism,Allantoin,C4H5N4O3,-1,97-59-6,C4H6N4O3,C01551,4709
+alltn[m],Mitochondria,Allantoin,C4H4N4O3,-2,97-59-6,C4H6N4O3,C01551,4709
+alltt,Cytosol,Allantoate,C4H7N4O4,-1,99-16-1,C4H8N4O4,C00499,3782
+alltt[e],Extra-organism,Allantoate,C4H7N4O4,-1,99-16-1,C4H8N4O4,C00499,3782
+alltt[m],Mitochondria,Allantoate,C4H7N4O4,-1,99-16-1,C4H8N4O4,C00499,3782
+alpro[m],Mitochondria,S-Aminomethyldihydrolipoylprotein,C9H19N2OS2R,0, ,C9H19N2OS2R,C01242,4463
+amet,Cytosol,S-Adenosyl-L-methionine,C15H23N6O5S,1,29908-03-0,C15H22N6O5S,C00019,3321
+amet[g],Golgi Apparatus,S-Adenosyl-L-methionine,C15H23N6O5S,1,29908-03-0,C15H22N6O5S,C00019,3321
+amet[h],Chloroplast,S-Adenosyl-L-methionine,C15H23N6O5S,1,29908-03-0,C15H22N6O5S,C00019,3321
+amet[m],Mitochondria,S-Adenosyl-L-methionine,C15H23N6O5S,1,29908-03-0,C15H22N6O5S,C00019,3321
+amet[n],Nucleus,S-Adenosyl-L-methionine,C15H23N6O5S,1,29908-03-0,C15H22N6O5S,C00019,3321
+ametam,Cytosol,S-Adenosylmethioninamine,C14H24N6O3S,2, ,C14H23N6O3S,C01137,4368
+ametam[h],Chloroplast,S-Adenosylmethioninamine,C14H24N6O3S,2, ,C14H23N6O3S,C01137,4368
+ametam[m],Mitochondria,S-Adenosylmethioninamine,C14H24N6O3S,2, ,C14H23N6O3S,C01137,4368
+amob[m],Mitochondria,S-Adenosyl-4-methylthio-2-oxobutanoate,C15H19N5O6S,0, ,C15H20N5O6S,C04425,7057
+amp,Cytosol,AMP,C10H12N5O7P,-2,61-19-8,C10H14N5O7P,C00020,3322
+amp[f],Flagellum,AMP,C10H12N5O7P,-2,61-19-8,C10H14N5O7P,C00020,3322
+amp[h],Chloroplast,AMP,C10H12N5O7P,-2,61-19-8,C10H14N5O7P,C00020,3322
+amp[m],Mitochondria,AMP,C10H12N5O7P,-2,61-19-8,C10H14N5O7P,C00020,3322
+amp[n],Nucleus,AMP,C10H12N5O7P,-2,61-19-8,C10H14N5O7P,C00020,3322
+ampmp,Cytosol,4-Amino-2-methyl-5-phosphomethylpyrimidine,C6H8N3O4P,-2, ,C6H10N3O4P,C04556,7161
+ampmpp,Cytosol,2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate,C6H8N3O7P2,-3, ,C6H11N3O7P2,C04752,7322
+ans,Cytosol,Anserine,C10H16N4O3,0,584-85-0,C10H16N4O3,C01262,4481
+anth[h],Chloroplast,Anthranilate,C7H6NO2,-1,118-92-3,C7H7NO2,C00108,3408
+anxan[u],Thylakoid Lumen,Antheraxanthin,C40H56O3,0,640-03-9,C40H56O3,C08579,10772
+ap4a[n],Nucleus,"P1,P4-Bis(5'-adenosyl) tetraphosphate",C20H24N10O19P4,-4, ,C20H28N10O19P4,C01260,4479
+apoACP,Cytosol,Apo-[acyl-carrier-protein],HSR,0, ,HSR,C03688,6463
+apoACP[h],Chloroplast,Apo-[acyl-carrier-protein],HSR,0, ,HSR,C03688,6463
+apoACP[m],Mitochondria,Apo-[acyl-carrier-protein],HSR,0, ,HSR,C03688,6463
+apoCCP[h],Chloroplast,Apo-[carboxylase],C7H13N3O2R2,0, ,C7H13N3O2R2,C06249,8488
+apoCCP[m],Mitochondria,Apo-[carboxylase],C7H13N3O2R2,0, ,C7H13N3O2R2,C06249,8488
+apocytc[h],Chloroplast,Apocytochrome c,C8H12N4O4S2R4,0, ,C8H12N4O4S2R4,C02248,5311
+apocytc[m],Mitochondria,Apocytochrome c,C8H12N4O4S2R4,0, ,C8H12N4O4S2R4,C02248,5311
+apofetn[h],Chloroplast,Apoferritin,XFe,0, ,XFe,C05779,8074
+apotfen[h],Chloroplast,Apotransferrin,XH2Fe,0, ,XH2Fe,C05780,8075
+apppa[n],Nucleus,"P1,P3-Bis(5'-adenosyl) triphosphate",C20H24N10O16P3,-3, ,C20H27N10O16P3,C06197,8447
+aps,Cytosol,Adenosine 5'-phosphosulfate,C10H12N5O10PS,-2,485-84-7,C10H14N5O10PS,C00224,3524
+aps[h],Chloroplast,Adenosine 5'-phosphosulfate,C10H12N5O10PS,-2,485-84-7,C10H14N5O10PS,C00224,3524
+aps[m],Mitochondria,Adenosine 5'-phosphosulfate,C10H12N5O10PS,-2,485-84-7,C10H14N5O10PS,C00224,3524
+aps[n],Nucleus,Adenosine 5'-phosphosulfate,C10H12N5O10PS,-2,485-84-7,C10H14N5O10PS,C00224,3524
+arab-L,Cytosol,L-Arabinose,C5H10O5,0,147-81-9,C5H10O5,C00259,3558
+arg-L,Cytosol,L-Arginine,C6H15N4O2,1,74-79-3,C6H14N4O2,C00062,3362
+arg-L[e],Extra-organism,L-Arginine,C6H15N4O2,1,74-79-3,C6H14N4O2,C00062,3362
+arg-L[m],Mitochondria,L-Arginine,C6H15N4O2,1,74-79-3,C6H14N4O2,C00062,3362
+argsuc,Cytosol,N(omega)-(L-Arginino)succinate,C10H17N4O6,-1,2387-71-5,C10H18N4O6,C03406,6235
+argtrna,Cytosol,L-Arginyl-tRNA(Arg),C21H34N9O11PR,1, ,C21H33N9O11PR,C02163,5239
+aro-L,Cytosol,L-Arogenate,C10H11NO5,-2, ,C10H13NO5,C00826,4084
+aro-L[h],Chloroplast,L-Arogenate,C10H11NO5,-2, ,C10H13NO5,C00826,4084
+arso4,Cytosol,Aryl sulfate,C6H6O4S,0, ,C6H6O4S,C00850,4107
+ascb-L,Cytosol,Ascorbate,C6H7O6,-1,50-81-7,C6H8O6,C00072,3372
+ascb-L[e],Extra-organism,Ascorbate,C6H7O6,-1,50-81-7,C6H8O6,C00072,3372
+ascb-L[h],Chloroplast,Ascorbate,C6H7O6,-1,50-81-7,C6H8O6,C00072,3372
+ascb-L[m],Mitochondria,Ascorbate,C6H7O6,-1,50-81-7,C6H8O6,C00072,3372
+ascb-L[u],Thylakoid Lumen,Ascorbate,C6H7O6,-1,50-81-7,C6H8O6,C00072,3372
+asnglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanman,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C75H123N5O58R2,0, ,C75H123N5O58R2,G00011,124490646
+asnglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanmanglc,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man(3-a1)Glc,C81H133N5O63R2,0, ,C81H133N5O63R2,G00010,124490645
+asnglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanmanglcglc,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man(3-a1)Glc(3-a1)Glc,C87H143N5O68R2,0, ,C87H143N5O68R2,G00171,124490794
+asnglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanmanglcglcglc,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man(3-a1)Glc(3-a1)Glc(2-a1)Glc,C93H153N5O73R2,0, ,C93H153N5O73R2,G00009,124490644
+asnglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-man-RPAREN-man-LPAREN-man-RPAREN-manman,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man](3-a1)Man[(6-a1)Man](2-a1)Man(2-a1)Man,C75H123N5O58R2,0, ,C75H123N5O58R2,G01813,124492168
+asnglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-man-RPAREN-manmanman,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C69H113N5O53R2,0, ,C69H113N5O53R2,G10694,124499806
+asnglcnacglcnacman-LPAREN-man-LPAREN-man-RPAREN-man-RPAREN-man,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man](3-a1)Man](3-a1)Man,C51H83N5O38R2,0, ,C51H83N5O38R2,G00012,124490647
+asnglcnacglcnacman-LPAREN-man-RPAREN-man,Cytosol,Asn(-b1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man](3-a1)Man,C39H63N5O28R2,0, ,C39H63N5O28R2,G10652,124499788
+asn-L,Cytosol,L-Asparagine,C4H8N2O3,0,70-47-3,C4H8N2O3,C00152,3452
+asn-L[m],Mitochondria,L-Asparagine,C4H7N2O3,-1,70-47-3,C4H8N2O3,C00152,3452
+asn-L[x],Glyoxysome,L-Asparagine,C4H7N2O3,-1,70-47-3,C4H8N2O3,C00152,3452
+asntrna,Cytosol,L-Asparaginyl-tRNA(Asn),C14H23N2O12PR2,0, ,C14H23N2O12PR2,C03402,6232
+asntrna[m],Mitochondria,L-Asparaginyl-tRNA(Asn),C14H23N2O12PR2,0, ,C14H23N2O12PR2,C03402,6232
+Asn-X-Ser-FSLASH-Thr,Cytosol,protein-linked asparagine residue (N-glycosylation site),C5H7N3O3R2,0, ,C5H7N3O3R2,C03021,5927
+asp-L,Cytosol,L-Aspartate,C4H6NO4,-1,56-84-8,C4H7NO4,C00049,3351
+asp-L[h],Chloroplast,L-Aspartate,C4H6NO4,-1,56-84-8,C4H7NO4,C00049,3351
+asp-L[m],Mitochondria,L-Aspartate,C4H6NO4,-1,56-84-8,C4H7NO4,C00049,3351
+asp-L[x],Glyoxysome,L-Aspartate,C4H6NO4,-1,56-84-8,C4H7NO4,C00049,3351
+aspsa,Cytosol,L-Aspartate 4-semialdehyde,C4H7NO3,0, ,C4H7NO3,C00441,3730
+aspsa[h],Chloroplast,L-Aspartate 4-semialdehyde,C4H7NO3,0, ,C4H7NO3,C00441,3730
+asptrna,Cytosol,L-Aspartyl-tRNA(Asp),C14H21NO13PR2,-1, ,C14H22NO13PR2,C02984,5893
+asptrna[m],Mitochondria,L-Aspartyl-tRNA(Asp),C14H21NO13PR2,-1, ,C14H22NO13PR2,C02984,5893
+asqdca18111Z160,Cytosol,"2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:1(11Z)/16:0)",C61H105O13S,-1, ,C61H106O13S, , 
+asqdca1819Z160,Cytosol,"2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:1(9Z)/16:0)",C61H105O13S,-1, ,C61H106O13S, , 
+asqdca1829Z12Z160,Cytosol,"2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:2(9Z,12Z)/16:0)",C61H103O13S,-1, ,C61H104O13S, , 
+asqdca1839Z12Z15Z160,Cytosol,"2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:3(9Z,12Z,15Z)/16:0)",C61H101O13S,-1, ,C61H102O13S, , 
+asqdpa18111Z160,Cytosol,"2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:1(11Z)/16:0)",C61H107O13S,-1, ,C61H108O13S, , 
+asqdpa1819Z160,Cytosol,"2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:1(9Z)/16:0)",C61H107O13S,-1, ,C61H108O13S, , 
+asqdpa1829Z12Z160,Cytosol,"2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:2(9Z,12Z)/16:0)",C61H105O13S,-1, ,C61H106O13S, , 
+asqdpa1839Z12Z15Z160,Cytosol,"2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:3(9Z,12Z,15Z)/16:0)",C61H103O13S,-1, ,C61H104O13S, , 
+atp,Cytosol,ATP,C10H12N5O13P3,-4,56-65-5,C10H16N5O13P3,C00002,3304
+atp[f],Flagellum,ATP,C10H12N5O13P3,-4,56-65-5,C10H16N5O13P3,C00002,3304
+atp[h],Chloroplast,ATP,C10H12N5O13P3,-4,56-65-5,C10H16N5O13P3,C00002,3304
+atp[m],Mitochondria,ATP,C10H12N5O13P3,-4,56-65-5,C10H16N5O13P3,C00002,3304
+atp[n],Nucleus,ATP,C10H12N5O13P3,-4,56-65-5,C10H16N5O13P3,C00002,3304
+avite1[h],Chloroplast,alpha-Tocopherol,C29H50O2,0,59-02-9,C29H50O2,C02477,5492
+b2coa,Cytosol,Crotonoyl-CoA,C25H36N7O17P3S,-4,102680-35-3,C25H40N7O17P3S,C00877,4133
+b2coa[m],Mitochondria,Crotonoyl-CoA,C25H36N7O17P3S,-4,102680-35-3,C25H40N7O17P3S,C00877,4133
+b2coa[x],Glyoxysome,Crotonoyl-CoA,C25H36N7O17P3S,-4,102680-35-3,C25H40N7O17P3S,C00877,4133
+bamppald[h],Chloroplast,beta-Aminopropion aldehyde,C3H8NO,1,608-07-1,C3H7NO,C05665,7975
+B-ara1p,Cytosol,beta-L-Arabinose 1-phosphate,C5H9O8P,-2, ,C5H11O8P,C03906,6637
+bathorhodopsin[s],Eyespot,Bathorhodopsin,C20H28R,0, ,C20H28R,C05914,8202
+bcrptxan[u],Thylakoid Lumen,beta-Cryptoxanthin,C40H56O,0,472-70-8,C40H56O,C08591,10784
+bhb[m],Mitochondria,(R)-3-Hydroxybutanoate,C4H7O3,-1, ,C4H8O3,C01089,4324
+bhb[x],Glyoxysome,(R)-3-Hydroxybutanoate,C4H7O3,-1, ,C4H8O3,C01089,4324
+bilirub[h],Chloroplast,Bilirubin,C33H34N4O6,-2,635-65-4,C33H36N4O6,C00486,3769
+biliverd,Cytosol,Biliverdin,C33H32N4O6,-2,114-25-0,C33H34N4O6,C00500,3783
+biliverd[e],Extra-organism,Biliverdin,C33H32N4O6,-2,114-25-0,C33H34N4O6,C00500,3783
+biliverd[h],Chloroplast,Biliverdin,C33H32N4O6,-2,114-25-0,C33H34N4O6,C00500,3783
+btal,Cytosol,Butanal,C4H8O,0,123-72-8,C4H8O,C01412,4600
+btal[h],Chloroplast,Butanal,C4H8O,0,123-72-8,C4H8O,C01412,4600
+btcoa,Cytosol,Butanoyl-CoA,C25H38N7O17P3S,-4, ,C25H42N7O17P3S,C00136,3436
+btcoa[h],Chloroplast,Butanoyl-CoA,C25H38N7O17P3S,-4, ,C25H42N7O17P3S,C00136,3436
+btcoa[m],Mitochondria,Butanoyl-CoA,C25H38N7O17P3S,-4, ,C25H42N7O17P3S,C00136,3436
+btcoa[x],Glyoxysome,Butanoyl-CoA,C25H38N7O17P3S,-4, ,C25H42N7O17P3S,C00136,3436
+btn,Cytosol,Biotin,C10H15N2O3S,-1, ,C10H16N2O3S,C00120,3420
+btn[h],Chloroplast,Biotin,C10H15N2O3S,-1, ,C10H16N2O3S,C00120,3420
+btn[m],Mitochondria,Biotin,C10H15N2O3S,-1, ,C10H16N2O3S,C00120,3420
+btnamp[h],Chloroplast,Biotinyl-5'-AMP,C20H27N7O9PS,-1, ,C20H28N7O9PS,C05921,8209
+btnamp[m],Mitochondria,Biotinyl-5'-AMP,C20H27N7O9PS,-1, ,C20H28N7O9PS,C05921,8209
+btnCCP[h],Chloroplast,Holo-[carboxylase],C17H27N5O4SR2,0, ,C17H27N5O4SR2,C06250,8489
+btnCCP[m],Mitochondria,Holo-[carboxylase],C17H27N5O4SR2,0, ,C17H27N5O4SR2,C06250,8489
+but,Cytosol,Butyrate (n-C4:0),C4H7O2,-1,107-92-6,C4H8O2,C00246,3545
+but2eACP[h],Chloroplast,But-2-enoyl-[acyl-carrier protein],C4H5OSR,0,128-33-6,C4H5OSR,C04246,6911
+butACP[h],Chloroplast,Butyryl-ACP (n-C4:0ACP),C4H7OSR,0, ,C4H7OSR,C05745,8040
+bvite[h],Chloroplast,beta-Tocopherol,C28H48O2,0,148-03-8,C28H48O2,C14152,7846964
+ca,Cytosol,"coniferonic acid (18:4(5Z,9Z,12Z,15Z))",C18H28O2,0, ,C18H28O2, ,242081957
+cacoa,Cytosol,coniferonyl-coa,C39H58N7O17P3S,-4, ,C39H62N7O17P3S,C02843,5783
+cala,Cytosol,N-Carbamoyl-beta-alanine,C4H8N2O3,0, ,C4H8N2O3,C02642,5621
+callose,Cytosol,"1,3-beta-D-Glucan (Callose)",C12H22O11,0, ,C12H22O11, C00965,4216
+callose[f],Flagellum,"1,3-beta-D-Glucan (Callose)",C12H22O11,0, ,C12H22O11, C00965,4216
+camp,Cytosol,cAMP,C10H11N5O6P,-1,60-92-4,C10H12N5O6P,C00575,3854
+camp[n],Nucleus,cAMP,C10H11N5O6P,-1,60-92-4,C10H12N5O6P,C00575,3854
+carn,Cytosol,L-Carnosine,C9H14N4O3,0,305-84-0,C9H14N4O3,C00386,3676
+caro[h],Chloroplast,beta-Carotene,C40H56,0,7235-40-7,C40H56,C02094,5178
+caro[u],Thylakoid Lumen,beta-Carotene,C40H56,0,7235-40-7,C40H56,C02094,5178
+cat,Cytosol,Calcitriol,C27H44O3,0,32222-06-3,C27H44O3,C01673,4817
+cbasp,Cytosol,N-Carbamoyl-L-aspartate,C5H7N2O5,-1, ,C5H8N2O5,C00438,3727
+cbasp[m],Mitochondria,N-Carbamoyl-L-aspartate,C5H7N2O5,-1, ,C5H8N2O5,C00438,3727
+cbmp[m],Mitochondria,N-carbamoylputrescine,C5H15N3O,2,6851-51-0,C5H13N3O,C00436,3725
+cbmp[n],Nucleus,N-carbamoylputrescine,C5H15N3O,2,6851-51-0,C5H13N3O,C00436,3725
+cbp,Cytosol,Carbamoyl phosphate,CH2NO5P,-2, ,CH4NO5P,C00169,3469
+cbp[h],Chloroplast,Carbamoyl phosphate,CH2NO5P,-2, ,CH4NO5P,C00169,3469
+cbp[m],Mitochondria,Carbamoyl phosphate,CH2NO5P,-2, ,CH4NO5P,C00169,3469
+cbtnCCP[h],Chloroplast,Carboxybiotin-carboxyl-carrier protein,C18H26N5O6SR2,0, ,C18H26N5O6SR2,C04419,7051
+cbtnCCP[m],Mitochondria,Carboxybiotin-carboxyl-carrier protein,C18H26N5O6SR2,0, ,C18H26N5O6SR2,C04419,7051
+cdp,Cytosol,CDP,C9H12N3O11P2,-3,63-38-7,C9H15N3O11P2,C00112,3412
+cdp[f],Flagellum,CDP,C9H12N3O11P2,-3,63-38-7,C9H15N3O11P2,C00112,3412
+cdp[h],Chloroplast,CDP,C9H12N3O11P2,-3,63-38-7,C9H15N3O11P2,C00112,3412
+cdp[m],Mitochondria,CDP,C9H12N3O11P2,-3,63-38-7,C9H15N3O11P2,C00112,3412
+cdp12dgr18111Z160,Cytosol,"CDP-1-(9Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol",C46H83N3O15P2,0, ,C46H83N3O15P2,C00269,3567
+cdp12dgr18111Z160[h],Chloroplast,"CDP-1-(9Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol",C46H83N3O15P2,0, ,C46H83N3O15P2,C00269,3567
+cdp12dgr1819Z160,Cytosol,"CDP-1-(11Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol",C46H83N3O15P2,0, ,C46H83N3O15P2,C00269,3567
+cdp12dgr1819Z160[h],Chloroplast,"CDP-1-(11Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol",C46H83N3O15P2,0, ,C46H83N3O15P2,C00269,3567
+cdpea,Cytosol,CDPethanolamine,C11H19N4O11P2,-1, ,C11H20N4O11P2,C00570,3849
+cer,Cytosol,Ceramide,C34H67NO3,0, ,C34H67NO3,C00195,3495
+chla[h],Chloroplast,Chlorophyll a,C55H72MgN4O5,0,479-61-8,C55H72MgN4O5,C05306,7688
+chla[u],Thylakoid Lumen,Chlorophyll a,C55H72MgN4O5,0,479-61-8,C55H72MgN4O5,C05306,7688
+chlaemr[u],Thylakoid Lumen,Chlorophyll a',C55H72MgN4O5,0, ,C55H72MgN4O5, ,6449992
+chlb[u],Thylakoid Lumen,Chlorophyll b,C55H70MgN4O6,0,519-62-0,C55H70MgN4O6,C05307,7689
+chlda[h],Chloroplast,Chlorophyllide a,C35H34MgN4O5,0,14897-06-4,C35H34MgN4O5,C02139,5218
+chlda[u],Thylakoid Lumen,Chlorophyllide a,C35H34MgN4O5,0,14897-06-4,C35H34MgN4O5,C02139,5218
+chldb[h],Chloroplast,Chlorophyllide b,C35H32MgN4O6,0, ,C35H32MgN4O6,C16541,51090870
+chldb[u],Thylakoid Lumen,Chlorophyllide b,C35H32MgN4O6,0, ,C35H32MgN4O6,C16541,51090870
+chlstol,Cytosol,"5alpha-Cholesta-7,24-dien-3beta-ol",C27H44O,0,7488-99-5,C27H44O,C05439,7801
+chor,Cytosol,chorismate,C10H8O6,-2,55508-12-8,C10H10O6,C00251,3550
+chor[h],Chloroplast,chorismate,C10H8O6,-2,55508-12-8,C10H10O6,C00251,3550
+chsterol,Cytosol,Cholesterol,C27H46O,0,57-88-5,C27H46O,C00187,3487
+cit,Cytosol,Citrate,C6H5O7,-3,77-92-9,C6H8O7,C00158,3458
+cit[m],Mitochondria,Citrate,C6H5O7,-3,77-92-9,C6H8O7,C00158,3458
+cit[x],Glyoxysome,Citrate,C6H5O7,-3,77-92-9,C6H8O7,C00158,3458
+cital,Cytosol,Citalopram,C20H22FN2O,1,59729-33-8,C20H21FN2O,C07572,9775
+cital[e],Extra-organism,Citalopram,C20H22FN2O,1,59729-33-8,C20H21FN2O,C07572,9775
+citalald,Cytosol,Citalopram aldehyde,C18H14FNO2,0, ,C18H14FNO2,C16612,51090938
+citalo,Cytosol,Citalopram N-oxide,C20H21FN2O2,0, ,C20H21FN2O2,C16607,51090933
+citalppa,Cytosol,Citalopram propionic acid,C18H13FNO3,-1, ,C18H14FNO3,C16610,51090936
+citr-L,Cytosol,L-Citrulline,C6H14N3O3,1,372-75-8,C6H13N3O3,C00327,3621
+citr-L[h],Chloroplast,L-Citrulline,C6H14N3O3,1,372-75-8,C6H13N3O3,C00327,3621
+citr-L[m],Mitochondria,L-Citrulline,C6H14N3O3,1,372-75-8,C6H13N3O3,C00327,3621
+cmp,Cytosol,CMP,C9H12N3O8P,-2,63-37-6,C9H14N3O8P,C00055,3357
+cmp[f],Flagellum,CMP,C9H12N3O8P,-2,63-37-6,C9H14N3O8P,C00055,3357
+cmp[h],Chloroplast,CMP,C9H12N3O8P,-2,63-37-6,C9H14N3O8P,C00055,3357
+cmtep,Cytosol,2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate,C7H7NO6PS,-3, ,C7H10NO6PS,C20247,163311990
+cmtep[m],Mitochondria,2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate,C7H7NO6PS,-3, ,C7H10NO6PS,C20247,163311990
+co,Cytosol,Carbon monoxide,CO,0, ,CO,C00237,3536
+co[e],Extra-organism,Carbon monoxide,CO,0, ,CO,C00237,3536
+co[h],Chloroplast,Carbon monoxide,CO,0, ,CO,C00237,3536
+co2,Cytosol,CO2,CO2,0,124-38-9,CO2,C00011,3313
+co2[e],Extra-organism,CO2,CO2,0,124-38-9,CO2,C00011,3313
+co2[h],Chloroplast,CO2,CO2,0,124-38-9,CO2,C00011,3313
+co2[m],Mitochondria,CO2,CO2,0,124-38-9,CO2,C00011,3313
+co2[x],Glyoxysome,CO2,CO2,0,124-38-9,CO2,C00011,3313
+coa,Cytosol,Coenzyme A,C21H32N7O16P3S,-4,85-61-0,C21H36N7O16P3S,C00010,3312
+coa[h],Chloroplast,Coenzyme A,C21H32N7O16P3S,-4,85-61-0,C21H36N7O16P3S,C00010,3312
+coa[m],Mitochondria,Coenzyme A,C21H32N7O16P3S,-4,85-61-0,C21H36N7O16P3S,C00010,3312
+coa[s],Eyespot,Coenzyme A,C21H32N7O16P3S,-4,85-61-0,C21H36N7O16P3S,C00010,3312
+coa[x],Glyoxysome,Coenzyme A,C21H32N7O16P3S,-4,85-61-0,C21H36N7O16P3S,C00010,3312
+cpp1[h],Chloroplast,Coproporphyrin I,C36H34N4O8,-4, ,C36H38N4O8,C05769,8064
+cpp3[h],Chloroplast,Coproporphyrin III,C36H34N4O8,-4, ,C36H38N4O8,C05770,8065
+cpppg1[h],Chloroplast,Coproporphyrinogen I,C36H40N4O8,-4, ,C36H44N4O8,C05768,8063
+cpppg3[h],Chloroplast,Coproporphyrinogen III,C36H40N4O8,-4,2624-63-7,C36H44N4O8,C03263,6127
+crpxan[u],Thylakoid Lumen,alpha-Cryptoxanthin,C40H56O,0, ,C40H56O,C15981,47205294
+csn,Cytosol,Cytosine,C4H5N3O,0,71-30-7,C4H5N3O,C00380,3670
+ctp,Cytosol,CTP,C9H12N3O14P3,-4,65-47-4,C9H16N3O14P3,C00063,3363
+ctp[h],Chloroplast,CTP,C9H12N3O14P3,-4,65-47-4,C9H16N3O14P3,C00063,3363
+ctp[m],Mitochondria,CTP,C9H12N3O14P3,-4,65-47-4,C9H16N3O14P3,C00063,3363
+cyart,Cytosol,Cycloartenol,C30H50O,0,469-38-5,C30H50O,C01902,5012
+cyeuol,Cytosol,Cycloeucalenol,C30H50O,0,469-39-6,C30H50O,C02141,5220
+cys-D[h],Chloroplast,D-Cysteine,C3H7NO2S,0,52-90-4,C3H7NO2S,C00793,3397
+cys-D[m],Mitochondria,D-Cysteine,C3H7NO2S,0,52-90-4,C3H7NO2S,C00793,3397
+cys-gly,Cytosol,L-Cysteinylglycine,C5H9N2O3S,-1, ,C5H10N2O3S,C01419,4606
+cys-L,Cytosol,L-Cysteine,C3H7NO2S,0,52-90-4,C3H7NO2S,C00097,3397
+cys-L[h],Chloroplast,L-Cysteine,C3H7NO2S,0,52-90-4,C3H7NO2S,C00097,3397
+cys-L[m],Mitochondria,L-Cysteine,C3H7NO2S,0,52-90-4,C3H7NO2S,C00097,3397
+cyst-L[h],Chloroplast,L-Cystathionine,C7H14N2O4S,0,56-88-2,C7H14N2O4S,C02291,5347
+cystrna,Cytosol,L-Cysteinyl-tRNA(Cys),C18H26N6O11PSR,0, ,C18H26N6O11PSR,C03125,6018
+cytc[h],Chloroplast,Cytochrome c,C42H44FeN8O8S2R4,0,9007-43-6,C42H44FeN8O8S2R4,C00524,3807
+cytc[m],Mitochondria,Cytochrome c,C42H44FeN8O8S2R4,0,9007-43-6,C42H44FeN8O8S2R4,C00524,3807
+cytd,Cytosol,Cytidine,C9H13N3O5,0,65-46-3,C9H13N3O5,C00475,3758
+cytP450o,Cytosol,Oxidized flavoprotein (cytochrome P-450),X,0, ,X,C03161,6046
+cytP450o[h],Chloroplast,Oxidized flavoprotein (cytochrome P-450),X,0, ,X,C03161,6046
+cytP450r,Cytosol,Reduced flavoprotein (cytochrome P-450),XH2,0, ,XH2,C03024,5930
+cytP450r[h],Chloroplast,Reduced flavoprotein (cytochrome P-450),XH2,0, ,XH2,C03024,5930
+dad-2,Cytosol,Deoxyadenosine,C10H13N5O3,0,958-09-8,C10H13N5O3,C00559,3839
+dad-5,Cytosol,5'-Deoxyadenosine,C10H13N5O3,0, ,C10H13N5O3,C05198,7603
+dad-5[h],Chloroplast,5'-Deoxyadenosine,C10H13N5O3,0, ,C10H13N5O3,C05198,7603
+dad-5[m],Mitochondria,5'-Deoxyadenosine,C10H13N5O3,0, ,C10H13N5O3,C05198,7603
+dadp,Cytosol,dADP,C10H12N5O9P2,-3, ,C10H15N5O9P2,C00206,3506
+dadp[h],Chloroplast,dADP,C10H12N5O9P2,-3, ,C10H15N5O9P2,C00206,3506
+dadp[m],Mitochondria,dADP,C10H12N5O9P2,-3, ,C10H15N5O9P2,C00206,3506
+damp,Cytosol,dAMP,C10H12N5O6P,-2,653-63-4,C10H14N5O6P,C00360,3651
+damp[h],Chloroplast,dAMP,C10H12N5O6P,-2,653-63-4,C10H14N5O6P,C00360,3651
+damp[m],Mitochondria,dAMP,C10H12N5O6P,-2,653-63-4,C10H14N5O6P,C00360,3651
+dann[m],Mitochondria,"7,8-Diaminononanoate",C9H21N2O2,1,Cytosol,C9H20N2O2,C01037,4280
+datp,Cytosol,dATP,C10H12N5O12P3,-4,1927-31-7,C10H16N5O12P3,C00131,3431
+datp[m],Mitochondria,dATP,C10H12N5O12P3,-4,1927-31-7,C10H16N5O12P3,C00131,3431
+db4p[h],Chloroplast,"3,4-dihydroxy-2-butanone 4-phosphate",C4H7O6P,-2, ,C4H9O6P,C15556,17396548
+dc2coa[m],Mitochondria,trans-Dec-2-enoyl-CoA,C31H48N7O17P3S,-4, ,C31H52N7O17P3S,C05275,7662
+dc2coa[x],Glyoxysome,trans-Dec-2-enoyl-CoA,C31H48N7O17P3S,-4, ,C31H52N7O17P3S,C05275,7662
+dca[h],Chloroplast,Decanoate (n-C10:0),C10H19O2,-1,334-48-5,C10H20O2,C01571,4728
+dcaACP[h],Chloroplast,Decanoyl-ACP (n-C10:0ACP),C10H19OSR,0, ,C10H19OSR,C05755,8050
+dcacoa[m],Mitochondria,Decanoyl-CoA (n-C10:0CoA),C31H50N7O17P3S,-4, ,C31H54N7O17P3S,C05274,7661
+dcacoa[x],Glyoxysome,Decanoyl-CoA (n-C10:0CoA),C31H50N7O17P3S,-4, ,C31H54N7O17P3S,C05274,7661
+dcamp,Cytosol,"N6-(1,2-Dicarboxyethyl)-AMP",C14H14N5O11P,-4,19046-78-7,C14H18N5O11P,C03794,6543
+dcamp[h],Chloroplast,"N6-(1,2-Dicarboxyethyl)-AMP",C14H14N5O11P,-4,19046-78-7,C14H18N5O11P,C03794,6543
+dcaro[h],Chloroplast,delta-Carotene,C40H56,0,472-92-4,C40H56,C08586,10779
+dcdp,Cytosol,dCDP,C9H12N3O10P2,-3, ,C9H15N3O10P2,C00705,3972
+dcdp[f],Flagellum,dCDP,C9H12N3O10P2,-3, ,C9H15N3O10P2,C00705,3972
+dcdp[m],Mitochondria,dCDP,C9H12N3O10P2,-3, ,C9H15N3O10P2,C00705,3972
+dcmp,Cytosol,dCMP,C9H12N3O7P,-2,1032-65-1,C9H14N3O7P,C00239,3538
+dcmp[f],Flagellum,dCMP,C9H12N3O7P,-2,1032-65-1,C9H14N3O7P,C00239,3538
+dcphytfl[h],Chloroplast,"15,9'-dicis-Phytofluene",C40H62,0, ,C40H62,C19765,135626232
+dctp,Cytosol,dCTP,C9H12N3O13P3,-4,2056-98-6,C9H16N3O13P3,C00458,3742
+dctp[m],Mitochondria,dCTP,C9H12N3O13P3,-4,2056-98-6,C9H16N3O13P3,C00458,3742
+dcyt,Cytosol,Deoxycytidine,C9H13N3O4,0,951-77-9,C9H13N3O4,C00881,4137
+dczcar[h],Chloroplast,"9,9'-dicis-zeta-Carotene",C40H60,0, ,C40H60,C15857,47205177
+dd2coa[m],Mitochondria,trans-Dodec-2-enoyl-CoA,C33H52N7O17P3S,-4, ,C33H56N7O17P3S,C03221,6094
+dd2coa[x],Glyoxysome,trans-Dodec-2-enoyl-CoA,C33H52N7O17P3S,-4, ,C33H56N7O17P3S,C03221,6094
+ddca[h],Chloroplast,Dodecanoate (n-C12:0),C12H23O2,-1,143-07-7,C12H24O2,C02679,5649
+ddcaACP[h],Chloroplast,Dodecanoyl-ACP (n-C12:0ACP),C12H23OSR,0, ,C12H23OSR,C05223,7620
+ddcacoa[m],Mitochondria,Dodecanoyl-CoA (n-C12:0CoA),C33H54N7O17P3S,-4,6244-92-4,C33H58N7O17P3S,C01832,4951
+ddcacoa[x],Glyoxysome,Dodecanoyl-CoA (n-C12:0CoA),C33H54N7O17P3S,-4,6244-92-4,C33H58N7O17P3S,C01832,4951
+ddmcital,Cytosol,Didemethylcitalopram,C18H18FN2O,1,62498-69-5,C18H17FN2O,C16609,51090935
+ddsmsterol,Cytosol,7-Dehydrodesmosterol,C27H42O,0,59865-13-3,C27H42O,C05107,7533
+dedoldp,Cytosol,Dehydrodolichol diphosphate,C55H89O7P2,-3, ,C55H92O7P2,C05859,8152
+degly[e],Extra-organism,"N,N-Diethylglycine",C6H13NO2,0, ,C6H13NO2,C16647,51090971
+dgdg1819Z160[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C49H90O15,0, ,C49H90O15,C06037,8309
+dgdg1819Z1617Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z)-hexadecenoyl, 18:1(9Z)/16:1(7Z))",C49H88O15,0, ,C49H88O15,C06037,8309
+dgdg1819Z1619Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl, 18:1(9Z)/16:1(9Z))",C49H88O15,0, ,C49H88O15,C06037,8309
+dgdg1819Z1627Z10Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z,10Z)-hexadecadienoyl, 18:1(9Z)/16:2(7Z,10Z))",C49H86O15,0, ,C49H86O15,C06037,8309
+dgdg1819Z1634Z7Z10Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:1(9Z)/16:3(4Z,7Z,10Z))",C49H84O15,0, ,C49H84O15,C06037,8309
+dgdg1819Z1637Z10Z13Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:1(9Z)/16:3(7Z,10Z,13Z))",C49H84O15,0, ,C49H84O15,C06037,8309
+dgdg1829Z12Z160[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)",C49H88O15,0, ,C49H88O15,C06037,8309
+dgdg1829Z12Z1617Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(7Z))",C49H86O15,0, ,C49H86O15,C06037,8309
+dgdg1829Z12Z1619Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(9Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(9Z))",C49H86O15,0, ,C49H86O15,C06037,8309
+dgdg1829Z12Z1627Z10Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:2(9Z,12Z)/16:2(7Z,10Z))",C49H84O15,0, ,C49H84O15,C06037,8309
+dgdg1829Z12Z1634Z7Z10Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(4Z,7Z,10Z))",C49H82O15,0, ,C49H82O15,C06037,8309
+dgdg1829Z12Z1637Z10Z13Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(7Z,10Z,13Z))",C49H82O15,0, ,C49H82O15,C06037,8309
+dgdg1839Z12Z15Z160[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)",C49H86O15,0, ,C49H86O15,C06037,8309
+dgdg1839Z12Z15Z1627Z10Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:3(9Z,12Z,15Z)/16:2(7Z,10Z))",C49H82O15,0, ,C49H82O15,C06037,8309
+dgdg1839Z12Z15Z1634Z7Z10Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(4Z,7Z,10Z))",C49H80O15,0, ,C49H80O15,C06037,8309
+dgdg1839Z12Z15Z1637Z10Z13Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(7Z,10Z,13Z))",C49H80O15,0, ,C49H80O15,C06037,8309
+dgdg1839Z12Z15Z1644Z7Z10Z13Z[h],Chloroplast,"Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:3(9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))",C49H78O15,0, ,C49H78O15,C06037,8309
+dgdp,Cytosol,dGDP,C10H12N5O10P2,-3, ,C10H15N5O10P2,C00361,3652
+dgdp[m],Mitochondria,dGDP,C10H11N5O10P2,-4, ,C10H15N5O10P2,C00361,3652
+dghs16018111Z,Cytosol,diacylglycerolhomoserine (16:0/18:1(11Z)),C41H77NO7,0, ,C41H77NO7, C18168,96024384
+dghs1601819Z,Cytosol,diacylglycerolhomoserine (16:0/18:1(9Z)),C41H77NO7,0, ,C41H77NO7, C18168,96024384
+dghs18111Z18111Z,Cytosol,diacylglycerolhomoserine (18:1(11Z)/18:1(11Z)),C43H79NO7,0, ,C43H79NO7, C18168,96024384
+dghs18111Z1819Z,Cytosol,diacylglycerolhomoserine (18:1(11Z)/18:1(9Z)),C43H79NO7,0, ,C43H79NO7, C18168,96024384
+dghs1819Z18111Z,Cytosol,diacylglycerolhomoserine (18:1(9Z)/18:1(11Z)),C43H79NO7,0, ,C43H79NO7, C18168,96024384
+dghs1819Z1819Z,Cytosol,diacylglycerolhomoserine (18:1(9Z)/18:1(9Z)),C43H79NO7,0, ,C43H79NO7, C18168,96024384
+dgmp,Cytosol,dGMP,C10H12N5O7P,-2,902-04-5,C10H14N5O7P,C00362,3653
+dgsn,Cytosol,Deoxyguanosine,C10H13N5O4,0,961-07-9,C10H13N5O4,C00330,3624
+dgtp,Cytosol,dGTP,C10H12N5O13P3,-4,2564-35-4,C10H16N5O13P3,C00286,3581
+dgtp[m],Mitochondria,dGTP,C10H12N5O13P3,-4,2564-35-4,C10H16N5O13P3,C00286,3581
+dgts16018111Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:1(11Z))",C44H83NO7,0, ,C44H83NO7,  C18169,96024385
+dgts1601819Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:1(9Z))",C44H83NO7,0, ,C44H83NO7,  C18169,96024385
+dgts1601829Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:2(9Z,12Z))",C44H81NO7,0, ,C44H81NO7,  C18169,96024385
+dgts1601835Z9Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:3(5Z,9Z,12Z))",C44H79NO7,0, ,C44H79NO7,  C18169,96024385
+dgts1601845Z9Z12Z15Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:4(5Z,9Z,12Z,15Z))",C44H77NO7,0, ,C44H77NO7,  C18169,96024385
+dgts18111Z18111Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:1(11Z))",C46H85NO7,0, ,C46H85NO7,  C18169,96024385
+dgts18111Z1819Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:1(9Z))",C46H85NO7,0, ,C46H85NO7,  C18169,96024385
+dgts18111Z1829Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:2(9Z,12Z))",C46H83NO7,0, ,C46H83NO7,  C18169,96024385
+dgts18111Z1835Z9Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:3(5Z,9Z,12Z))",C46H81NO7,0, ,C46H81NO7,  C18169,96024385
+dgts18111Z1845Z9Z12Z15Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:4(5Z,9Z,12Z,15Z))",C46H79NO7,0, ,C46H79NO7,  C18169,96024385
+dgts1819Z18111Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:1(11Z))",C46H85NO7,0, ,C46H85NO7,  C18169,96024385
+dgts1819Z1819Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:1(9Z))",C46H85NO7,0, ,C46H85NO7,  C18169,96024385
+dgts1819Z1829Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:2(9Z,12Z))",C46H83NO7,0, ,C46H83NO7,  C18169,96024385
+dgts1819Z1835Z9Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:3(5Z,9Z,12Z))",C46H81NO7,0, ,C46H81NO7,  C18169,96024385
+dgts1819Z1845Z9Z12Z15Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C46H79NO7,0, ,C46H79NO7,  C18169,96024385
+dgts1829Z12Z18111Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:1(11Z))",C46H83NO7,0, ,C46H83NO7,  C18169,96024385
+dgts1829Z12Z1819Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:1(9Z))",C46H83NO7,0, ,C46H83NO7,  C18169,96024385
+dgts1829Z12Z1829Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:2(9Z,12Z))",C46H81NO7,0, ,C46H81NO7,  C18169,96024385
+dgts1829Z12Z1835Z9Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:3(5Z,9Z,12Z))",C46H79NO7,0, ,C46H79NO7,  C18169,96024385
+dgts1829Z12Z1845Z9Z12Z15Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:4(5Z,9Z,12Z,15Z))",C46H77NO7,0, ,C46H77NO7,  C18169,96024385
+dgts1839Z12Z15Z18111Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:1(11Z))",C46H81NO7,0, ,C46H81NO7,  C18169,96024385
+dgts1839Z12Z15Z1819Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:1(9Z))",C46H81NO7,0, ,C46H81NO7,  C18169,96024385
+dgts1839Z12Z15Z1835Z9Z12Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:3(5Z,9Z,12Z))",C46H77NO7,0, ,C46H77NO7,  C18169,96024385
+dgts1839Z12Z15Z1845Z9Z12Z15Z,Cytosol,"diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:4(5Z,9Z,12Z,15Z))",C46H75NO7,0, ,C46H75NO7,  C18169,96024385
+dha,Cytosol,Dihydroxyacetone,C3H6O3,0, ,C3H6O3,C00184,3484
+dhap,Cytosol,Dihydroxyacetone phosphate,C3H5O6P,-2,57-04-5,C3H7O6P,C00111,3411
+dhap[f],Flagellum,Dihydroxyacetone phosphate,C3H5O6P,-2,57-04-5,C3H7O6P,C00111,3411
+dhap[h],Chloroplast,Dihydroxyacetone phosphate,C3H5O6P,-2,57-04-5,C3H7O6P,C00111,3411
+dhap[m],Mitochondria,Dihydroxyacetone phosphate,C3H5O6P,-2,57-04-5,C3H7O6P,C00111,3411
+dhcer,Cytosol,Dihydroceramide,C34H69NO3,0, ,C34H69NO3,C12126,14273
+dhdascb[m],Mitochondria,Dehydroascorbate,C6H5O6,-1,490-83-5,C6H6O6,C05422,7786
+dhdascb[u],Thylakoid Lumen,Dehydroascorbate,C6H5O6,-1,490-83-5,C6H6O6,C05422,7786
+dhf,Cytosol,"7,8-Dihydrofolate",C19H19N7O6,-2,4033-27-6,C19H21N7O6,C00415,3705
+dhlam[h],Chloroplast,Dihydrolipoamide,C8H17NOS2,0,3884-47-7,C8H17NOS2,C00579,3858
+dhlam[m],Mitochondria,Dihydrolipoamide,C8H17NOS2,0,3884-47-7,C8H17NOS2,C00579,3858
+dhlpro[m],Mitochondria,Dihydrolipolprotein,C8H16NOS2R,0, ,C8H16NOS2R,C02972,5884
+dhnpt,Cytosol,"2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine",C9H13N5O4,0, ,C9H13N5O4,C04874,7426
+dhor-S,Cytosol,(S)-Dihydroorotate,C5H5N2O4,-1,5988-19-2,C5H6N2O4,C00337,3630
+dhor-S[m],Mitochondria,(S)-Dihydroorotate,C5H4N2O4,-2,5988-19-2,C5H6N2O4,C00337,3630
+dhpmp,Cytosol,Dihydroneopterin phosphate,C9H12N5O7P,-2, ,C9H14N5O7P,C05925,8213
+dhpt,Cytosol,Dihydropteroate,C14H13N6O3,-1, ,C14H14N6O3,C00921,4175
+dhretinol[s],Eyespot,"all-trans-13,14-Dihydroretinol",C20H32O,0, ,C20H32O,C15492,17396484
+din,Cytosol,Deoxyinosine,C10H12N4O4,0,890-38-0,C10H12N4O4,C05512,7859
+dkmpp,Cytosol,"2,3-diketo-5-methylthio-1-phosphopentane",C6H9O6PS,-2, ,C6H11O6PS,C15650,17396640
+dma,Cytosol,dimethylamine,C2H8N,1,124-40-3,C2H7N,C00543,3824
+dmbzid,Cytosol,"5,6-Dimethylbenzimidazole",C9H10N2,0,582-60-5,C9H10N2,C03114,6009
+dmcital,Cytosol,Demethylcitalopram,C19H20FN2O,1,62498-67-3,C19H19FN2O,C16608,51090934
+dmlz[h],Chloroplast,"6,7-Dimethyl-8-(1-D-ribityl)lumazine",C13H17N4O6,-1, ,C13H18N4O6,C04332,6983
+dmpp,Cytosol,Dimethylallyl diphosphate,C5H9O7P2,-3,358-71-4,C5H12O7P2,C00235,3534
+dmpp[h],Chloroplast,Dimethylallyl diphosphate,C5H9O7P2,-3,358-71-4,C5H12O7P2,C00235,3534
+dmpq[h],Chloroplast,"2,3-Dimethyl-5-phytylquinol",C28H48O2,0, ,C28H48O2,C15883,47205203
+dna5mtc[n],Nucleus,DNA 5-methylcytosine,C10H16N3O7PR2,0, ,C10H16N3O7PR2,C02967,5881
+dnac[n],Nucleus,DNA cytosine,C9H14N3O7PR2,0, ,C9H14N3O7PR2,C00856,4113
+dnad,Cytosol,Deamino-NAD+,C21H24N6O15P2,-2, ,C21H27N6O15P2,C00857,4114
+dnad[h],Chloroplast,Deamino-NAD+,C21H24N6O15P2,-2, ,C21H27N6O15P2,C00857,4114
+dnad[n],Nucleus,Deamino-NAD+,C21H24N6O15P2,-2, ,C21H27N6O15P2,C00857,4114
+doldp,Cytosol,Dolichyl diphosphate,C55H91O7P2,-3, ,C55H94O7P2,C00621,3895
+doldpglcnac,Cytosol,PP-Dol(-a1)GlcNAc,C63H107NO12P2,0, ,C63H107NO12P2,G00001,124490636
+doldpglcnacglcnac,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc,C71H120N2O17P2,0, ,C71H120N2O17P2,G00002,124490637
+doldpglcnacglcnacman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man,C77H130N2O22P2,0, ,C77H130N2O22P2,G00003,124490638
+doldpglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C125H210N2O62P2,0, ,C125H210N2O62P2,G00007,124490642
+doldpglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanmanglc,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man(3-a1)Glc,C131H220N2O67P2,0, ,C131H220N2O67P2,G10598,124499749
+doldpglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanmanglcglc,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man(3-a1)Glc(3-a1)Glc,C137H230N2O72P2,0, ,C137H230N2O72P2,G10599,124499750
+doldpglcnacglcnacman-LPAREN-man-LPAREN-manman-RPAREN-manman-RPAREN-manmanmanglcglcglc,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man(3-a1)Glc(3-a1)Glc(2-a1)Glc,C143H240N2O77P2,0, ,C143H240N2O77P2,G00008,124490643
+doldpglcnacglcnacman-LPAREN-man-LPAREN-man-RPAREN-manman-RPAREN-manmanman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man[(6-a1)Man](3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C119H200N2O57P2,0, ,C119H200N2O57P2,G10597,124499748
+doldpglcnacglcnacman-LPAREN-manmanman-RPAREN-manmanman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man(3-a1)Man(2-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C113H190N2O52P2,0, ,C113H190N2O52P2,G10596,124499747
+doldpglcnacglcnacman-LPAREN-manman-RPAREN-manmanman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man(3-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C107H180N2O47P2,0, ,C107H180N2O47P2,G10595,124499746
+doldpglcnacglcnacman-LPAREN-man-RPAREN-man,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man](3-a1)Man,C89H150N2O32P2,0, ,C89H150N2O32P2,G00005,124490640
+doldpglcnacglcnacman-LPAREN-man-RPAREN-manman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man](3-a1)Man(2-a1)Man,C95H160N2O37P2,0, ,C95H160N2O37P2,G10526,124499709
+doldpglcnacglcnacman-LPAREN-man-RPAREN-manmanman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man[(6-a1)Man](3-a1)Man(2-a1)Man(2-a1)Man,C101H170N2O42P2,0, ,C101H170N2O42P2,G00006,124490641
+doldpglcnacglcnacmanman,Cytosol,PP-Dol(-a1)GlcNAc(4-b1)GlcNAc(4-b1)Man(3-a1)Man,C83H140N2O27P2,0, ,C83H140N2O27P2,G00004,124490639
+dolmanp,Cytosol,Dolichyl phosphate D-mannose,C61H102O9P,-1,3805-37-6,C61H103O9P,C03862,6598
+dolp,Cytosol,Dolichol phosphate,C55H91O4P,-2, ,C55H93O4P,C00110,3410
+dolpglc,Cytosol,Dolichyl beta-D-glucosyl phosphate,C61H102O9P,-1, ,C61H103O9P,C01246,4467
+dpcoa,Cytosol,Dephospho-CoA,C21H33N7O13P2S,-2, ,C21H35N7O13P2S,C00882,4138
+drib,Cytosol,Deoxyribose,C5H10O4,0,533-67-5,C5H10O4,C01801,4927
+dscl[h],Chloroplast,dihydrosirohydrochlorin,C42H40N4O16,-8,65207-12-7,C42H48N4O16,C02463,5480
+dsmsterol,Cytosol,Desmosterol,C27H44O,0,313-04-2,C27H44O,C01802,4928
+dtbt[m],Mitochondria,Dethiobiotin,C10H17N2O3,-1,Cytosol,C10H18N2O3,C01909,5017
+dtdp,Cytosol,dTDP,C10H13N2O11P2,-3, ,C10H16N2O11P2,C00363,3654
+dtdp[m],Mitochondria,dTDP,C10H13N2O11P2,-3, ,C10H16N2O11P2,C00363,3654
+dtmp,Cytosol,dTMP,C10H13N2O8P,-2,365-07-1,C10H15N2O8P,C00364,3655
+dttp,Cytosol,dTTP,C10H13N2O14P3,-4, ,C10H17N2O14P3,C00459,3743
+dttp[m],Mitochondria,dTTP,C10H13N2O14P3,-4, ,C10H17N2O14P3,C00459,3743
+dudp,Cytosol,dUDP,C9H11N2O11P2,-3, ,C9H14N2O11P2,C01346,4551
+dudp[m],Mitochondria,dUDP,C9H11N2O11P2,-3, ,C9H14N2O11P2,C01346,4551
+dump,Cytosol,dUMP,C9H11N2O8P,-2,964-26-1,C9H13N2O8P,C00365,3656
+duri,Cytosol,Deoxyuridine,C9H12N2O5,0,951-78-0,C9H12N2O5,C00526,3809
+dutp,Cytosol,dUTP,C9H11N2O14P3,-4, ,C9H15N2O14P3,C00460,3744
+dutp[m],Mitochondria,dUTP,C9H11N2O14P3,-4, ,C9H15N2O14P3,C00460,3744
+dvchlda[h],Chloroplast,Divinyl chlorophyllide a,C35H32MgN4O5,0, ,C35H32MgN4O5,C11832,13996
+dvite[h],Chloroplast,delta-Tocopherol,C27H46O2,0,119-13-1,C27H46O2,C14151,7846963
+dvpchlda[h],Chloroplast,Divinylprotochlorophyllide a,C35H30MgN4O5,0,18433-30-2,C35H30MgN4O5,C11831,13995
+dxyl5p[h],Chloroplast,1-Deoxy-D-xylulose 5-phosphate,C5H9O7P,-2, ,C5H11O7P,C11437,13609
+e4hg,Cytosol,L-erythro-4-Hydroxyglutamate,C5H8NO5,-1, ,C5H9NO5,C05947,8231
+e4p[h],Chloroplast,D-Erythrose 4-phosphate,C4H7O7P,-2,585-18-2,C4H9O7P,C00279,3574
+ecaro[h],Chloroplast,epsilon-Carotene,C40H56,0, ,C40H56,C16276,47205584
+echn[u],Thylakoid Lumen,Echinenone,C40H54O,0,432-68-8,C40H54O,C08592,10785
+egly[e],Extra-organism,N-Ethylglycine,C4H9NO2,0, ,C4H9NO2,C11735,13900
+egmeACP[m],Mitochondria,Enoylglutaryl-[acyl-carrier protein] methyl ester,C6H6O3SR,-1, ,C6H7O3SR,C20374,163312112
+eig3p,Cytosol,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate,C6H9N2O6P,-2, ,C6H11N2O6P,C04666,7249
+eig3p[h],Chloroplast,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate,C6H9N2O6P,-2, ,C6H11N2O6P,C04666,7249
+epm[h],Chloroplast,Epimelibiose,C12H22O11,0,17296-19-4,C12H22O11,C05400,7767
+epmeACP[m],Mitochondria,Enoylpimeloyl-[acyl-carrier protein] methyl ester,C8H10O3SR,-1, ,C8H11O3SR,C20378,163312116
+etfox[m],Mitochondria,Electron transfer flavoprotein oxidized,R,0, ,R, , 
+etfrd[m],Mitochondria,Electron transfer flavoprotein reduced,RH2,0, ,RH2, , 
+etha,Cytosol,Ethanolamine,C2H8NO,1,141-43-5,C2H7NO,C00189,3489
+ethamp,Cytosol,Ethanolamine phosphate,C2H7NO4P,-1,1071-23-4,C2H8NO4P,C00346,3639
+etoh,Cytosol,Ethanol,C2H6O,0,64-17-5,C2H6O,C00469,3752
+etoh[e],Extra-organism,Ethanol,C2H6O,0,64-17-5,C2H6O,C00469,3752
+etoh[h],Chloroplast,Ethanol,C2H6O,0,64-17-5,C2H6O,C00469,3752
+etoh[m],Mitochondria,Ethanol,C2H6O,0,64-17-5,C2H6O,C00469,3752
+etoh[x],Glyoxysome,Ethanol,C2H6O,0,64-17-5,C2H6O,C00469,3752
+f1p[h],Chloroplast,D-fructose 1-phosphate,C6H11O9P,-2,15978-08-2,C6H13O9P,C01094,4329
+f26bp,Cytosol,"D-Fructose 2,6-bisphosphate",C6H10O12P2,-4, ,C6H14O12P2,C00665,3934
+f2p[h],Chloroplast,beta-D-fructose 2-phosphate,C6H11O9P,-2, ,C6H13O9P,C03267,6130
+f6p-B,Cytosol,beta-D-Fructose 6-phosphate,C6H11O9P,-2, ,C6H13O9P,C05345,7723
+f6p-B[h],Chloroplast,beta-D-Fructose 6-phosphate,C6H11O9P,-2, ,C6H13O9P,C05345,7723
+fad,Cytosol,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,146-14-5,C27H33N9O15P2,C00016,3318
+fad[h],Chloroplast,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,146-14-5,C27H33N9O15P2,C00016,3318
+fad[m],Mitochondria,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,146-14-5,C27H33N9O15P2,C00016,3318
+fad[x],Glyoxysome,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,146-14-5,C27H33N9O15P2,C00016,3318
+fadh2,Cytosol,Flavin adenine dinucleotide reduced,C27H33N9O15P2,-2, ,C27H35N9O15P2,C01352,4556
+fadh2[h],Chloroplast,Flavin adenine dinucleotide reduced,C27H33N9O15P2,-2, ,C27H35N9O15P2,C01352,4556
+fadh2[m],Mitochondria,Flavin adenine dinucleotide reduced,C27H33N9O15P2,-2, ,C27H35N9O15P2,C01352,4556
+fadh2[x],Glyoxysome,Flavin adenine dinucleotide reduced,C27H33N9O15P2,-2, ,C27H35N9O15P2,C01352,4556
+fald,Cytosol,Formaldehyde,CH2O,0,50-00-0,CH2O,C00067,3367
+fdp-B,Cytosol,"beta-D-Fructose 1,6-bisphosphate",C6H10O12P2,-4, ,C6H14O12P2,C05378,7752
+fdp-B[f],Flagellum,"beta-D-Fructose 1,6-bisphosphate",C6H10O12P2,-4, ,C6H14O12P2,C05378,7752
+fdp-B[h],Chloroplast,"beta-D-Fructose 1,6-bisphosphate",C6H10O12P2,-4, ,C6H14O12P2,C05378,7752
+fdp-B[m],Mitochondria,"beta-D-Fructose 1,6-bisphosphate",C6H10O12P2,-4, ,C6H14O12P2,C05378,7752
+fdxox,Cytosol,Oxidized ferredoxin,Fe8S8X,0, ,Fe8S8X,C00139,3439
+fdxox[h],Chloroplast,Oxidized ferredoxin,Fe8S8X,0, ,Fe8S8X,C00139,3439
+fdxox[m],Mitochondria,Oxidized ferredoxin,Fe8S8X,0, ,Fe8S8X,C00139,3439
+fdxox[u],Thylakoid Lumen,Oxidized ferredoxin,Fe8S8X,0, ,Fe8S8X,C00139,3439
+fdxrd,Cytosol,Reduced ferredoxin,Fe8S8XH2,0, ,Fe8S8XH2,C00138,3438
+fdxrd[h],Chloroplast,Reduced ferredoxin,Fe8S8XH2,0, ,Fe8S8XH2,C00138,3438
+fdxrd[m],Mitochondria,Reduced ferredoxin,Fe8S8XH2,0, ,Fe8S8XH2,C00138,3438
+fdxrd[u],Thylakoid Lumen,Reduced ferredoxin,Fe8S8XH2,0, ,Fe8S8XH2,C00138,3438
+fe2,Cytosol,Fe2+,Fe,2, ,Fe,C14818,17395816
+fe2[e],Extra-organism,Fe2+,Fe,2, ,Fe,C14818,17395816
+fe2[h],Chloroplast,Fe2+,Fe,2, ,Fe,C14818,17395816
+fe3,Cytosol,Fe3+,Fe,3, ,Fe,C14819,17395817
+fe3[e],Extra-organism,Fe3+,Fe,3, ,Fe,C14819,17395817
+fe3[h],Chloroplast,Fe3+,Fe,3, ,Fe,C14819,17395817
+fgam,Cytosol,N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide,C8H12N2O9P,-3, ,C8H15N2O9P,C04376,7017
+fgam[h],Chloroplast,N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide,C8H12N2O9P,-3, ,C8H15N2O9P,C04376,7017
+fgam[m],Mitochondria,N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide,C8H12N2O9P,-3, ,C8H15N2O9P,C04376,7017
+ficytb5,Cytosol,Ferricytochrome b5,X,3, ,X,C00996,4242
+ficytc[h],Chloroplast,Ferricytochrome c,C42H44FeN8O8S2R4,3, ,C42H52FeN8O6S2,C00125,3425
+ficytc[m],Mitochondria,Ferricytochrome c,C42H44FeN8O8S2R4,3, ,C42H52FeN8O6S2,C00125,3425
+ficytc[x],Glyoxysome,Ferricytochrome c,C42H44FeN8O8S2R4,3, ,C42H52FeN8O6S2,C00125,3425
+fmettrna,Cytosol,N-Formylmethionyl-tRNA,C21H30N6O12PSR,0, ,C21H30N6O12PSR,C03294,6151
+fmn,Cytosol,FMN,C17H18N4O9P,-3,146-17-8,C17H21N4O9P,C00061,3361
+focytb5,Cytosol,Ferrocytochrome b5,X,2, ,X,C00999,4245
+focytc[h],Chloroplast,Ferrocytochrome c,C42H44FeN8O8S2R4,2, ,C42H44FeN8O8S2R4,C00126,3426
+focytc[m],Mitochondria,Ferrocytochrome c,C42H44FeN8O8S2R4,2, ,C42H44FeN8O8S2R4,C00126,3426
+focytc[x],Glyoxysome,Ferrocytochrome c,C42H44FeN8O8S2R4,2, ,C42H44FeN8O8S2R4,C00126,3426
+fol,Cytosol,Folate,C19H17N7O6,-2,59-30-3,C19H19N7O6,C00504,3787
+for,Cytosol,Formate,CHO2,-1,64-18-6,CH2O2,C00058,3358
+for[e],Extra-organism,Formate,CHO2,-1,64-18-6,CH2O2,C00058,3358
+for[h],Chloroplast,Formate,CHO2,-1,64-18-6,CH2O2,C00058,3358
+for[m],Mitochondria,Formate,CHO2,-1,64-18-6,CH2O2,C00058,3358
+for[x],Glyoxysome,Formate,CHO2,-1,64-18-6,CH2O2,C00058,3358
+fpram,Cytosol,2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine,C8H14N3O8P,-2, ,C8H16N3O8P,C04640,7229
+fpram[h],Chloroplast,2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine,C8H14N3O8P,-2, ,C8H16N3O8P,C04640,7229
+fprica,Cytosol,5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide,C10H13N4O9P,-2, ,C10H15N4O9P,C04734,7305
+frdp,Cytosol,"trans,trans-Farnesyl diphosphate",C15H25O7P2,-3,13058-04-3,C15H28O7P2,C00448,3736
+frdp[h],Chloroplast,"trans,trans-Farnesyl diphosphate",C15H25O7P2,-3,13058-04-3,C15H28O7P2,C00448,3736
+frdp[m],Mitochondria,"trans,trans-Farnesyl diphosphate",C15H25O7P2,-3,13058-04-3,C15H28O7P2,C00448,3736
+frmd,Cytosol,Formamide,CH4NO,1,75-12-7,CH3NO,C00488,3771
+frmd[x],Glyoxysome,Formamide,CH3NO,0,75-12-7,CH3NO,C00488,3771
+fru-B,Cytosol,beta-D-fructose,C6H12O6,0,53188-23-1,C6H12O6,C02336,5386
+fru-B[h],Chloroplast,beta-D-fructose,C6H12O6,0,53188-23-1,C6H12O6,C02336,5386
+fum,Cytosol,Fumarate,C4H2O4,-2,110-17-8,C4H4O4,C00122,3422
+fum[h],Chloroplast,Fumarate,C4H2O4,-2,110-17-8,C4H4O4,C00122,3422
+fum[m],Mitochondria,Fumarate,C4H2O4,-2,110-17-8,C4H4O4,C00122,3422
+g1p,Cytosol,D-Glucose 1-phosphate,C6H11O9P,-2,59-56-3,C6H13O9P,C00103,3403
+g1p[h],Chloroplast,D-Glucose 1-phosphate,C6H11O9P,-2,59-56-3,C6H13O9P,C00103,3403
+g3p,Cytosol,D-glyceraldehyde 3-phosphate,C3H5O6P,-2,142-10-9,C3H7O6P,C00118,3418
+g3p[f],Flagellum,D-glyceraldehyde 3-phosphate,C3H5O6P,-2,142-10-9,C3H7O6P,C00118,3418
+g3p[h],Chloroplast,D-glyceraldehyde 3-phosphate,C3H5O6P,-2,142-10-9,C3H7O6P,C00118,3418
+g3p[m],Mitochondria,D-glyceraldehyde 3-phosphate,C3H5O6P,-2,142-10-9,C3H7O6P,C00118,3418
+g3pe,Cytosol,sn-Glycero-3-phosphoethanolamine,C5H14NO6P,0, ,C5H14NO6P,C01233,4454
+g6p-A,Cytosol,alpha-D-glucose 6 phosphate,C6H11O9P,-2, ,C6H13O9P,C00668,3937
+g6p-A[h],Chloroplast,alpha-D-glucose 6 phosphate,C6H11O9P,-2, ,C6H13O9P,C00668,3937
+g6p-A[n],Nucleus,alpha-D-glucose 6 phosphate,C6H11O9P,-2, ,C6H13O9P,C00668,3937
+g6p-B,Cytosol,beta-D-glucose 6-phosphate,C6H11O9P,-2, ,C6H13O9P,C01172,4399
+g6p-B[h],Chloroplast,beta-D-glucose 6-phosphate,C6H11O9P,-2, ,C6H13O9P,C01172,4399
+gal,Cytosol,D-Galactose,C6H12O6,0,59-23-4,C6H12O6,C00124,3424
+gal[h],Chloroplast,D-Galactose,C6H12O6,0,59-23-4,C6H12O6,C00124,3424
+gal[n],Nucleus,D-Galactose,C6H12O6,0,59-23-4,C6H12O6,C00124,3424
+gal1p,Cytosol,alpha-D-Galactose 1-phosphate,C6H11O9P,-2,2255-14-3,C6H13O9P,C00446,3734
+gal1p[h],Chloroplast,alpha-D-Galactose 1-phosphate,C6H11O9P,-2,2255-14-3,C6H13O9P,C00446,3734
+galctn-D[n],Nucleus,D-Galactonate,C6H11O7,-1, ,C6H12O7,C00880,4136
+galtl,Cytosol,"L-Galactono-1,4-lactone",C6H10O6,0, ,C6H10O6,C01115,4347
+galtl[m],Mitochondria,"L-Galactono-1,4-lactone",C6H10O6,0, ,C6H10O6,C01115,4347
+gam6p,Cytosol,D-Glucosamine 6-phosphate,C6H13NO8P,-1,3616-42-0,C6H14NO8P,C00352,3645
+gar,Cytosol,N1-(5-Phospho-D-ribosyl)glycinamide,C7H13N2O8P,-2, ,C7H15N2O8P,C03838,6578
+gar[h],Chloroplast,N1-(5-Phospho-D-ribosyl)glycinamide,C7H13N2O8P,-2, ,C7H15N2O8P,C03838,6578
+gar[m],Mitochondria,N1-(5-Phospho-D-ribosyl)glycinamide,C7H13N2O8P,-2, ,C7H15N2O8P,C03838,6578
+gcald,Cytosol,Glycolaldehyde,C2H4O2,0,141-46-8,C2H4O2,C00266,3564
+gcaro[h],Chloroplast,gamma-Carotene,C40H56,0, ,C40H56,C05435,7799
+gcaro[u],Thylakoid Lumen,gamma-Carotene,C40H56,0, ,C40H56,C05435,7799
+gdp,Cytosol,GDP,C10H12N5O11P2,-3,146-91-8,C10H15N5O11P2,C00035,3337
+gdp[f],Flagellum,GDP,C10H11N5O11P2,-4,146-91-8,C10H15N5O11P2,C00035,3337
+gdp[h],Chloroplast,GDP,C10H11N5O11P2,-4,146-91-8,C10H15N5O11P2,C00035,3337
+gdp[m],Mitochondria,GDP,C10H11N5O11P2,-4,146-91-8,C10H15N5O11P2,C00035,3337
+gdpgal,Cytosol,GDP-L-galactose,C16H23N5O16P2,-2, ,C16H25N5O16P2,C02280,5337
+gdpgul,Cytosol,GDP-L-gulose,C16H23N5O16P2,-2, ,C16H25N5O16P2,C15925,47205243
+gdpmann,Cytosol,GDP-D-mannose,C16H23N5O16P2,-2,3123-67-9,C16H25N5O16P2,C00096,3396
+gdptp,Cytosol,Guanosine 3'-diphosphate 5'-triphosphate,C10H12N5O20P5,-6, ,C10H18N5O20P5,C04494,7111
+ggchlda[u],Thylakoid Lumen,geranylgeranyl-Chlorophyllide a,C55H66MgN4O5,0, ,C55H66MgN4O5, ,136349205
+ggchldb[u],Thylakoid Lumen,geranylgeranyl-Chlorophyllide b,C55H64MgN4O6,0, ,C55H64MgN4O6, ,136349205
+ggdp[h],Chloroplast,Geranylgeranyl diphosphate,C20H33O7P2,-3,6699-20-3,C20H36O7P2,C00353,3646
+ggdp[u],Thylakoid Lumen,Geranylgeranyl diphosphate,C20H33O7P2,-3,6699-20-3,C20H36O7P2,C00353,3646
+ggl[h],Chloroplast,Galactosylglycerol,C9H18O8,0, ,C9H18O8,C05401,7768
+glc-A,Cytosol,alpha-D-glucose,C6H12O6,0,492-62-6,C6H12O6,C00267,3565
+glc-A[h],Chloroplast,alpha-D-glucose,C6H12O6,0,492-62-6,C6H12O6,C00267,3565
+glc-B,Cytosol,beta-D-glucose,C6H12O6,0,492-61-5,C6H12O6,C00221,3521
+glc-B[h],Chloroplast,beta-D-glucose,C6H12O6,0,492-61-5,C6H12O6,C00221,3521
+glcn[h],Chloroplast,D-Gluconate,C6H11O7,-1,526-95-4,C6H12O7,C00257,3556
+glcur,Cytosol,D-Glucuronate,C6H9O7,-1,1700908,C6H10O7,C00191,3491
+glcur1p,Cytosol,D-Glucuronate 1-phosphate,C6H9O10P,-2, ,C6H11O10P,C05385,7759
+glcur1p[h],Chloroplast,D-Glucuronate 1-phosphate,C6H9O10P,-2, ,C6H11O10P,C05385,7759
+gln-L,Cytosol,L-Glutamine,C5H10N2O3,0,56-85-9,C5H10N2O3,C00064,3364
+gln-L[e],Extra-organism,L-Glutamine,C5H10N2O3,0,56-85-9,C5H10N2O3,C00064,3364
+gln-L[h],Chloroplast,L-Glutamine,C5H10N2O3,0,56-85-9,C5H10N2O3,C00064,3364
+gln-L[m],Mitochondria,L-Glutamine,C5H10N2O3,0,56-85-9,C5H10N2O3,C00064,3364
+glntrna,Cytosol,L-Glutaminyl-tRNA(Gln),C20H29N7O12PR,0, ,C20H29N7O12PR,C02282,5339
+glu1sa[h],Chloroplast,L-Glutamate 1-semialdehyde,C5H9NO3,0, ,C5H9NO3,C03741,6504
+glu5p,Cytosol,L-Glutamate 5-phosphate,C5H8NO7P,-2, ,C5H10NO7P,C03287,6144
+glu5p[m],Mitochondria,L-Glutamate 5-phosphate,C5H8NO7P,-2, ,C5H10NO7P,C03287,6144
+glu5p[x],Glyoxysome,L-Glutamate 5-phosphate,C5H8NO7P,-2, ,C5H10NO7P,C03287,6144
+glu5sa,Cytosol,L-Glutamate 5-semialdehyde,C5H9NO3,0, ,C5H9NO3,C01165,4392
+glu5sa[m],Mitochondria,L-Glutamate 5-semialdehyde,C5H9NO3,0, ,C5H9NO3,C01165,4392
+glu5sa[x],Glyoxysome,L-Glutamate 5-semialdehyde,C5H9NO3,0, ,C5H9NO3,C01165,4392
+glucys[h],Chloroplast,gamma-L-Glutamyl-L-cysteine,C8H13N2O5S,-1,686-58-8,C8H14N2O5S,C00669,3938
+glu-L,Cytosol,L-Glutamate,C5H8NO4,-1,56-86-0,C5H9NO4,C00025,3327
+glu-L[h],Chloroplast,L-Glutamate,C5H8NO4,-1,56-86-0,C5H9NO4,C00025,3327
+glu-L[m],Mitochondria,L-Glutamate,C5H8NO4,-1,56-86-0,C5H9NO4,C00025,3327
+glutrna,Cytosol,L-Glutamyl-tRNA(Glu),C20H27N6O13PR,-1, ,C20H28N6O13PR,C02987,5896
+glutrna[h],Chloroplast,L-Glutamyl-tRNA(Glu),C20H27N6O13PR,-1, ,C20H28N6O13PR,C02987,5896
+glx,Cytosol,Glyoxylate,C2HO3,-1,298-12-4,C2H2O3,C00048,3350
+glx[h],Chloroplast,Glyoxylate,C2HO3,-1,298-12-4,C2H2O3,C00048,3350
+glx[m],Mitochondria,Glyoxylate,C2HO3,-1,298-12-4,C2H2O3,C00048,3350
+glx[x],Glyoxysome,Glyoxylate,C2HO3,-1,298-12-4,C2H2O3,C00048,3350
+gly,Cytosol,Glycine,C2H5NO2,0,56-40-6,C2H5NO2,C00037,3339
+gly[h],Chloroplast,Glycine,C2H5NO2,0,56-40-6,C2H5NO2,C00037,3339
+gly[m],Mitochondria,Glycine,C2H5NO2,0,56-40-6,C2H5NO2,C00037,3339
+gly[x],Glyoxysome,Glycine,C2H5NO2,0,56-40-6,C2H5NO2,C00037,3339
+glyald,Cytosol,D-Glyceraldehyde,C3H6O3,0,453-17-8,C3H6O3,C00577,3856
+glyald[h],Chloroplast,D-Glyceraldehyde,C3H6O3,0,453-17-8,C3H6O3,C00577,3856
+glyc,Cytosol,Glycerol,C3H8O3,0,56-81-5,C3H8O3,C00116,3416
+glyc[h],Chloroplast,Glycerol,C3H8O3,0,56-81-5,C3H8O3,C00116,3416
+glyc3p,Cytosol,Glycerol 3-phosphate,C3H7O6P,-2,17989-41-2,C3H9O6P,C00093,3393
+glyc3p[h],Chloroplast,Glycerol 3-phosphate,C3H7O6P,-2,17989-41-2,C3H9O6P,C00093,3393
+glyclt,Cytosol,Glycolate,C2H3O3,-1,79-14-1,C2H4O3,C00160,3460
+glyclt[e],Extra-organism,Glycolate,C2H3O3,-1,79-14-1,C2H4O3,C00160,3460
+glyclt[h],Chloroplast,Glycolate,C2H3O3,-1,79-14-1,C2H4O3,C00160,3460
+glyclt[m],Mitochondria,Glycolate,C2H3O3,-1,79-14-1,C2H4O3,C00160,3460
+glyclt[x],Glyoxysome,Glycolate,C2H3O3,-1,79-14-1,C2H4O3,C00160,3460
+glyc-R,Cytosol,(R)-Glycerate,C3H5O4,-1,473-81-4,C3H6O4,C00258,3557
+glyc-R[h],Chloroplast,(R)-Glycerate,C3H5O4,-1,473-81-4,C3H6O4,C00258,3557
+glyc-R[m],Mitochondria,(R)-Glycerate,C3H5O4,-1,473-81-4,C3H6O4,C00258,3557
+glytrna,Cytosol,Glycyl-tRNA(Gly),C12H20NO11PR2,0, ,C12H20NO11PR2,C02412,5445
+glytrna[m],Mitochondria,Glycyl-tRNA(Gly),C12H20NO11PR2,0, ,C12H20NO11PR2,C02412,5445
+gmeACP[m],Mitochondria,Glutaryl-[acyl-carrier protein] methyl ester,C6H8O3SR,-1, ,C6H9O3SR,C20375,163312113
+gmp,Cytosol,GMP,C10H12N5O8P,-2,85-32-5,C10H14N5O8P,C00144,3444
+gmp[f],Flagellum,GMP,C10H11N5O8P,-3,85-32-5,C10H14N5O8P,C00144,3444
+gmp[m],Mitochondria,GMP,C10H11N5O8P,-3,85-32-5,C10H14N5O8P,C00144,3444
+gmp[n],Nucleus,GMP,C10H11N5O8P,-3,85-32-5,C10H14N5O8P,C00144,3444
+grdp,Cytosol,Geranyl diphosphate,C10H17O7P2,-3, ,C10H20O7P2,C00341,3634
+grdp[h],Chloroplast,Geranyl diphosphate,C10H17O7P2,-3, ,C10H20O7P2,C00341,3634
+gsn,Cytosol,Guanosine,C10H12N5O5,-1,118-00-3,C10H13N5O5,C00387,3677
+gthox,Cytosol,Oxidized glutathione,C20H28N6O12S2,-4,27025-41-8,C20H32N6O12S2,C00127,3427
+gthox[h],Chloroplast,Oxidized glutathione,C20H28N6O12S2,-4,27025-41-8,C20H32N6O12S2,C00127,3427
+gthox[m],Mitochondria,Oxidized glutathione,C20H28N6O12S2,-4,27025-41-8,C20H32N6O12S2,C00127,3427
+gthox[u],Thylakoid Lumen,Oxidized glutathione,C20H28N6O12S2,-4,27025-41-8,C20H32N6O12S2,C00127,3427
+gthrd,Cytosol,Reduced glutathione,C10H15N3O6S,-2,70-18-8,C10H17N3O6S,C00051,3353
+gthrd[h],Chloroplast,Reduced glutathione,C10H15N3O6S,-2,70-18-8,C10H17N3O6S,C00051,3353
+gthrd[m],Mitochondria,Reduced glutathione,C10H15N3O6S,-2,70-18-8,C10H17N3O6S,C00051,3353
+gthrd[u],Thylakoid Lumen,Reduced glutathione,C10H15N3O6S,-2,70-18-8,C10H17N3O6S,C00051,3353
+gtp,Cytosol,GTP,C10H12N5O14P3,-4,86-01-1,C10H16N5O14P3,C00044,3346
+gtp[h],Chloroplast,GTP,C10H12N5O14P3,-4,86-01-1,C10H16N5O14P3,C00044,3346
+gtp[m],Mitochondria,GTP,C10H12N5O14P3,-4,86-01-1,C10H16N5O14P3,C00044,3346
+gtp[n],Nucleus,GTP,C10H12N5O14P3,-4,86-01-1,C10H16N5O14P3,C00044,3346
+gua,Cytosol,Guanine,C5H4N5O,-1,73-40-5,C5H5N5O,C00242,3541
+gua[e],Extra-organism,Guanine,C5H4N5O,-1,73-40-5,C5H5N5O,C00242,3541
+h,Cytosol,H+,H,1,12408-02-5,H,C00080,3380
+h[e],Extra-organism,H+,H,1,12408-02-5,H,C00080,3380
+h[f],Flagellum,H+,H,1,12408-02-5,H,C00080,3380
+h[g],Golgi Apparatus,H+,H,1,12408-02-5,H,C00080,3380
+h[h],Chloroplast,H+,H,1,12408-02-5,H,C00080,3380
+h[i],Mitochondrial Intermembrane space,H+,H,1,12408-02-5,H,C00080,3380
+h[m],Mitochondria,H+,H,1,12408-02-5,H,C00080,3380
+h[n],Nucleus,H+,H,1,12408-02-5,H,C00080,3380
+h[s],Eyespot,H+,H,1,12408-02-5,H,C00080,3380
+h[u],Thylakoid Lumen,H+,H,1,12408-02-5,H,C00080,3380
+h[x],Glyoxysome,H+,H,1,12408-02-5,H,C00080,3380
+h2,Cytosol,H2,H2,0,1333-74-0,H2,C00282,3577
+h2[e],Extra-organism,H2,H2,0,1333-74-0,H2,C00282,3577
+h2[h],Chloroplast,H2,H2,0,1333-74-0,H2,C00282,3577
+h2[m],Mitochondria,H2,H2,0,1333-74-0,H2,C00282,3577
+h2mb4p[h],Chloroplast,1-Hydroxy-2-methyl-2-butenyl 4-diphosphate,C5H9O8P2,-3, ,C5H12O8P2,C11811,13975
+h2o,Cytosol,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[e],Extra-organism,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[f],Flagellum,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[h],Chloroplast,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[m],Mitochondria,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[n],Nucleus,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[s],Eyespot,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[u],Thylakoid Lumen,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o[x],Glyoxysome,H2O,H2O,0,7732-18-5,H2O,C00001,3303
+h2o2,Cytosol,Hydrogen peroxide,H2O2,0,7722-84-1,H2O2,C00027,3329
+h2o2[h],Chloroplast,Hydrogen peroxide,H2O2,0,7722-84-1,H2O2,C00027,3329
+h2o2[m],Mitochondria,Hydrogen peroxide,H2O2,0,7722-84-1,H2O2,C00027,3329
+h2o2[n],Nucleus,Hydrogen peroxide,H2O2,0,7722-84-1,H2O2,C00027,3329
+h2o2[x],Glyoxysome,Hydrogen peroxide,H2O2,0,7722-84-1,H2O2,C00027,3329
+h2s,Cytosol,Hydrogen sulfide,HS,-1, ,H2S,C00283,3578
+h2s[h],Chloroplast,Hydrogen sulfide,HS,-1, ,H2S,C00283,3578
+h2s[m],Mitochondria,Hydrogen sulfide,HS,-1, ,H2S,C00283,3578
+hcarn,Cytosol,Homocarnosine,C10H16N4O3,0,3650-73-5,C10H16N4O3,C00884,4140
+hchlda[h],Chloroplast,7(1)-Hydroxychlorophyllide a,C35H34MgN4O6,0, ,C35H34MgN4O6,C16540,51090869
+hco3,Cytosol,Bicarbonate,HCO3,-1,71-52-3,HCO3,C00288,3583
+hco3[e],Extra-organism,Bicarbonate,HCO3,-1,71-52-3,HCO3,C00288,3583
+hco3[h],Chloroplast,Bicarbonate,HCO3,-1,71-52-3,HCO3,C00288,3583
+hco3[m],Mitochondria,Bicarbonate,HCO3,-1,71-52-3,HCO3,C00288,3583
+hcys-L,Cytosol,L-Homocysteine,C4H9NO2S,0,6027-13-0,C4H9NO2S,C00155,3455
+hcys-L[h],Chloroplast,L-Homocysteine,C4H9NO2S,0,6027-13-0,C4H9NO2S,C00155,3455
+hcys-L[m],Mitochondria,L-Homocysteine,C4H9NO2S,0,6027-13-0,C4H9NO2S,C00155,3455
+hdca,Cytosol,Hexadecanoate (n-C16:0),C16H31O2,-1,57-10-3,C16H32O2,C00249,3548
+hdca[h],Chloroplast,Hexadecanoate (n-C16:0),C16H31O2,-1,57-10-3,C16H32O2,C00249,3548
+hdca[s],Eyespot,Hexadecanoate (n-C16:0),C16H31O2,-1,57-10-3,C16H32O2,C00249,3548
+hdcea,Cytosol,Hexadecenoate (16:1(9Z)),C16H29O2,-1,373-49-9,C16H30O2,C08362,10558
+hdcea[h],Chloroplast,Hexadecenoate (16:1(9Z)),C16H29O2,-1,373-49-9,C16H30O2,C08362,10558
+hdd2coa[m],Mitochondria,trans-Hexadec-2-enoyl-CoA,C37H60N7O17P3S,-4, ,C37H64N7O17P3S,C05272,7659
+hdd2coa[x],Glyoxysome,trans-Hexadec-2-enoyl-CoA,C37H60N7O17P3S,-4, ,C37H64N7O17P3S,C05272,7659
+hdeACP[h],Chloroplast,cis-hexadec-9-enoyl-[acyl-carrier protein] ((9Z)-n-C16:1),C16H29OSR,0, ,C16H29OSR,C16520,51090849
+hemeA[m],Mitochondria,Heme A,C49H55FeN4O6,1, ,C49H56FeN4O6,C15670,47204997
+hemeO[m],Mitochondria,Heme O,C49H58FeN4O5,2,137397-56-9,C49H58FeN4O5,C15672,47204998
+hexACP[h],Chloroplast,Hexanoyl-ACP (n-C6:0ACP),C6H11OSR,0, ,C6H11OSR,C05749,8044
+hgentis,Cytosol,Homogentisate,C8H7O4,-1,451-13-8,C8H8O4,C00544,3825
+hgentis[h],Chloroplast,Homogentisate,C8H7O4,-1,451-13-8,C8H8O4,C00544,3825
+hgmeACP[m],Mitochondria,3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester,C6H8O4SR,-1, ,C6H9O4SR,C20373,163312111
+his-L,Cytosol,L-Histidine,C6H9N3O2,0,71-00-1,C6H9N3O2,C00135,3435
+his-L[e],Extra-organism,L-Histidine,C6H9N3O2,0,71-00-1,C6H9N3O2,C00135,3435
+his-L[h],Chloroplast,L-Histidine,C6H9N3O2,0,71-00-1,C6H9N3O2,C00135,3435
+hisp,Cytosol,L-Histidinol phosphate,C6H11N3O4P,-1,25679-93-0,C6H12N3O4P,C01100,4334
+hisp[h],Chloroplast,L-Histidinol phosphate,C6H11N3O4P,-1,25679-93-0,C6H12N3O4P,C01100,4334
+hista,Cytosol,Histamine,C5H11N3,2,51-45-6,C5H9N3,C00388,3678
+histd,Cytosol,L-Histidinol,C6H13N3O,2, ,C6H11N3O,C00860,4117
+histd[h],Chloroplast,L-Histidinol,C6H12N3O,1, ,C6H11N3O,C00860,4117
+histrna,Cytosol,L-Histidyl-tRNA(His),C16H24N3O11PR2,0, ,C16H24N3O11PR2,C02988,5897
+hmbil[h],Chloroplast,Hydroxymethylbilane,C40H38N4O17,-8,73023-76-4,C40H46N4O17,C01024,4269
+hmgcoa,Cytosol,Hydroxymethylglutaryl-CoA,C27H40N7O20P3S,-4,1553-55-5,C27H44N7O20P3S,C00356,3649
+hmgcoa[m],Mitochondria,Hydroxymethylglutaryl-CoA,C27H40N7O20P3S,-4,1553-55-5,C27H44N7O20P3S,C00356,3649
+hmppp9me[h],Chloroplast,13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester,C35H34MgN4O5,0, ,C35H34MgN4O5,C11829,13993
+hom-L[h],Chloroplast,L-Homoserine,C4H9NO3,0,672-15-1,C4H9NO3,C00263,3561
+hpglu[m],Mitochondria,Tetrahydropteroyltri-L-glutamate,C29H35N9O12,-2, ,C29H37N9O12,C04144,6829
+hpmeACP[m],Mitochondria,3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester,C8H12O4SR,-1, ,C8H13O4SR,C20377,163312115
+hpyr,Cytosol,Hydroxypyruvate,C3H3O4,-1,1113-60-6,C3H4O4,C00168,3468
+hpyr[m],Mitochondria,Hydroxypyruvate,C3H3O4,-1,1113-60-6,C3H4O4,C00168,3468
+hso3,Cytosol,HSO3-,HSO3,-1,15181-46-1,HSO3,C11481,13651
+hso3[e],Extra-organism,HSO3-,HSO3,-1,15181-46-1,HSO3,C11481,13651
+hso3[h],Chloroplast,HSO3-,HSO3,-1,15181-46-1,HSO3,C11481,13651
+hso3[m],Mitochondria,HSO3-,HSO3,-1,15181-46-1,HSO3,C11481,13651
+hx2coa[m],Mitochondria,trans-Hex-2-enoyl-CoA,C27H40N7O17P3S,-4, ,C27H44N7O17P3S,C05271,7658
+hx2coa[x],Glyoxysome,trans-Hex-2-enoyl-CoA,C27H40N7O17P3S,-4, ,C27H44N7O17P3S,C05271,7658
+hxan,Cytosol,Hypoxanthine,C5H4N4O,0,68-94-0,C5H4N4O,C00262,3560
+hxan[e],Extra-organism,Hypoxanthine,C5H4N4O,0,68-94-0,C5H4N4O,C00262,3560
+hxcoa[m],Mitochondria,Hexanoyl-CoA (n-C6:0CoA),C27H42N7O17P3S,-4, ,C27H46N7O17P3S,C05270,7657
+hxcoa[x],Glyoxysome,Hexanoyl-CoA (n-C6:0CoA),C27H42N7O17P3S,-4, ,C27H46N7O17P3S,C05270,7657
+hxdcal,Cytosol,Hexadecanal,C16H32O,0,629-80-1,C16H32O,C00517,3800
+hxdceal,Cytosol,Hexadecenal,C16H30O,0, ,C16H30O,C06123,8380
+iasp[m],Mitochondria,Iminoaspartate,C4H3NO4,-2, ,C4H5NO4,C05840,8133
+ibcoa[m],Mitochondria,Isobutyryl-CoA,C25H38N7O17P3S,-4, ,C25H42N7O17P3S,C00630,3903
+icit,Cytosol,Isocitrate,C6H5O7,-3,30810-51-6,C6H8O7,C00311,3605
+icit[h],Chloroplast,Isocitrate,C6H5O7,-3,30810-51-6,C6H8O7,C00311,3605
+icit[m],Mitochondria,Isocitrate,C6H5O7,-3,30810-51-6,C6H8O7,C00311,3605
+icit[x],Glyoxysome,Isocitrate,C6H5O7,-3,30810-51-6,C6H8O7,C00311,3605
+idp,Cytosol,IDP,C10H11N4O11P2,-3,86-04-4,C10H14N4O11P2,C00104,3404
+idp[m],Mitochondria,IDP,C10H11N4O11P2,-3,86-04-4,C10H14N4O11P2,C00104,3404
+ile-L,Cytosol,L-Isoleucine,C6H13NO2,0,73-32-5,C6H13NO2,C00407,3697
+ile-L[h],Chloroplast,L-Isoleucine,C6H13NO2,0,73-32-5,C6H13NO2,C00407,3697
+ile-L[m],Mitochondria,L-Isoleucine,C6H13NO2,0,73-32-5,C6H13NO2,C00407,3697
+iletrna,Cytosol,L-Isoleucyl-tRNA(Ile),C21H32N6O11PR,0, ,C21H32N6O11PR,C03127,6020
+iletrna[m],Mitochondria,L-Isoleucyl-tRNA(Ile),C21H32N6O11PR,0, ,C21H32N6O11PR,C03127,6020
+im4ac,Cytosol,Imidazole-4-acetate,C5H5N2O2,-1,7273-34-9,C5H6N2O2,C02835,5778
+im4act,Cytosol,Imidazole-4-acetaldehyde,C5H6N2O,0,617-54-9,C5H6N2O,C05130,7550
+imacp,Cytosol,3-(Imidazol-4-yl)-2-oxopropyl phosphate,C6H7N2O5P,-2, ,C6H9N2O5P,C01267,4486
+imacp[h],Chloroplast,3-(Imidazol-4-yl)-2-oxopropyl phosphate,C6H7N2O5P,-2, ,C6H9N2O5P,C01267,4486
+imp,Cytosol,IMP,C10H11N4O8P,-2,131-99-7,C10H13N4O8P,C00130,3430
+imp[h],Chloroplast,IMP,C10H11N4O8P,-2,131-99-7,C10H13N4O8P,C00130,3430
+imp[m],Mitochondria,IMP,C10H11N4O8P,-2,131-99-7,C10H13N4O8P,C00130,3430
+indole[h],Chloroplast,Indole,C8H7N,0,120-72-9,C8H7N,C00463,3747
+inost,Cytosol,myo-Inositol,C6H12O6,0,87-89-8,C6H12O6,C00137,3437
+inost[h],Chloroplast,myo-Inositol,C6H12O6,0,87-89-8,C6H12O6,C00137,3437
+ins,Cytosol,Inosine,C10H12N4O5,0,58-63-9,C10H12N4O5,C00294,3588
+ipdp,Cytosol,Isopentenyl diphosphate,C5H9O7P2,-3,358-71-4,C5H12O7P2,C00129,3429
+ipdp[h],Chloroplast,Isopentenyl diphosphate,C5H9O7P2,-3,358-71-4,C5H12O7P2,C00129,3429
+itp,Cytosol,ITP,C10H11N4O14P3,-4,132-06-9,C10H15N4O14P3,C00081,3381
+itp[m],Mitochondria,ITP,C10H11N4O14P3,-4,132-06-9,C10H15N4O14P3,C00081,3381
+ivcoa[m],Mitochondria,Isovaleryl-CoA,C26H40N7O17P3S,-4, ,C26H44N7O17P3S,C02939,5858
+lac-D,Cytosol,D-Lactate,C3H5O3,-1,10326-41-7,C3H6O3,C00256,3555
+lac-D[e],Extra-organism,D-Lactate,C3H5O3,-1,10326-41-7,C3H6O3,C00256,3555
+lac-D[m],Mitochondria,D-Lactate,C3H5O3,-1,10326-41-7,C3H6O3,C00256,3555
+lac-L[h],Chloroplast,L-Lactate,C3H5O3,-1,79-33-4,C3H6O3,C00186,3486
+lac-L[m],Mitochondria,L-Lactate,C3H5O3,-1,79-33-4,C3H6O3,C00186,3486
+lac-L[x],Glyoxysome,L-Lactate,C3H5O3,-1,79-33-4,C3H6O3,C00186,3486
+lald-D,Cytosol,(R)-Lactaldehyde,C3H6O2,0, ,C3H6O2,C00937,4189
+lanost,Cytosol,Lanosterol,C30H50O,0,79-63-0,C30H50O,C01724,4861
+lcts[h],Chloroplast,Lactose,C12H22O11,0,63-42-3,C12H22O11,C00243,3542
+Lcyst[h],Chloroplast,L-Cysteate,C3H6NO5S,-1,13100-82-8,C3H7NO5S,C00506,3789
+Lcyst[m],Mitochondria,L-Cysteate,C3H6NO5S,-1,13100-82-8,C3H7NO5S,C00506,3789
+Lcystin[h],Chloroplast,L-Cystine,C6H12N2O4S2,0,56-89-3,C6H12N2O4S2,C00491,3774
+leu-L,Cytosol,L-Leucine,C6H13NO2,0,61-90-5,C6H13NO2,C00123,3423
+leu-L[e],Extra-organism,L-Leucine,C6H13NO2,0,61-90-5,C6H13NO2,C00123,3423
+leu-L[h],Chloroplast,L-Leucine,C6H13NO2,0,61-90-5,C6H13NO2,C00123,3423
+leu-L[m],Mitochondria,L-Leucine,C6H13NO2,0,61-90-5,C6H13NO2,C00123,3423
+leutrna,Cytosol,L-Leucyl-tRNA(Leu),C21H32N6O11PR,0, ,C21H32N6O11PR,C02047,5136
+Lfmkynr,Cytosol,L-Formylkynurenine,C11H12N2O4,0,1022-31-7,C11H12N2O4,C02700,5664
+lgt-S,Cytosol,(R)-S-Lactoylglutathione,C13H19N3O8S,-2,59-85-8,C13H21N3O8S,C03451,6272
+lgt-S[m],Mitochondria,(R)-S-Lactoylglutathione,C13H19N3O8S,-2,59-85-8,C13H21N3O8S,C03451,6272
+lido,Cytosol,Lidocaine,C14H23N2O,1,137-58-6,C14H22N2O,C07073,9284
+lido[e],Extra-organism,Lidocaine,C14H23N2O,1,137-58-6,C14H22N2O,C07073,9284
+Lkynr,Cytosol,L-Kynurenine,C10H12N2O3,0,343-65-7,C10H12N2O3,C00328,3622
+lnlc,Cytosol,linoleic acid (all cis C18:2) n-6,C18H31O2,-1,60-33-3,C18H32O2,C01595,4750
+lnlc[h],Chloroplast,linoleic acid (all cis C18:2) n-6,C18H31O2,-1,60-33-3,C18H32O2,C01595,4750
+lnlccoa,Cytosol,linoleic coenzyme A,C39H62N7O17P3S,-4, ,C39H66N7O17P3S,C02050,5139
+lnlnca,Cytosol,"alpha-Linolenic acid, C18:3, n-3",C18H29O2,-1,463-40-1,C18H30O2,C06427,8662
+lnlncacoa,Cytosol,alpha-Linolenoyl-CoA,C39H60N7O17P3S,-4, ,C39H64N7O17P3S,C16162,47205472
+lnlncg,Cytosol,gamma-linolenic acid,C18H29O2,-1,506-26-3,C18H30O2,C06426,8661
+lnlncgcoa,Cytosol,gamma-linolenoyl-CoA,C39H60N7O17P3S,-4,18172-33-3,C39H64N7O17P3S,C03035,5940
+loroxan[u],Thylakoid Lumen,Loroxanthin,C40H56O3,0, ,C40H56O3, ,24701967
+lpam[h],Chloroplast,Lipoamide,C8H15NOS2,0,940-69-2,C8H15NOS2,C00248,3547
+lpam[m],Mitochondria,Lipoamide,C8H15NOS2,0,940-69-2,C8H15NOS2,C00248,3547
+lpro[m],Mitochondria,Lipoylprotein,C8H14NOS2R,0, ,C8H14NOS2R,C02051,5140
+lthstrl,Cytosol,Lathosterol,C27H46O,0,80-99-9,C27H46O,C01189,4415
+lumirhodopsin[s],Eyespot,Lumirhodopsin,C20H28R,0, ,C20H28R,C05915,8203
+lut[u],Thylakoid Lumen,Lutein,C40H56O2,0,127-40-2,C40H56O2,C08601,10794
+lyc[h],Chloroplast,Lycopene,C40H56,0,502-65-8,C40H56,C05432,7796
+lys-L,Cytosol,L-Lysine,C6H15N2O2,1,56-87-1,C6H14N2O2,C00047,3349
+lys-L[m],Mitochondria,L-Lysine,C6H15N2O2,1,56-87-1,C6H14N2O2,C00047,3349
+lystrna,Cytosol,L-Lysine-tRNA (Lys),C16H30N2O11PR2,1, ,C16H29N2O11PR2,C01931,5037
+lystrna[m],Mitochondria,L-Lysine-tRNA (Lys),C16H30N2O11PR2,1, ,C16H29N2O11PR2,C01931,5037
+mag160,Cytosol,1-monoacylglycerol (16:0),C19H38O4,0, ,C19H38O4,C01885,4998
+mag180,Cytosol,1-monoacylglycerol (18:0),C21H42O4,0, ,C21H42O4,C01885,4998
+mag18111Z,Cytosol,1-monoacylglycerol (18:1(11Z)),C21H40O4,0, ,C21H40O4,C01885,4998
+mag1819Z,Cytosol,1-monoacylglycerol (18:1(9Z)),C21H40O4,0, ,C21H40O4,C01885,4998
+malACP[h],Chloroplast,Malonyl-[acyl-carrier protein],C3H3O3SR,0, ,C3H3O3SR,C01209,4431
+malACP[m],Mitochondria,Malonyl-[acyl-carrier protein],C3H3O3SR,0, ,C3H3O3SR,C01209,4431
+malcoa,Cytosol,Malonyl-CoA,C24H34N7O19P3S,-4,524-14-1,C24H38N7O19P3S,C00083,3383
+malcoa[h],Chloroplast,Malonyl-CoA,C24H34N7O19P3S,-4,524-14-1,C24H38N7O19P3S,C00083,3383
+malcoa[m],Mitochondria,Malonyl-CoA,C24H34N7O19P3S,-4,524-14-1,C24H38N7O19P3S,C00083,3383
+malcoame[m],Mitochondria,malonyl-CoA methyl ester,C25H36N7O19P3S,-4, ,C25H40N7O19P3S,C19673,135626141
+mal-L,Cytosol,L-Malate,C4H4O5,-2,97-67-6,C4H6O5,C00149,3449
+mal-L[f],Flagellum,L-Malate,C4H4O5,-2,97-67-6,C4H6O5,C00149,3449
+mal-L[h],Chloroplast,L-Malate,C4H4O5,-2,97-67-6,C4H6O5,C00149,3449
+mal-L[m],Mitochondria,L-Malate,C4H4O5,-2,97-67-6,C4H6O5,C00149,3449
+mal-L[x],Glyoxysome,L-Malate,C4H4O5,-2,97-67-6,C4H6O5,C00149,3449
+man,Cytosol,D-Mannose,C6H12O6,0,3458-28-4,C6H12O6,C00159,3459
+man[h],Chloroplast,D-Mannose,C6H12O6,0,3458-28-4,C6H12O6,C00159,3459
+man1p,Cytosol,D-mannose 1-phosphate,C6H11O9P,-2, ,C6H13O9P,C00636,3909
+man6p,Cytosol,D-Mannose 6-phosphate,C6H11O9P,-2, ,C6H13O9P,C00275,3572
+man6p[h],Chloroplast,D-Mannose 6-phosphate,C6H11O9P,-2, ,C6H13O9P,C00275,3572
+mdhascb[m],Mitochondria,Monodehydroascorbate,C6H7O6,0, ,C6H7O6,C01041,4283
+meglyxyl,Cytosol,Monoethylglycinexylidide,C12H19N2O,1,7728-40-7,C12H18N2O,C16561,51090890
+meglyxyl[e],Extra-organism,Monoethylglycinexylidide,C12H19N2O,1,7728-40-7,C12H18N2O,C16561,51090890
+melib[h],Chloroplast,Melibiose,C12H22O11,0,585-99-9,C12H22O11,C05402,7769
+melt[h],Chloroplast,melibiitol,C12H24O11,0, ,C12H24O11,C05399,7766
+menecyart,Cytosol,24-Methylenecycloartanol,C31H52O,0,1449-09-8,C31H52O,C08830,11023
+meoh,Cytosol,Methanol,CH4O1,0, ,CH4O1,C00132,3432
+meoh[e],Extra-organism,Methanol,CH4O1,0, ,CH4O1,C00132,3432
+meoh[m],Mitochondria,Methanol,CH4O1,0, ,CH4O1,C00132,3432
+mercppyr[h],Chloroplast,Mercaptopyruvate,C3H3O3S,-1, ,C3H4O3S,C00957,4208
+mercppyr[m],Mitochondria,Mercaptopyruvate,C3H3O3S,-1, ,C3H4O3S,C00957,4208
+mergtrol,Cytosol,"4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol",C29H46O,0, ,C29H46O,C11508,13678
+metarhodopsin[s],Eyespot,Metarhodopsin,C20H28R,0, ,C20H28R,C05916,8204
+methf,Cytosol,"5,10-Methenyltetrahydrofolate",C20H21N7O6,0, ,C20H22N7O6,C00445,3733
+methf[h],Chloroplast,"5,10-Methenyltetrahydrofolate",C20H21N7O6,0, ,C20H22N7O6,C00445,3733
+methf[m],Mitochondria,"5,10-Methenyltetrahydrofolate",C20H21N7O6,0, ,C20H22N7O6,C00445,3733
+methf[x],Glyoxysome,"5,10-Methenyltetrahydrofolate",C20H20N7O6,-1, ,C20H22N7O6,C00445,3733
+met-L,Cytosol,L-Methionine,C5H11NO2S,0,63-68-3,C5H11NO2S,C00073,3373
+met-L[h],Chloroplast,L-Methionine,C5H11NO2S,0,63-68-3,C5H11NO2S,C00073,3373
+met-L[m],Mitochondria,L-Methionine,C5H11NO2S,0,63-68-3,C5H11NO2S,C00073,3373
+mettrna,Cytosol,L-Methionyl-tRNA (Met),C20H30N6O11PSR,0, ,C20H30N6O11PSR,C02430,5457
+mfecostrl,Cytosol,4alpha-Methylfecosterol,C29H48O,0, ,C29H48O,C15776,47205102
+mfor[h],Chloroplast,methyl formate,C2H4O2,0, ,C2H4O2, ,129335703
+mg2,Cytosol,Magnesium,Mg,2,7439-95-4,Mg,C00305,3599
+mg2[e],Extra-organism,Magnesium,Mg,2,7439-95-4,Mg,C00305,3599
+mg2[h],Chloroplast,Magnesium,Mg,2,7439-95-4,Mg,C00305,3599
+mg2[u],Thylakoid Lumen,Magnesium,Mg,2,7439-95-4,Mg,C00305,3599
+mgdg1819Z160[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H80O10,0, ,C43H80O10,C03692,6466
+mgdg1819Z1617Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z)-hexadecenoyl, 18:1(9Z)/16:1(7Z))",C43H78O10,0, ,C43H78O10,C03692,6466
+mgdg1819Z1619Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl, 18:1(9Z)/16:1(9Z))",C43H78O10,0, ,C43H78O10,C03692,6466
+mgdg1819Z1627Z10Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z,10Z)-hexadecadienoyl, 18:1(9Z)/16:2(7Z,10Z))",C43H76O10,0, ,C43H76O10,C03692,6466
+mgdg1819Z1637Z10Z13Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:1(9Z)/16:3(7Z,10Z,13Z))",C43H74O10,0, ,C43H74O10,C03692,6466
+mgdg1819Z1644Z7Z10Z13Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:1(9Z)/16:4(4Z,7Z,10Z,13Z))",C43H72O10,0, ,C43H72O10,C03692,6466
+mgdg1829Z12Z160[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)",C43H78O10,0, ,C43H78O10,C03692,6466
+mgdg1829Z12Z1617Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(7Z))",C43H76O10,0, ,C43H76O10,C03692,6466
+mgdg1829Z12Z1619Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(9Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(9Z))",C43H76O10,0, ,C43H76O10,C03692,6466
+mgdg1829Z12Z1627Z10Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:2(9Z,12Z)/16:2(7Z,10Z))",C43H74O10,0, ,C43H74O10,C03692,6466
+mgdg1829Z12Z1634Z7Z10Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(4Z,7Z,10Z))",C43H72O10,0, ,C43H72O10,C03692,6466
+mgdg1829Z12Z1637Z10Z13Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(7Z,10Z,13Z))",C43H72O10,0, ,C43H72O10,C03692,6466
+mgdg1829Z12Z1644Z7Z10Z13Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:2(9Z,12Z)/16:4(4Z,7Z,10Z,13Z))",C43H70O10,0, ,C43H70O10,C03692,6466
+mgdg1839Z12Z15Z160[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)",C43H76O10,0, ,C43H76O10,C03692,6466
+mgdg1839Z12Z15Z1627Z10Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:3(9Z,12Z,15Z)/16:2(7Z,10Z))",C43H72O10,0, ,C43H72O10,C03692,6466
+mgdg1839Z12Z15Z1634Z7Z10Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(4Z,7Z,10Z))",C43H70O10,0, ,C43H70O10,C03692,6466
+mgdg1839Z12Z15Z1637Z10Z13Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(7Z,10Z,13Z))",C43H70O10,0, ,C43H70O10,C03692,6466
+mgdg1839Z12Z15Z1644Z7Z10Z13Z[h],Chloroplast,"Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:3(9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))",C43H68O10,0, ,C43H68O10,C03692,6466
+mhet,Cytosol,4-Methyl-5-(2'-hydroxyethyl)-thiazole,C6H9NOS,0, ,C6H9NOS,C04294,6954
+mhpglu[m],Mitochondria,5-Methyltetrahydropteroyltri-L-glutamate,C30H36N9O12,-3, ,C30H39N9O12,C04489,7108
+mi12356p,Cytosol,"Inositol 1,2,3,5,6-pentakisphosphate",C6H9O21P5,-8, ,C6H17O21P5,C04579,7180
+mi13456p,Cytosol,"1D-myo-Inositol 1,3,4,5,6-pentakisphosphate",C6H9O21P5,-8, ,C6H17O21P5,C01284,4503
+mi13456p[n],Nucleus,"1D-myo-Inositol 1,3,4,5,6-pentakisphosphate",C6H9O21P5,-8, ,C6H17O21P5,C01284,4503
+mi1345p,Cytosol,"1D-myo-Inositol 1,3,4,5-tetrakisphosphate",C6H8O18P4,-8, ,C6H16O18P4,C01272,4491
+mi1345p[n],Nucleus,"1D-myo-Inositol 1,3,4,5-tetrakisphosphate",C6H8O18P4,-8, ,C6H16O18P4,C01272,4491
+mi1346p,Cytosol,"1D-myo-Inositol 1,3,4,6-tetrakisphosphate",C6H8O18P4,-8,53-42-9,C6H16O18P4,C04477,7097
+mi134p,Cytosol,"1D-myo-Inositol 1,3,4-trisphosphate",C6H9O15P3,-6, ,C6H15O15P3,C01243,4464
+mi134p[n],Nucleus,"1D-myo-Inositol 1,3,4-trisphosphate",C6H9O15P3,-6, ,C6H15O15P3,C01243,4464
+mi1456p,Cytosol,"1D-myo-Inositol 1,4,5,6-tetrakisphosphate",C6H8O18P4,-8,121010-58-0,C6H16O18P4,C11555,13722
+mi1456p[n],Nucleus,"1D-myo-Inositol 1,4,5,6-tetrakisphosphate",C6H8O18P4,-8,121010-58-0,C6H16O18P4,C11555,13722
+mi145p,Cytosol,"1D-myo-Inositol 1,4,5-trisphosphate",C6H9O15P3,-6,88269-39-0,C6H15O15P3,C01245,4466
+mi145p[n],Nucleus,"1D-myo-Inositol 1,4,5-trisphosphate",C6H9O15P3,-6,88269-39-0,C6H15O15P3,C01245,4466
+mi14p,Cytosol,"1D-myo-Inositol 1,4-bisphosphate",C6H10O12P2,-4,47055-78-7,C6H14O12P2,C01220,4442
+mi14p[n],Nucleus,"1D-myo-Inositol 1,4-bisphosphate",C6H10O12P2,-4,47055-78-7,C6H14O12P2,C01220,4442
+mi1p-D,Cytosol,1D-myo-Inositol 1-phosphate,C6H11O9P,-2, ,C6H13O9P,C01177,4404
+mi3456p,Cytosol,"1D-myo-Inositol 3,4,5,6-tetrakisphosphate",C6H8O18P4,-8,652-69-7,C6H16O18P4,C04520,7132
+mi34p,Cytosol,"1D-myo-Inositol 3,4-bisphosphate",C6H10O12P2,-4,103597-56-4,C6H14O12P2,C04063,6760
+mi34p[n],Nucleus,"1D-myo-Inositol 3,4-bisphosphate",C6H10O12P2,-4,103597-56-4,C6H14O12P2,C04063,6760
+mi3p-D,Cytosol,1D-myo-Inositol 3-phosphate,C6H11O9P,-2,434-13-9,C6H13O9P,C04006,6716
+mi3p-D[n],Nucleus,1D-myo-Inositol 3-phosphate,C6H11O9P,-2,434-13-9,C6H13O9P,C04006,6716
+mi4p-D,Cytosol,1D-myo-Inositol 4-phosphate,C6H11O9P,-2,46495-39-0,C6H13O9P,C03546,6349
+minohp,Cytosol,myo-Inositol hexakisphosphate,C6H10O24P6,-8, ,C6H18O24P6,C01204,4428
+mlthf,Cytosol,"5,10-Methylenetetrahydrofolate",C20H21N7O6,-2,3432-99-3,C20H23N7O6,C00143,3443
+mlthf[m],Mitochondria,"5,10-Methylenetetrahydrofolate",C20H21N7O6,-2,3432-99-3,C20H23N7O6,C00143,3443
+mm[m],Mitochondria,Methylmalonate,C4H4O4,-2,516-05-2,C4H6O4,C02170,5245
+mma,Cytosol,Methylamine,CH6N,1,74-89-5,CH5N,C00218,3518
+mmsa[m],Mitochondria,(S)-Methylmalonate semialdehyde,C4H5O3,-1, ,C4H6O3,C06002,8276
+mnt[h],Chloroplast,manninotriose,C18H32O16,0,13382-86-0,C18H32O16,C05404,7771
+mpet,Cytosol,4-Methyl-5-(2-phosphoethyl)thiazole,C6H8NO4PS,-2, ,C6H10NO4PS,C04327,6980
+mppp9[h],Chloroplast,Magnesium protoporphyrin IX,C34H32MgN4O4,0,15985-39-4,C34H32MgN4O4,C03516,6325
+mppp9me[h],Chloroplast,Magnesium protoporphyrin IX monomethyl ester,C35H34MgN4O4,0, ,C35H34MgN4O4,C04536,7143
+mpq[h],Chloroplast,2-Methyl-6-phytylquinol,C27H46O2,0, ,C27H46O2,C15882,47205202
+msa[m],Mitochondria,Malonate semialdehyde,C3H3O3,-1, ,C3H4O3,C00222,3522
+msbq[h],Chloroplast,"2-Methyl-6-solanyl-1,4-benzoquinol",C52H80O2,0, ,C52H80O2,C17570,96023915
+mthgxl,Cytosol,Methylglyoxal,C3H4O2,0,78-98-8,C3H4O2,C00546,3827
+mthgxl[x],Glyoxysome,Methylglyoxal,C3H4O2,0,78-98-8,C3H4O2,C00546,3827
+myrsACP[h],Chloroplast,Myristoyl-ACP (n-C14:0ACP),C14H27OSR,0, ,C14H27OSR,C05761,8056
+na1,Cytosol,Sodium,Na,1,7440-23-5,Na,C01330,4541
+na1[e],Extra-organism,Sodium,Na,1,7440-23-5,Na,C01330,4541
+na1[h],Chloroplast,Sodium,Na,1,7440-23-5,Na,C01330,4541
+na1[m],Mitochondria,Sodium,Na,1,7440-23-5,Na,C01330,4541
+na1[x],Glyoxysome,Sodium,Na,1,7440-23-5,Na,C01330,4541
+nac,Cytosol,Nicotinate,C6H4NO2,-1,59-67-6,C6H5NO2,C00253,3552
+nad,Cytosol,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nad[f],Flagellum,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nad[h],Chloroplast,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nad[m],Mitochondria,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nad[n],Nucleus,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nad[s],Eyespot,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nad[x],Glyoxysome,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,53-84-9,C21H28N7O14P2,C00003,3305
+nadh,Cytosol,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,58-68-4,C21H29N7O14P2,C00004,3306
+nadh[f],Flagellum,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,58-68-4,C21H29N7O14P2,C00004,3306
+nadh[h],Chloroplast,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,58-68-4,C21H29N7O14P2,C00004,3306
+nadh[m],Mitochondria,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,58-68-4,C21H29N7O14P2,C00004,3306
+nadh[s],Eyespot,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,58-68-4,C21H29N7O14P2,C00004,3306
+nadh[x],Glyoxysome,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,58-68-4,C21H29N7O14P2,C00004,3306
+nadp,Cytosol,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[f],Flagellum,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[h],Chloroplast,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[m],Mitochondria,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[n],Nucleus,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[s],Eyespot,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[u],Thylakoid Lumen,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadp[x],Glyoxysome,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,53-59-8,C21H29N7O17P3,C00006,3308
+nadph,Cytosol,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[f],Flagellum,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[h],Chloroplast,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[m],Mitochondria,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[n],Nucleus,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[s],Eyespot,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[u],Thylakoid Lumen,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+nadph[x],Glyoxysome,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,2646-71-1,C21H30N7O17P3,C00005,3307
+ncam,Cytosol,Nicotinamide,C6H6N2O,0,98-92-0,C6H6N2O,C00153,3453
+ncam[e],Extra-organism,Nicotinamide,C6H6N2O,0,98-92-0,C6H6N2O,C00153,3453
+ncam[m],Mitochondria,Nicotinamide,C6H6N2O,0,98-92-0,C6H6N2O,C00153,3453
+neoxan[u],Thylakoid Lumen,Neoxanthin,C40H56O4,0,14660-91-4,C40H56O4,C08606,10799
+nh4,Cytosol,Ammonium,NH4,1,14798-03-9,NH4,C01342,4547
+nh4[e],Extra-organism,Ammonium,NH4,1,14798-03-9,NH4,C01342,4547
+nh4[h],Chloroplast,Ammonium,NH4,1,14798-03-9,NH4,C01342,4547
+nh4[m],Mitochondria,Ammonium,NH4,1,14798-03-9,NH4,C01342,4547
+nh4[n],Nucleus,Ammonium,NH4,1,14798-03-9,NH4,C01342,4547
+nh4[x],Glyoxysome,Ammonium,NH4,1,14798-03-9,NH4,C01342,4547
+nicrns,Cytosol,Nicotinate D-ribonucleoside,C11H13NO6,0, ,C11H14NO6,C05841,8134
+nicrnt,Cytosol,Nicotinate D-ribonucleotide,C11H12NO9P,-2, ,C11H15NO9P,C01185,4411
+nicrnt[m],Mitochondria,Nicotinate D-ribonucleotide,C11H12NO9P,-2, ,C11H15NO9P,C01185,4411
+nicrnt[n],Nucleus,Nicotinate D-ribonucleotide,C11H12NO9P,-2, ,C11H15NO9P,C01185,4411
+nmn,Cytosol,Nicotinamide mononucleotide,C11H13N2O8P,-2,1094-61-7,C11H15N2O8P,C00455,3741
+nmn[e],Cytosol,Nicotinamide mononucleotide,C11H13N2O8P,-2,1094-61-7,C11H15N2O8P,C00455,3741
+nmn[n],Nucleus,Nicotinamide mononucleotide,C11H13N2O8P,-2,1094-61-7,C11H15N2O8P,C00455,3741
+no,Cytosol,Nitric oxide,NO,0,10102-43-9,NO,C00533,3815
+no[h],Chloroplast,Nitric oxide,NO,0,10102-43-9,NO,C00533,3815
+no2,Cytosol,Nitrite,NO2,-1,7697-37-2,HNO2,C00088,3388
+no2[e],Extra-organism,Nitrite,NO2,-1,7697-37-2,HNO2,C00088,3388
+no2[h],Chloroplast,Nitrite,NO2,-1,7697-37-2,HNO2,C00088,3388
+no3,Cytosol,Nitrate,NO3,-1,7697-37-2,HNO3,C00244,3543
+no3[e],Extra-organism,Nitrate,NO3,-1,7697-37-2,HNO3,C00244,3543
+norsp[h],Chloroplast,Neurosporene,C40H58,0, ,C40H58,C05431,7795
+NPmehis,Cytosol,N(pai)-Methyl-L-histidine,C7H11N3O2,0,368-16-1,C7H11N3O2,C01152,4381
+nwharg,Cytosol,N-(omega)-Hydroxyarginine,C6H15N4O3,1, ,C6H14N4O3,C05933,8221
+o2,Cytosol,O2,O2,0,7782-44-7,O2,C00007,3309
+o2[e],Extra-organism,O2,O2,0,7782-44-7,O2,C00007,3309
+o2[h],Chloroplast,O2,O2,0,7782-44-7,O2,C00007,3309
+o2[m],Mitochondria,O2,O2,0,7782-44-7,O2,C00007,3309
+o2[n],Nucleus,O2,O2,0,7782-44-7,O2,C00007,3309
+o2[u],Thylakoid Lumen,O2,O2,0,7782-44-7,O2,C00007,3309
+o2[x],Glyoxysome,O2,O2,0,7782-44-7,O2,C00007,3309
+o2D[u],Thylakoid Lumen,O2 (Dummy metabolite to resolve Type IV path),O2,0,7782-44-7,O2,C00007,3309
+oaa,Cytosol,Oxaloacetate,C4H2O5,-2,328-42-7,C4H4O5,C00036,3338
+oaa[f],Flagellum,Oxaloacetate,C4H2O5,-2,328-42-7,C4H4O5,C00036,3338
+oaa[h],Chloroplast,Oxaloacetate,C4H2O5,-2,328-42-7,C4H4O5,C00036,3338
+oaa[m],Mitochondria,Oxaloacetate,C4H2O5,-2,328-42-7,C4H4O5,C00036,3338
+oaa[x],Glyoxysome,Oxaloacetate,C4H2O5,-2,328-42-7,C4H4O5,C00036,3338
+obfool,Cytosol,Obtusifoliol,C30H50O,0,16910-32-0,C30H50O,C01943,5047
+oc2coa[m],Mitochondria,trans-Oct-2-enoyl-CoA,C29H44N7O17P3S,-4, ,C29H48N7O17P3S,C05276,7663
+oc2coa[x],Glyoxysome,trans-Oct-2-enoyl-CoA,C29H44N7O17P3S,-4, ,C29H48N7O17P3S,C05276,7663
+ocACP[h],Chloroplast,Octanoyl-ACP (n-C8:0ACP),C8H15OSR,0, ,C8H15OSR,C05752,8047
+occoa[m],Mitochondria,Octanoyl-CoA (n-C8:0CoA),C29H46N7O17P3S,-4, ,C29H50N7O17P3S,C01944,5048
+occoa[x],Glyoxysome,Octanoyl-CoA (n-C8:0CoA),C29H46N7O17P3S,-4, ,C29H50N7O17P3S,C01944,5048
+ocdca,Cytosol,octadecanoate (n-C18:0),C18H35O2,-1,57-11-4,C18H36O2,C01530,4692
+ocdca[h],Chloroplast,octadecanoate (n-C18:0),C18H35O2,-1,57-11-4,C18H36O2,C01530,4692
+ocdcaACP[h],Chloroplast,Octadecanoyl-ACP (n-C18:0ACP),C18H35OSR,0, ,C18H35OSR,C04088,6780
+ocdccoa,Cytosol,octadecanoyl-coa,C39H66N7O17P3S,-4, ,C39H70N7O17P3S,C02843,5783
+ocdce9a,Cytosol,octadecenoate (18:1(9Z)),C18H33O2,-1,112-80-1,C18H34O2,C00712,3978
+ocdce9a[h],Chloroplast,octadecenoate (18:1(9Z)),C18H33O2,-1,112-80-1,C18H34O2,C00712,3978
+ocdce9coa,Cytosol,(9Z)-octadecenoyl-coa,C39H64N7O17P3S,-4, ,C39H68N7O17P3S,C00510,3793
+ocdcea,Cytosol,octadecenoate (18:1(11Z)),C18H33O2,-1, ,C18H34O2, , 
+ocdcea[h],Chloroplast,octadecenoate (18:1(11Z)),C18H33O2,-1, ,C18H34O2, , 
+ocdcecoa,Cytosol,(11Z)-octadecenoyl-coa,C39H64N7O17P3S,-4, ,C39H68N7O17P3S,C02843,5783
+octa[h],Chloroplast,octanoate (n-C8:0),C8H15O2,-1,124-07-2,C8H16O2,C06423,8658
+octe9ACP[h],Chloroplast,cis-octadec-9-enoyl-[acyl-carrier protein] ((9Z)-n-C18:1),C18H33OSR,0, ,C18H33OSR,C01203,4427
+octeACP[h],Chloroplast,cis-octadec-11-enoyl-[acyl-carrier protein] ((11Z)-n-C18:1),C18H33OSR,0, ,C18H33OSR,C01203,4427
+od2coa,Cytosol,(2E)-Octadecenoyl-CoA,C39H64N7O17P3S,-4, ,C39H68N7O17P3S,C16218,47205526
+ogmeACP[m],Mitochondria,3-Oxo-glutaryl-[acyl-carrier protein] methyl ester,C6H6O4SR,-1, ,C6H7O4SR,C20372,163312110
+omppp9me[h],Chloroplast,13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester,C35H33MgN4O5,1, ,C35H32MgN4O5,C11830,13994
+opmeACP[m],Mitochondria,3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester,C8H10O4SR,-1, ,C8H11O4SR,C20376,163312114
+orn,Cytosol,L-Ornithine,C5H13N2O2,1,70-26-8,C5H12N2O2,C01602,4756
+orn[e],Extra-organism,L-Ornithine,C5H13N2O2,1,70-26-8,C5H12N2O2,C01602,4756
+orn[h],Chloroplast,L-Ornithine,C5H13N2O2,1,70-26-8,C5H12N2O2,C01602,4756
+orn[m],Mitochondria,L-Ornithine,C5H13N2O2,1,70-26-8,C5H12N2O2,C01602,4756
+orot,Cytosol,Orotate,C5H3N2O4,-1,65-86-1,C5H4N2O4,C00295,3589
+orot[m],Mitochondria,Orotate,C5H3N2O4,-1,65-86-1,C5H4N2O4,C00295,3589
+orot5p,Cytosol,Orotidine 5'-phosphate,C10H10N2O11P,-3,2149-82-8,C10H13N2O11P,C01103,4337
+p3h5c,Cytosol,L-1-Pyrroline-3-hydroxy-5-carboxylate,C5H6NO3,-1, ,C5H7NO3,C04281,6943
+pa,Cytosol,"pinolenic acid (18:3(5Z,9Z,12Z))",C18H29O2,-1, ,C18H30O2, ,5312493
+pa160[h],Chloroplast,"1,2-dihexadecanoyl-sn-glycerol 3-phosphate",C35H67O8P,-2, ,C35H69O8P,C00416,3706
+pa16018111Z,Cytosol,"1-hexadecanoyl,2-(11Z)-octadecenoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa1601819Z,Cytosol,"1-hexadecanoyl,2-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa1601819Z[h],Chloroplast,"1-hexadecanoyl,2-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa1801819Z,Cytosol,"1-octadecanoyl,2-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H73O8P,-2, ,C39H75O8P,C00416,3706
+pa1801819Z[h],Chloroplast,"1-octadecanoyl,2-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H73O8P,-2, ,C39H75O8P,C00416,3706
+pa1801829Z12Z,Cytosol,"1-octadecanoyl,2-(9Z,12Z)-octadecadienoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa1801835Z9Z12Z,Cytosol,"1-octadecanoyl,2-(5Z,9Z,12Z)-octadecatrienoyl-sn-glycerol 3-phosphate",C39H69O8P,-2, ,C39H71O8P,C00416,3706
+pa1801845Z9Z12Z15Z,Cytosol,"1-octadecanoyl,2-(5Z,9Z,12Z,15Z)-octadecatetraenoyl-sn-glycerol 3-phosphate",C39H67O8P,-2, ,C39H69O8P,C00416,3706
+pa18111Z160,Cytosol,"1-(11Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa18111Z160[h],Chloroplast,"1-(11Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa18111Z18111Z,Cytosol,"1-(11Z)-octadecenoyl,2-(11Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa18111Z1819Z,Cytosol,"1-(11Z)-octadecenoyl,2-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa18111Z1819Z[h],Chloroplast,"1-(11Z)-octadecenoyl,2-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa18111Z1829Z12Z,Cytosol,"1-(11Z)-octadecenoyl,2-(9Z,12Z)-octadecadienoyl-sn-glycerol 3-phosphate",C39H69O8P,-2, ,C39H71O8P,C00416,3706
+pa18111Z1835Z9Z12Z,Cytosol,"1-(11Z)-octadecenoyl,2-(5Z,9Z,12Z)-octadecatrienoyl-sn-glycerol 3-phosphate",C39H67O8P,-2, ,C39H69O8P,C00416,3706
+pa18111Z1845Z9Z12Z15Z,Cytosol,"1-(11Z)-octadecenoyl,2-(5Z,9Z,12Z,15Z)-octadecatetraenoyl-sn-glycerol 3-phosphate",C39H65O8P,-2, ,C39H67O8P,C00416,3706
+pa1819Z160,Cytosol,"1-(9Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa1819Z160[h],Chloroplast,"1-(9Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol 3-phosphate",C37H69O8P,-2, ,C37H71O8P,C00416,3706
+pa1819Z1619Z[h],Chloroplast,"1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl-sn-glycerol 3-phosphate",C37H67O8P,-2, ,C37H69O8P,C00416,3706
+pa1819Z18111Z,Cytosol,"1-(9Z)-octadecenoyl,2-(11Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa1819Z18111Z[h],Chloroplast,"1-(9Z)-octadecenoyl,2-(11Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa1819Z1819Z,Cytosol,"1,2-di-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa1819Z1819Z[h],Chloroplast,"1,2-di-(9Z)-octadecenoyl-sn-glycerol 3-phosphate",C39H71O8P,-2, ,C39H73O8P,C00416,3706
+pa1819Z1829Z12Z,Cytosol,"1-(9Z)-octadecenoyl,2-(9Z,12Z)-octadecadienoyl-sn-glycerol 3-phosphate",C39H69O8P,-2, ,C39H71O8P,C00416,3706
+pa1819Z1835Z9Z12Z,Cytosol,"1-(9Z)-octadecenoyl,2-(5Z,9Z,12Z)-octadecatrienoyl-sn-glycerol 3-phosphate",C39H67O8P,-2, ,C39H69O8P,C00416,3706
+pa1819Z1845Z9Z12Z15Z,Cytosol,"1-(9Z)-octadecenoyl,2-(5Z,9Z,12Z,15Z)-octadecatetraenoyl-sn-glycerol 3-phosphate",C39H65O8P,-2, ,C39H67O8P,C00416,3706
+pa1829Z12Z1835Z9Z12Z,Cytosol,"1-(9Z,12Z)-octadecadienoyl,2-(5Z,9Z,12Z)-octadecatrienoyl-sn-glycerol 3-phosphate",C39H65O8P,-2, ,C39H67O8P,C00416,3706
+pacoa,Cytosol,pinolenyl-coa,C39H60N7O17P3S,-4, ,C39H64N7O17P3S,C02843,5783
+pail18111Z160,Cytosol,"1-Phosphatidyl-D-myo-inositol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H81O13P,0, ,C43H81O13P,C01194,3899
+pail18111Z160[e],Extra-organism,"1-Phosphatidyl-D-myo-inositol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H81O13P,0, ,C43H81O13P,C01194,3899
+pail1819Z160,Cytosol,"1-Phosphatidyl-D-myo-inositol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H81O13P,0, ,C43H81O13P,C01194,3899
+pail1819Z160[e],Extra-organism,"1-Phosphatidyl-D-myo-inositol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H81O13P,0, ,C43H81O13P,C01194,3899
+pail3P18111Z160,Cytosol,"1-Phosphatidyl-D-myo-inositol 3-phosphate (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H80O13P,-2, ,C43H82O16P2,C04549,7155
+pail3P1819Z160,Cytosol,"1-Phosphatidyl-D-myo-inositol 3-phosphate (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H80O16P2,-2, ,C43H82O16P2,C04549,7155
+pail45P18111Z160,Cytosol,"1-Phosphatidyl-1D-myo-inositol-4,5-bisphosphate (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H79O19P3,-4, ,C43H83O19P3,C04637,7226
+pail45P1819Z160,Cytosol,"1-Phosphatidyl-1D-myo-inositol-4,5-bis-phosphate (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H79O19P3,-4, ,C43H83O19P3,C04637,7226
+pail4P18111Z160,Cytosol,"1-Phosphatidyl-1D-myo-inositol-4-phosphate (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H80O16P2,-2, ,C43H82O16P2,C01277,4496
+pail4P1819Z160,Cytosol,"1-Phosphatidyl-1D-myo-inositol-4-phosphate (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H80O16P2,-2, ,C43H82O16P2,C01277,4496
+palmACP[h],Chloroplast,Palmitoyl-ACP (n-C16:0ACP),C16H31OSR,0, ,C16H31OSR,C05764,8059
+pan4p,Cytosol,Pantetheine 4'-phosphate,C11H20N2O7PS,-3, ,C11H23N2O7PS,C01134,4365
+pant-R,Cytosol,(R)-Pantoate,C6H11O4,-1,470-29-1,C6H12O4,C00522,3805
+pant-R[m],Mitochondria,(R)-Pantoate,C6H11O4,-1,470-29-1,C6H12O4,C00522,3805
+pant-R[n],Nucleus,(R)-Pantoate,C6H11O4,-1,470-29-1,C6H12O4,C00522,3805
+pap,Cytosol,"Adenosine 3',5'-bisphosphate",C10H11N5O10P2,-4,1053-73-2,C10H15N5O10P2,C00054,3356
+pap[h],Chloroplast,"Adenosine 3',5'-bisphosphate",C10H11N5O10P2,-4,1053-73-2,C10H15N5O10P2,C00054,3356
+pap[m],Mitochondria,"Adenosine 3',5'-bisphosphate",C10H11N5O10P2,-4,1053-73-2,C10H15N5O10P2,C00054,3356
+paps,Cytosol,3'-Phosphoadenylyl sulfate,C10H11N5O13P2S,-4,482-67-7,C10H15N5O13P2S,C00053,3355
+paps[h],Chloroplast,3'-Phosphoadenylyl sulfate,C10H11N5O13P2S,-4,482-67-7,C10H15N5O13P2S,C00053,3355
+paps[m],Mitochondria,3'-Phosphoadenylyl sulfate,C10H11N5O13P2S,-4,482-67-7,C10H15N5O13P2S,C00053,3355
+pcb,Cytosol,"(2R,3Z)-phycocyanobilin",C33H36N4O6,-2, ,C33H38N4O6,C05786,8081
+pcb[h],Chloroplast,"(2R,3Z)-phycocyanobilin",C33H36N4O6,-2, ,C33H38N4O6,C05786,8081
+pccu1p[u],Thylakoid Lumen,Plastocyanin(Cu+),X,1, ,X,C03025,5931
+pccu2p[u],Thylakoid Lumen,Plastocyanin(Cu2+),X,2, ,X,C03162 ,6047
+pcdme[h],Chloroplast,2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol,C14H22N3O17P3,-4, ,C14H26N3O17P3,C11436,13608
+pchlda[h],Chloroplast,Protochlorophyllide a,C35H32MgN4O5,0,20369-67-9,C35H32MgN4O5,C02880,5811
+pdp[h],Chloroplast,Phytyl diphosphate,C20H39O7P2,-3, ,C20H42O7P2,C05427,7791
+pdp[u],Thylakoid Lumen,Phytyl diphosphate,C20H39O7P2,-3, ,C20H42O7P2,C05427,7791
+pdx5p,Cytosol,Pyridoxine phosphate,C8H10NO6P,-2,447-05-2,C8H12NO6P,C00627,3900
+pe1801819Z,Cytosol,phosphatidylethanolamine (18:0/18:1(9Z)),C41H80NO8P,0, ,C41H80NO8P,C00350,3643
+pe1801819Z[e],Extra-organism,phosphatidylethanolamine (18:0/18:1(9Z)),C41H80NO8P,0, ,C41H80NO8P,C00350,3643
+pe1801829Z12Z,Cytosol,"phosphatidylethanolamine (18:0/18:2(9Z,12Z))",C41H78NO8P,0, ,C41H78NO8P,C00350,3643
+pe1801829Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:0/18:2(9Z,12Z))",C41H78NO8P,0, ,C41H78NO8P,C00350,3643
+pe1801835Z9Z12Z,Cytosol,"phosphatidylethanolamine (18:0/18:3(5Z,9Z,12Z))",C41H76NO8P,0, ,C41H76NO8P,C00350,3643
+pe1801835Z9Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:0/18:3(5Z,9Z,12Z))",C41H76NO8P,0, ,C41H76NO8P,C00350,3643
+pe1801845Z9Z12Z15Z,Cytosol,"phosphatidylethanolamine (18:0/18:4(5Z,9Z,12Z,15Z))",C41H74NO8P,0, ,C41H74NO8P,C00350,3643
+pe1801845Z9Z12Z15Z[e],Extra-organism,"phosphatidylethanolamine (18:0/18:4(5Z,9Z,12Z,15Z))",C41H74NO8P,0, ,C41H74NO8P,C00350,3643
+pe18111Z1819Z,Cytosol,phosphatidylethanolamine (18:1(11Z)/18:1(9Z)),C41H78NO8P,0, ,C41H78NO8P,C00350,3643
+pe18111Z1819Z[e],Extra-organism,phosphatidylethanolamine (18:1(11Z)/18:1(9Z)),C41H78NO8P,0, ,C41H78NO8P,C00350,3643
+pe18111Z1829Z12Z,Cytosol,"phosphatidylethanolamine (18:1(11Z)/18:2(9Z,12Z))",C41H76NO8P,0, ,C41H76NO8P,C00350,3643
+pe18111Z1829Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:1(11Z)/18:2(9Z,12Z))",C41H76NO8P,0, ,C41H76NO8P,C00350,3643
+pe18111Z1835Z9Z12Z,Cytosol,"phosphatidylethanolamine (18:1(11Z)/18:3(5Z,9Z,12Z))",C41H74NO8P,0, ,C41H74NO8P,C00350,3643
+pe18111Z1835Z9Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:1(11Z)/18:3(5Z,9Z,12Z))",C41H74NO8P,0, ,C41H74NO8P,C00350,3643
+pe18111Z1845Z9Z12Z15Z,Cytosol,"phosphatidylethanolamine (18:1(11Z)/18:4(5Z,9Z,12Z,15Z))",C41H72NO8P,0, ,C41H72NO8P,C00350,3643
+pe18111Z1845Z9Z12Z15Z[e],Extra-organism,"phosphatidylethanolamine (18:1(11Z)/18:4(5Z,9Z,12Z,15Z))",C41H72NO8P,0, ,C41H72NO8P,C00350,3643
+pe1819Z1819Z,Cytosol,phosphatidylethanolamine (18:1(9Z)/18:1(9Z)),C41H78NO8P,0, ,C41H78NO8P,C00350,3643
+pe1819Z1819Z[e],Extra-organism,phosphatidylethanolamine (18:1(9Z)/18:1(9Z)),C41H78NO8P,0, ,C41H78NO8P,C00350,3643
+pe1819Z1829Z12Z,Cytosol,"phosphatidylethanolamine (18:1(9Z)/18:2(9Z,12Z))",C41H76NO8P,0, ,C41H76NO8P,C00350,3643
+pe1819Z1829Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:1(9Z)/18:2(9Z,12Z))",C41H76NO8P,0, ,C41H76NO8P,C00350,3643
+pe1819Z1835Z9Z12Z,Cytosol,"phosphatidylethanolamine (18:1(9Z)/18:3(5Z,9Z,12Z))",C41H74NO8P,0, ,C41H74NO8P,C00350,3643
+pe1819Z1835Z9Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:1(9Z)/18:3(5Z,9Z,12Z))",C41H74NO8P,0, ,C41H74NO8P,C00350,3643
+pe1819Z1845Z9Z12Z15Z,Cytosol,"phosphatidylethanolamine (18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C41H72NO8P,0, ,C41H72NO8P,C00350,3643
+pe1819Z1845Z9Z12Z15Z[e],Extra-organism,"phosphatidylethanolamine (18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C41H72NO8P,0, ,C41H72NO8P,C00350,3643
+pe1829Z12Z1835Z9Z12Z,Cytosol,"phosphatidylethanolamine (18:2(9Z,12Z)/18:3(5Z,9Z,12Z))",C41H72NO8P,0, ,C41H72NO8P,C00350,3643
+pe1829Z12Z1835Z9Z12Z[e],Extra-organism,"phosphatidylethanolamine (18:2(9Z,12Z)/18:3(5Z,9Z,12Z))",C41H72NO8P,0, ,C41H72NO8P,C00350,3643
+pep,Cytosol,Phosphoenolpyruvate,C3H2O6P,-3,138-08-9,C3H5O6P,C00074,3374
+pep[f],Flagellum,Phosphoenolpyruvate,C3H2O6P,-3,138-08-9,C3H5O6P,C00074,3374
+pep[h],Chloroplast,Phosphoenolpyruvate,C3H2O6P,-3,138-08-9,C3H5O6P,C00074,3374
+pep[m],Mitochondria,Phosphoenolpyruvate,C3H2O6P,-3,138-08-9,C3H5O6P,C00074,3374
+pg18111Z160,Cytosol,"Phosphatidylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C40H77O10P,0, ,C40H77O10P,C00344,3637
+pg18111Z160[e],Extra-organism,"Phosphatidylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C40H77O10P,0, ,C40H77O10P,C00344,3637
+pg18111Z160[h],Chloroplast,"Phosphatidylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C40H77O10P,0, ,C40H77O10P,C00344,3637
+pg18111Z1613E[h],Chloroplast,"Phosphatidylglycerol (1-(11Z)-octadecenoyl,2-(3E)-hexadecenoyl, 18:1(11Z)/16:1(3E))",C40H75O10P,0, ,C40H75O10P,C00344,3637
+pg1819Z160,Cytosol,"Phosphatidylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C40H77O10P,0, ,C40H77O10P,C00344,3637
+pg1819Z160[e],Extra-organism,"Phosphatidylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C40H77O10P,0, ,C40H77O10P,C00344,3637
+pg1819Z160[h],Chloroplast,"Phosphatidylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C40H77O10P,0, ,C40H77O10P,C00344,3637
+pg1819Z1613E[h],Chloroplast,"Phosphatidylglycerol (1-(9Z)-octadecenoyl,2-(3E)-hexadecenoyl, 18:1(9Z)/16:1(3E))",C40H75O10P,0, ,C40H75O10P,C00344,3637
+pg1829Z12Z160[h],Chloroplast,"Phosphatidylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)",C40H75O10P,0, ,C40H75O10P,C00344,3637
+pg1829Z12Z1613E[h],Chloroplast,"Phosphatidylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(3E)-hexadecenoyl, 18:2(9Z,12Z)/16:1(3E))",C40H73O10P,0, ,C40H73O10P,C00344,3637
+pg1839Z12Z15Z160[h],Chloroplast,"Phosphatidylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)",C40H73O10P,0, ,C40H73O10P,C00344,3637
+pg1839Z12Z15Z1613E[h],Chloroplast,"Phosphatidylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(3E)-hexadecenoyl, 18:3(9Z,12Z,15Z)/16:1(3E))",C40H71O10P,0, ,C40H71O10P,C00344,3637
+pgp18111Z160,Cytosol,"Phosphatidylglycerophosphate (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C40H78O13P2,0, ,C40H78O13P2,C03892,6624
+pgp18111Z160[e],Extra-organism,"Phosphatidylglycerophosphate (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C40H78O13P2,0, ,C40H78O13P2,C03892,6624
+pgp18111Z160[h],Chloroplast,"Phosphatidylglycerophosphate (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C40H78O13P2,0, ,C40H78O13P2,C03892,6624
+pgp1819Z160,Cytosol,"Phosphatidylglycerophosphate (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C40H78O13P2,0, ,C40H78O13P2,C03892,6624
+pgp1819Z160[e],Extra-organism,"Phosphatidylglycerophosphate (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C40H78O13P2,0, ,C40H78O13P2,C03892,6624
+pgp1819Z160[h],Chloroplast,"Phosphatidylglycerophosphate (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C40H78O13P2,0, ,C40H78O13P2,C03892,6624
+phe-L,Cytosol,L-Phenylalanine,C9H11NO2,0,63-91-2,C9H11NO2,C00079,3379
+phe-L[h],Chloroplast,L-Phenylalanine,C9H11NO2,0,63-91-2,C9H11NO2,C00079,3379
+phe-L[m],Mitochondria,L-Phenylalanine,C9H11NO2,0,63-91-2,C9H11NO2,C00079,3379
+pheme,Cytosol,Protoheme,C34H32FeN4O4,2,14875-96-8,C34H32FeN4O4,C00032,3334
+pheme[e],Extra-organism,Protoheme,C34H32FeN4O4,2,14875-96-8,C34H32FeN4O4,C00032,3334
+pheme[h],Chloroplast,Protoheme,C34H32FeN4O4,2,14875-96-8,C34H32FeN4O4,C00032,3334
+pheme[m],Mitochondria,Protoheme,C34H32FeN4O4,2,14875-96-8,C34H32FeN4O4,C00032,3334
+phen,Cytosol,Phenol,C6H6O,0, ,C6H6O,C15584,17396576
+phetrna,Cytosol,L-Phenylalanyl-tRNA(Phe),C19H26NO11PR2,0, ,C19H26NO11PR2,C03511,6321
+phetrna[m],Mitochondria,L-Phenylalanyl-tRNA(Phe),C19H26NO11PR2,0, ,C19H26NO11PR2,C03511,6321
+phom,Cytosol,O-Phospho-L-homoserine,C4H8NO6P,-2, ,C4H10NO6P,C01102,4336
+phom[h],Chloroplast,O-Phospho-L-homoserine,C4H8NO6P,-2, ,C4H10NO6P,C01102,4336
+photon298,Cytosol,"photon (281 to 306 nm, UVB)", ,0, , ,C00205,3505
+photon437[u],Thylakoid Lumen,"photon (406 to 454 nm, indigo/blue)", ,0, , ,C00205,3505
+photon438[u],Thylakoid Lumen,"photon (378 to 482 nm, violet/blue)", ,0, , ,C00205,3505
+photon450[h],Chloroplast,"photon (417 to 472 nm, indigo/blue)", ,0, , ,C00205,3505
+photon490[s],Eyespot,"photon (451 to 526 nm, blue/green)", ,0, , ,C00205,3505
+photon646[h],Chloroplast,"photon (608 to 666 nm, orange/red)", ,0, , ,C00205,3505
+photon673[u],Thylakoid Lumen,"photon (659 to 684 nm, red)", ,0, , ,C00205,3505
+photon680[u],Thylakoid Lumen,"photon (662 to 691 nm, red)", ,0, , ,C00205,3505
+photonVis[e],Extra-organism,"photon (380 to 750 nm, visible spectrum)", ,0, , ,C00205,3505
+phphbda[h],Chloroplast,Pheophorbide a,C35H34N4O5,-2, ,C35H36N4O5, ,5323510
+phphtna[u],Thylakoid Lumen,Pheophytin a,C55H73N4O5,-1, ,C55H74N4O5,C05797,5351507
+phpyr,Cytosol,Phenylpyruvate,C9H7O3,-1,156-06-9,C9H8O3,C00166,3466
+phpyr[h],Chloroplast,Phenylpyruvate,C9H7O3,-1,156-06-9,C9H8O3,C00166,3466
+phpyr[m],Mitochondria,Phenylpyruvate,C9H7O3,-1,156-06-9,C9H8O3,C00166,3466
+phycer,Cytosol,Phytoceramide,C34H69NO4,0, ,C34H69NO4,C12145, 
+phytfl[h],Chloroplast,Phytofluene,C40H62,0, ,C40H62,C05414,7780
+phyto[h],Chloroplast,Phytoene,C40H64,0, ,C40H64,C05413,7779
+phytol[h],Chloroplast,Phytol,C20H40O,0,7541-49-3,C20H40O,C01389,4582
+pi,Cytosol,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pi[e],Extra-organism,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pi[f],Flagellum,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pi[h],Chloroplast,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pi[m],Mitochondria,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pi[n],Nucleus,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pi[x],Glyoxysome,Phosphate,HPO4,-2,14265-44-2,H3PO4,C00009,3311
+pimACP[m],Mitochondria,Pimeloyl-[acyl-carrier protein],C7H10O3SR,-1, ,C7H11O3SR,C19845,135626312
+pmeACP[m],Mitochondria,Pimeloyl-[acyl-carrier protein] methyl ester,C8H12O3SR,-1, ,C8H13O3SR,C19846,135626313
+pmp[h],Chloroplast,Phytyl phosphate,C20H39O4P,-2, ,C20H41O4P,C20764, 
+pmtcoa,Cytosol,Palmitoyl-CoA (n-C16:0CoA),C37H62N7O17P3S,-4,1763-10-6,C37H66N7O17P3S,C00154,3454
+pmtcoa[h],Chloroplast,Palmitoyl-CoA (n-C16:0CoA),C37H62N7O17P3S,-4,1763-10-6,C37H66N7O17P3S,C00154,3454
+pmtcoa[m],Mitochondria,Palmitoyl-CoA (n-C16:0CoA),C37H62N7O17P3S,-4,1763-10-6,C37H66N7O17P3S,C00154,3454
+pmtcoa[s],Eyespot,Palmitoyl-CoA (n-C16:0CoA),C37H62N7O17P3S,-4,1763-10-6,C37H66N7O17P3S,C00154,3454
+pmtcoa[x],Glyoxysome,Palmitoyl-CoA (n-C16:0CoA),C37H62N7O17P3S,-4,1763-10-6,C37H66N7O17P3S,C00154,3454
+pnto-R,Cytosol,(R)-Pantothenate,C9H15NO5,-2,79-83-4,C9H17NO5,C00864,4121
+pnto-R[m],Mitochondria,(R)-Pantothenate,C9H15NO5,-2,79-83-4,C9H17NO5,C00864,4121
+ppa,Cytosol,Propionate (n-C3:0),C3H5O2,-1,79-09-4,C3H6O2,C00163,3463
+ppa[h],Chloroplast,Propionate (n-C3:0),C3H5O2,-1,79-09-4,C3H6O2,C00163,3463
+ppa[m],Mitochondria,Propionate (n-C3:0),C3H5O2,-1,79-09-4,C3H6O2,C00163,3463
+ppad[m],Mitochondria,Propionyladenylate,C13H17N5O8P,-1, ,C13H18N5O8P,C05983,8261
+ppap[h],Chloroplast,Propanoyl phosphate,C3H5O5P,-2, ,C3H7O5P,C02876,5809
+ppap[m],Mitochondria,Propanoyl phosphate,C3H5O5P,-2, ,C3H7O5P,C02876,5809
+ppbng[h],Chloroplast,Porphobilinogen,C10H13N2O4,-1,487-90-1,C10H14N2O4,C00931,4184
+ppcoa,Cytosol,Propanoyl-CoA,C24H36N7O17P3S,-4,317-66-8,C24H40N7O17P3S,C00100,3400
+ppcoa[h],Chloroplast,Propanoyl-CoA,C24H36N7O17P3S,-4,317-66-8,C24H40N7O17P3S,C00100,3400
+ppcoa[m],Mitochondria,Propanoyl-CoA,C24H36N7O17P3S,-4,317-66-8,C24H40N7O17P3S,C00100,3400
+ppcoa[n],Nucleus,Propanoyl-CoA,C24H36N7O17P3S,-4,317-66-8,C24H40N7O17P3S,C00100,3400
+ppgpp,Cytosol,"Guanosine 3',5'-bis(diphosphate)",C10H11N5O17P4,-6, ,C10H17N5O17P4,C01228,4450
+pphn,Cytosol,Prephenate,C10H8O6,-2,126-49-8,C10H10O6,C00254,3553
+pphn[h],Chloroplast,Prephenate,C10H8O6,-2,126-49-8,C10H10O6,C00254,3553
+ppi,Cytosol,Diphosphate,P2HO7,-3,206975,P2H4O7,C00013,3315
+ppi[h],Chloroplast,Diphosphate,P2O7,-4,206975,P2H4O7,C00013,3315
+ppi[m],Mitochondria,Diphosphate,P2O7,-4,206975,P2H4O7,C00013,3315
+ppi[n],Nucleus,Diphosphate,P2HO7,-3,206975,P2H4O7,C00013,3315
+ppi[u],Thylakoid Lumen,Diphosphate,P2O7,-4,206975,P2H4O7,C00013,3315
+ppp9[h],Chloroplast,Protoporphyrin IX,C34H32N4O4,-2,553-12-8,C34H34N4O4,C02191,5261
+pppg9[h],Chloroplast,Protoporphyrinogen IX,C34H38N4O4,-2, ,C34H40N4O4,C01079,4317
+pq[h],Chloroplast,oxidized plastoquinone,C13H16O2,0, ,C13H16O2,C16694,51091016
+pq[u],Thylakoid Lumen,oxidized plastoquinone,C13H16O2,0, ,C13H16O2,C16694,51091016
+pqa[h],Chloroplast,Plastoquinol A,C53H82O2,0, ,C53H82O2,C16695,51091017
+pqh2[h],Chloroplast,reduced plastoquinone,C13H18O2,0, ,C13H18O2,C02185,5256
+pqh2[u],Thylakoid Lumen,reduced plastoquinone,C13H18O2,0, ,C13H18O2,C02185,5256
+pqqox[x],Glyoxysome,PQQ (Pyrroloquinoline-quinone) oxidized form,C14H3N2O8,-3,72909-34-3,C14H6N2O8,C00113,3413
+pqqrd[x],Glyoxysome,PQQ (pyrroloquinoline-quinone) reduced form,C14H4N2O8,-4, ,C14H8N2O8,C01359,4562
+pram,Cytosol,5-Phospho-beta-D-ribosylamine,C5H11NO7P,-1, ,C5H12NO7P,C03090,5988
+pram[h],Chloroplast,5-Phospho-beta-D-ribosylamine,C5H10NO7P,-2, ,C5H12NO7P,C03090,5988
+pran[h],Chloroplast,N-(5-Phospho-D-ribosyl)anthranilate,C12H13NO9P,-3, ,C12H16NO9P,C04302,6961
+prbamp,Cytosol,1-(5-Phosphoribosyl)-AMP,C15H19N5O14P2,-4, ,C15H23N5O14P2,C02741,5701
+prbamp[h],Chloroplast,1-(5-Phosphoribosyl)-AMP,C15H19N5O14P2,-4, ,C15H23N5O14P2,C02741,5701
+prbatp,Cytosol,1-(5-Phosphoribosyl)-ATP,C15H19N5O20P4,-6, ,C15H25N5O20P4,C02739,5699
+prbatp[h],Chloroplast,1-(5-Phosphoribosyl)-ATP,C15H21N5O20P4,-4, ,C15H25N5O20P4,C02739,5699
+prfp,Cytosol,1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide,C15H21N5O15P2,-4, ,C15H25N5O15P2,C04896,7447
+prfp[h],Chloroplast,1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide,C15H21N5O15P2,-4, ,C15H25N5O15P2,C04896,7447
+prlp,Cytosol,5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide,C15H21N5O15P2,-4, ,C15H25N5O15P2,C04916,7464
+prlp[h],Chloroplast,5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide,C15H21N5O15P2,-4, ,C15H25N5O15P2,C04916,7464
+pro-L,Cytosol,L-Proline,C5H9NO2,0,147-85-3,C5H9NO2,C00148,3448
+pro-L[m],Mitochondria,L-Proline,C5H9NO2,0,147-85-3,C5H9NO2,C00148,3448
+protds[h],Chloroplast,Protein disulfide,C7H9N3O3S2R2,0, ,C7H9N3O3S2R2,C02582,5577
+protdt[h],Chloroplast,Protein dithiol,C7H11N3O3S2R2,0, ,C7H11N3O3S2R2,C02315,5369
+protrna,Cytosol,L-Prolyl-tRNA(Pro),C15H24NO11PR2,0, ,C15H24NO11PR2,C02702,5665
+prpncoa,Cytosol,Propenoyl-CoA,C24H34N7O17P3S,-4, ,C24H38N7O17P3S,C00894,4150
+prpncoa[m],Mitochondria,Propenoyl-CoA,C24H34N7O17P3S,-4, ,C24H38N7O17P3S,C00894,4150
+prpncoa[n],Nucleus,Propenoyl-CoA,C24H34N7O17P3S,-4, ,C24H38N7O17P3S,C00894,4150
+prpp,Cytosol,5-Phospho-alpha-D-ribose 1-diphosphate,C5H8O14P3,-5, ,C5H13O14P3,C00119,3419
+prpp[h],Chloroplast,5-Phospho-alpha-D-ribose 1-diphosphate,C5H8O14P3,-5, ,C5H13O14P3,C00119,3419
+prpp[m],Mitochondria,5-Phospho-alpha-D-ribose 1-diphosphate,C5H8O14P3,-5, ,C5H13O14P3,C00119,3419
+pser-L[h],Chloroplast,O-Phospho-L-serine,C3H6NO6P,-2,407-41-0,C3H8NO6P,C01005,4251
+psphings,Cytosol,Phytosphingosine,C18H40NO3,1,554-62-1,C18H39NO3,C12144,14291
+psqldp,Cytosol,Presqualene diphosphate,C30H49O7P2,-3, ,C30H52O7P2,C03428,6255
+ptrc,Cytosol,Putrescine,C4H14N2,2,110-60-1,C4H12N2,C00134,3434
+ptrc[h],Chloroplast,Putrescine,C4H14N2,2,110-60-1,C4H12N2,C00134,3434
+ptrc[m],Mitochondria,Putrescine,C4H14N2,2,110-60-1,C4H12N2,C00134,3434
+ptth,Cytosol,Pantetheine,C11H21N2O4S,-1,496-65-1,C11H22N2O4S,C00831,4089
+pyam5p,Cytosol,Pyridoxamine phosphate,C8H12N2O5P,-1,529-96-4,C8H13N2O5P,C00647,3919
+pydam,Cytosol,Pyridoxamine,C8H13N2O2,1,85-87-0,C8H12N2O2,C00534,3816
+pydx,Cytosol,Pyridoxal,C8H9NO3,0,66-72-8,C8H9NO3,C00250,3549
+pydx5p,Cytosol,Pyridoxal phosphate,C8H8NO6P,-2,54-47-7,C8H10NO6P,C00018,3320
+pydxn,Cytosol,Pyridoxine,C8H11NO3,0,65-23-6,C8H11NO3,C00314,3608
+pyphphbda[h],Chloroplast,Pyropheophorbide a,C33H33N4O3,-1, ,C33H34N4O3, ,5489042
+pyr,Cytosol,Pyruvate,C3H3O3,-1,127-17-3,C3H4O3,C00022,3324
+pyr[f],Flagellum,Pyruvate,C3H3O3,-1,127-17-3,C3H4O3,C00022,3324
+pyr[h],Chloroplast,Pyruvate,C3H3O3,-1,127-17-3,C3H4O3,C00022,3324
+pyr[m],Mitochondria,Pyruvate,C3H3O3,-1,127-17-3,C3H4O3,C00022,3324
+pyr[x],Glyoxysome,Pyruvate,C3H3O3,-1,127-17-3,C3H4O3,C00022,3324
+q8[m],Mitochondria,Ubiquinone,C49H74O4,0,1339-63-5,C49H74O4,C00399,3689
+q8h2[m],Mitochondria,Ubiquinol,C49H76O4,0,56275-39-9,C49H76O4,C00390,3680
+quln[m],Mitochondria,Quinolinate,C7H3NO4,-2, ,C7H5NO4,C03722,6487
+r1p,Cytosol,alpha-D-Ribose 1-phosphate,C5H9O8P,-2,58459-37-3,C5H11O8P,C00620,3894
+r1p[h],Chloroplast,alpha-D-Ribose 1-phosphate,C5H9O8P,-2,58459-37-3,C5H11O8P,C00620,3894
+r5p,Cytosol,alpha-D-Ribose 5-phosphate,C5H9O8P,-2,4300-28-1,C5H11O8P,C00117,3417
+r5p[h],Chloroplast,alpha-D-Ribose 5-phosphate,C5H9O8P,-2,4300-28-1,C5H11O8P,C00117,3417
+raffin,Cytosol,Raffinose,C18H32O16,0,512-69-6,C18H32O16,C00492,3775
+raffin[h],Chloroplast,Raffinose,C18H32O16,0,512-69-6,C18H32O16,C00492,3775
+rb15bp[h],Chloroplast,"D-Ribulose 1,5-bisphosphate",C5H8O11P2,-4,24218-00-6,C5H12O11P2,C01182,4409
+rdmbzi,Cytosol,"N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole",C14H18N2O4,0,132-13-8,C14H18N2O4,C05775,8070
+retac[s],Eyespot,all-trans-Retinyl acetate,C22H32O2,0, ,C22H32O2,C02075,5161
+retinal[h],Chloroplast,all-trans-Retinal,C20H28O,0,116-31-4,C20H28O,C00376,3666
+retinal[s],Eyespot,all-trans-Retinal,C20H28O,0,116-31-4,C20H28O,C00376,3666
+retinal-11-cis[s],Eyespot,11-cis-Retinal,C20H28O,0, ,C20H28O,C02110,5192
+retinol[s],Eyespot,all-trans-Retinol,C20H30O,0,68-26-8,C20H30O,C00473,3756
+retinol-cis-11[s],Eyespot,11-cis-Retinol,C20H30O,0, ,C20H30O,C00899,4155
+retpalm[s],Eyespot,all-trans-Retinyl palmitate,C36H60O2,0,79-81-2,C36H60O2,C02588,5580
+retpalm-11-cis[s],Eyespot,11-cis-Retinyl palmitate,C36H60O2,0, ,C36H60O2,C03455,6275
+rhodopsin[s],Eyespot,Rhodopsin,C20H28R,0,9009-81-8,C20H28R,C00778,4039
+rib-D,Cytosol,D-Ribose,C5H10O5,0,50-69-1,C5H10O5,C00121,3421
+rib-D[e],Extra-organism,D-Ribose,C5H10O5,0,50-69-1,C5H10O5,C00121,3421
+ribflv,Cytosol,Riboflavin,C17H19N4O6,-1,83-88-5,C17H20N4O6,C00255,3554
+ribflv[h],Chloroplast,Riboflavin,C17H19N4O6,-1,83-88-5,C17H20N4O6,C00255,3554
+rnam,Cytosol,N-Ribosylnicotinamide,C11H14N2O5,0,1341-23-7,C11H15N2O5,C03150,6038
+ru5p-D,Cytosol,D-Ribulose 5-phosphate,C5H9O8P,-2,4151-19-3,C5H11O8P,C00199,3499
+ru5p-D[h],Chloroplast,D-Ribulose 5-phosphate,C5H9O8P,-2,4151-19-3,C5H11O8P,C00199,3499
+s,Cytosol,Sulfur,S,0,7704-34-9,S,C00087,3387
+s[e],Extra-organism,Sulfur,S,0,7704-34-9,S,C00087,3387
+s[m],Mitochondria,Sulfur,S,0,7704-34-9,S,C00087,3387
+s17bp[h],Chloroplast,"Sedoheptulose 1,7-bisphosphate",C7H12O13P2,-4, ,C7H16O13P2,C00447,3735
+s7p[h],Chloroplast,Sedoheptulose 7-phosphate,C7H13O10P,-2, ,C7H15O10P,C05382,7756
+sbt-D[h],Chloroplast,D-Sorbitol,C6H14O6,0,50-70-4,C6H14O6,C00794,4052
+scl[h],Chloroplast,Sirohydrochlorin,C42H40N4O16,-6,65207-12-7,C42H46N4O16,C05778,8073
+scys-L,Cytosol,S-Sulfo-L-cysteine,C3H6NO5S2,-1,1637-71-4,C3H7NO5S2,C05824,8119
+scys-L[h],Chloroplast,S-Sulfo-L-cysteine,C3H6NO5S2,-1,1637-71-4,C3H7NO5S2,C05824,8119
+scys-L[m],Mitochondria,S-Sulfo-L-cysteine,C3H6NO5S2,-1,1637-71-4,C3H7NO5S2,C05824,8119
+sdhlam[m],Mitochondria,S-Succinyldihydrolipoamide,C12H20NO4S2,-1, ,C12H21NO4S2,C01169,4396
+seahcys,Cytosol,Se-Adenosylselenohomocysteine,C14H20N6O5Se,0,4408-78-0,C14H20N6O5Se,C05692,7999
+sectrna[m],Mitochondria,L-Selenocysteinyl-tRNA(Sec),C13H22NO11PSeR2,0, ,C13H22NO11PSeR2,C06482,8713
+selcys,Cytosol,Selenocysteine,C3H6NO2Se,-1,4408-78-0,C3H7NO2Se,C05688,7995
+selcys[h],Chloroplast,Selenocysteine,C3H6NO2Se,-1,4408-78-0,C3H7NO2Se,C05688,7995
+selcys[m],Mitochondria,Selenocysteine,C3H6NO2Se,-1,4408-78-0,C3H7NO2Se,C05688,7995
+selcyst,Cytosol,Selenocystathionine,C7H14N2O4Se,0,8-6-7783,C7H14N2O4Se,C05699,8006
+selcyst[h],Chloroplast,Selenocystathionine,C7H14N2O4Se,0,8-6-7783,C7H14N2O4Se,C05699,8006
+selhcys,Cytosol,Selenohomocysteine,C4H8NO2Se,-1,8-6-7783,C4H9NO2Se,C05698,8005
+selhcys[h],Chloroplast,Selenohomocysteine,C4H8NO2Se,-1,8-6-7783,C4H9NO2Se,C05698,8005
+seln,Cytosol,Selenide,H2Se,0,531-44-2,H2Se,C01528,4690
+seln[h],Chloroplast,Selenide,H2Se,0,531-44-2,H2Se,C01528,4690
+seln[m],Mitochondria,Selenide,H2Se,0,531-44-2,H2Se,C01528,4690
+selnp[m],Mitochondria,Selenophosphate,PHSeO3,-2, ,PH3SeO3,C05172,7583
+selt,Cytosol,Selenite,H2SeO3,0, ,SeO3,C05684,7991
+selt[e],Extra-organism,Selenite,H2SeO3,0, ,SeO3,C05684,7991
+selt[m],Mitochondria,Selenite,H2SeO3,0, ,SeO3,C05684,7991
+ser-D,Cytosol,D-Serine,C3H7NO3,0,56-45-1,C3H7NO3,C00740,3365
+ser-L,Cytosol,L-Serine,C3H7NO3,0,56-45-1,C3H7NO3,C00065,3365
+ser-L[h],Chloroplast,L-Serine,C3H7NO3,0,56-45-1,C3H7NO3,C00065,3365
+ser-L[m],Mitochondria,L-Serine,C3H7NO3,0,56-45-1,C3H7NO3,C00065,3365
+sertrna,Cytosol,L-Seryl-tRNA(Ser),C13H22NO12PR2,0, ,C13H22NO12PR2,C02553,5554
+sertrna-LPAREN-sec-RPAREN[m],Mitochondria,L-Seryl-tRNA(Sec),C13H22NO12PR2,0, ,C13H22NO12PR2,C06481,8712
+sheme[h],Chloroplast,Siroheme,C42H40FeN4O16,-4, ,C42H44FeN4O16,C00748,4010
+skm[h],Chloroplast,Shikimate,C7H9O5,-1,138-59-0,C7H10O5,C00493,3776
+skm5p[h],Chloroplast,Shikimate 5-phosphate,C7H8O8P,-3, ,C7H11O8P,C03175,6057
+so4,Cytosol,Sulfate,SO4,-2,7664-93-9,H2SO4,C00059,3359
+so4[e],Extra-organism,Sulfate,SO4,-2,7664-93-9,H2SO4,C00059,3359
+so4[h],Chloroplast,Sulfate,SO4,-2,7664-93-9,H2SO4,C00059,3359
+so4[m],Mitochondria,Sulfate,SO4,-2,7664-93-9,H2SO4,C00059,3359
+so4[n],Nucleus,Sulfate,SO4,-2,7664-93-9,H2SO4,C00059,3359
+sph1p,Cytosol,Sphinganine 1-phosphate,C18H39NO5P,-1,19794-97-9,C18H40NO5P,C01120,4351
+sphgn,Cytosol,Sphinganine,C18H40NO2,1,15639-50-6,C18H39NO2,C00836,4094
+sphings,Cytosol,Sphingosine,C18H38NO2,1,123-78-4,C18H37NO2,C00319,3613
+sphs1p,Cytosol,Sphingosine 1-phosphate,C18H37NO5P,-1, ,C18H38NO5P,C06124,8381
+spmd,Cytosol,Spermidine,C7H22N3,3,124-20-9,C7H19N3,C00315,3609
+spmd[h],Chloroplast,Spermidine,C7H22N3,3,124-20-9,C7H19N3,C00315,3609
+spmd[m],Mitochondria,Spermidine,C7H22N3,3,124-20-9,C7H19N3,C00315,3609
+spp[h],Chloroplast,Solanesyl pyrophosphate,C45H73O7P2,-3, ,C45H76O7P2,C04145,6830
+sprm[h],Chloroplast,Spermine,C10H30N4,4,71-44-3,C10H26N4,C00750,4012
+sqdg160[h],Chloroplast,"Sulfoquinovosyldiacylglycerol (dihexadecanoyl, n-C16:0)",C41H77O12S,-1, ,C41H78O12S,C13508,586228
+sqdg18111Z160,Cytosol,"Sulfoquinovosyldiacylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H79O12S,-1, ,C43H80O12S,C13508,586228
+sqdg18111Z160[h],Chloroplast,"Sulfoquinovosyldiacylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)",C43H79O12S,-1, ,C43H80O12S,C13508,586228
+sqdg1819Z160,Cytosol,"Sulfoquinovosyldiacylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H79O12S,-1, ,C43H80O12S,C13508,586228
+sqdg1819Z160[h],Chloroplast,"Sulfoquinovosyldiacylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)",C43H79O12S,-1, ,C43H80O12S,C13508,586228
+sqdg1829Z12Z160[h],Chloroplast,"Sulfoquinovosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)",C43H77O12S,-1, ,C43H78O12S,C13508,586228
+sqdg1839Z12Z15Z160[h],Chloroplast,"Sulfoquinovosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)",C43H75O12S,-1, ,C43H76O12S,C13508,586228
+sql,Cytosol,Squalene,C30H50,0,111-02-4,C30H50,C00751,4013
+Ssq23epx,Cytosol,"(S)-Squalene-2,3-epoxide",C30H50O,0,9029-62-3,C30H50O,C01054,4295
+starch300[h],Chloroplast,"starch n=300 repeat units (80 repeat units amylose, 220 repeat units amylopectin, corresponds to maize starch)",C1800H3002O1501,0,9005-25-8,C1800H3002O1501,C00369,3659
+stc[h],Chloroplast,stachyose,C24H42O21,0,10094-58-3,C24H42O21,C01613,4765
+stcoa,Cytosol,Stearoyl-CoA (n-C18:0CoA),C39H66N7O17P3S,-4,362-66-3,C39H70N7O17P3S,C00412,3702
+suc6p,Cytosol,sucrose-6-phosphate,C12H21O14P,-2, ,C12H23O14P,C02591,5583
+sucald,Cytosol,Succinic aldehyde,C4H6O2,0,638-37-9,C4H6O2,C16835,96023359
+succ,Cytosol,Succinate,C4H4O4,-2,110-15-6,C4H6O4,C00042,3344
+succ[e],Extra-organism,Succinate,C4H4O4,-2,110-15-6,C4H6O4,C00042,3344
+succ[h],Chloroplast,Succinate,C4H4O4,-2,110-15-6,C4H6O4,C00042,3344
+succ[m],Mitochondria,Succinate,C4H4O4,-2,110-15-6,C4H6O4,C00042,3344
+succoa[m],Mitochondria,Succinyl-CoA,C25H36N7O19P3S,-4,604-98-8,C25H40N7O19P3S,C00091,3391
+suchms,Cytosol,O-Succinyl-L-homoserine,C8H12NO6,-1,1492-23-5,C8H13NO6,C01118,4349
+suchms[h],Chloroplast,O-Succinyl-L-homoserine,C8H12NO6,-1,1492-23-5,C8H13NO6,C01118,4349
+sucr,Cytosol,Sucrose,C12H22O11,0,57-50-1,C12H22O11,C00089,3389
+sucr[h],Chloroplast,Sucrose,C12H22O11,0,57-50-1,C12H22O11,C00089,3389
+sucsal[h],Chloroplast,Succinic semialdehyde,C4H5O3,-1,692-29-5,C4H6O3,C00232,3531
+sucsal[m],Mitochondria,Succinic semialdehyde,C4H5O3,-1,692-29-5,C4H6O3,C00232,3531
+t3c11vaceACP[h],Chloroplast,trans-3-cis-11-vacceoyl-[acyl-carrier protein],C18H31OSR,0, ,C18H31OSR, , 
+tag16018111Z160,Cytosol,Triacylglycerol (16:0/18:1(11Z)/16:0),C53H100O6,0, ,C53H100O6,C00422,3712
+tag16018111Z180,Cytosol,Triacylglycerol (16:0/18:1(11Z)/18:0),C55H104O6,0, ,C55H104O6,C00422,3712
+tag16018111Z18111Z,Cytosol,Triacylglycerol (16:0/18:1(11Z)/18:1(11Z)),C55H102O6,0, ,C55H102O6,C00422,3712
+tag16018111Z1819Z,Cytosol,Triacylglycerol (16:0/18:1(11Z)/18:1(9Z)),C55H102O6,0, ,C55H102O6,C00422,3712
+tag16018111Z1835Z9Z12Z,Cytosol,"Triacylglycerol (16:0/18:1(11Z)/18:3(5Z,9Z,12Z))",C55H98O6,0, ,C55H98O6,C00422,3712
+tag16018111Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (16:0/18:1(11Z)/18:4(5Z,9Z,12Z,15Z))",C55H96O6,0, ,C55H96O6,C00422,3712
+tag1601819Z160,Cytosol,Triacylglycerol (16:0/18:1(9Z)/16:0),C53H100O6,0, ,C53H100O6,C00422,3712
+tag1601819Z180,Cytosol,Triacylglycerol (16:0/18:1(9Z)/18:0),C55H104O6,0, ,C55H104O6,C00422,3712
+tag1601819Z18111Z,Cytosol,Triacylglycerol (16:0/18:1(9Z)/18:1(11Z)),C55H102O6,0, ,C55H102O6,C00422,3712
+tag1601819Z1819Z,Cytosol,Triacylglycerol (16:0/18:1(9Z)/18:1(9Z)),C55H102O6,0, ,C55H102O6,C00422,3712
+tag1601819Z1835Z9Z12Z,Cytosol,"Triacylglycerol (16:0/18:1(9Z)/18:3(5Z,9Z,12Z))",C55H98O6,0, ,C55H98O6,C00422,3712
+tag1601819Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (16:0/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C55H96O6,0, ,C55H96O6,C00422,3712
+tag1801819Z160,Cytosol,Triacylglycerol (18:0/18:1(9Z)/16:0),C55H104O6,0, ,C55H104O6,C00422,3712
+tag1801819Z180,Cytosol,Triacylglycerol (18:0/18:1(9Z)/18:0),C57H108O6,0, ,C57H108O6,C00422,3712
+tag1801819Z18111Z,Cytosol,Triacylglycerol (18:0/18:1(9Z)/18:1(11Z)),C57H106O6,0, ,C57H106O6,C00422,3712
+tag1801819Z1819Z,Cytosol,Triacylglycerol (18:0/18:1(9Z)/18:1(9Z)),C57H106O6,0, ,C57H106O6,C00422,3712
+tag1801819Z1835Z9Z12Z,Cytosol,"Triacylglycerol (18:0/18:1(9Z)/18:3(5Z,9Z,12Z))",C57H102O6,0, ,C57H102O6,C00422,3712
+tag1801819Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (18:0/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C57H100O6,0, ,C57H100O6,C00422,3712
+tag18111Z18111Z160,Cytosol,Triacylglycerol (18:1(11Z)/18:1(11Z)/16:0),C55H102O6,0, ,C55H102O6,C00422,3712
+tag18111Z18111Z180,Cytosol,Triacylglycerol (18:1(11Z)/18:1(11Z)/18:0),C57H106O6,0, ,C57H106O6,C00422,3712
+tag18111Z18111Z18111Z,Cytosol,Triacylglycerol (18:1(11Z)/18:1(11Z)/18:1(11Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag18111Z18111Z1819Z,Cytosol,Triacylglycerol (18:1(11Z)/18:1(11Z)/18:1(9Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag18111Z18111Z1835Z9Z12Z,Cytosol,"Triacylglycerol (18:1(11Z)/18:1(11Z)/18:3(5Z,9Z,12Z))",C57H100O6,0, ,C57H100O6,C00422,3712
+tag18111Z18111Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (18:1(11Z)/18:1(11Z)/18:4(5Z,9Z,12Z,15Z))",C57H98O6,0, ,C57H98O6,C00422,3712
+tag18111Z1819Z160,Cytosol,Triacylglycerol (18:1(11Z)/18:1(9Z)/16:0),C55H102O6,0, ,C55H102O6,C00422,3712
+tag18111Z1819Z180,Cytosol,Triacylglycerol (18:1(11Z)/18:1(9Z)/18:0),C57H106O6,0, ,C57H106O6,C00422,3712
+tag18111Z1819Z18111Z,Cytosol,Triacylglycerol (18:1(11Z)/18:1(9Z)/18:1(11Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag18111Z1819Z1819Z,Cytosol,Triacylglycerol (18:1(11Z)/18:1(9Z)/18:1(9Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag18111Z1819Z1835Z9Z12Z,Cytosol,"Triacylglycerol (18:1(11Z)/18:1(9Z)/18:3(5Z,9Z,12Z))",C57H100O6,0, ,C57H100O6,C00422,3712
+tag18111Z1819Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (18:1(11Z)/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C57H98O6,0, ,C57H98O6,C00422,3712
+tag1819Z18111Z160,Cytosol,Triacylglycerol (18:1(9Z)/18:1(11Z)/16:0),C55H102O6,0, ,C55H102O6,C00422,3712
+tag1819Z18111Z180,Cytosol,Triacylglycerol (18:1(9Z)/18:1(11Z)/18:0),C57H106O6,0, ,C57H106O6,C00422,3712
+tag1819Z18111Z18111Z,Cytosol,Triacylglycerol (18:1(9Z)/18:1(11Z)/18:1(11Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag1819Z18111Z1819Z,Cytosol,Triacylglycerol (18:1(9Z)/18:1(11Z)/18:1(9Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag1819Z18111Z1835Z9Z12Z,Cytosol,"Triacylglycerol (18:1(9Z)/18:1(11Z)/18:3(5Z,9Z,12Z))",C57H100O6,0, ,C57H100O6,C00422,3712
+tag1819Z18111Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (18:1(9Z)/18:1(11Z)/18:4(5Z,9Z,12Z,15Z))",C57H98O6,0, ,C57H98O6,C00422,3712
+tag1819Z1819Z160,Cytosol,Triacylglycerol (18:1(9Z)/18:1(9Z)/16:0),C55H102O6,0, ,C55H102O6,C00422,3712
+tag1819Z1819Z180,Cytosol,Triacylglycerol (18:1(9Z)/18:1(9Z)/18:0),C57H106O6,0, ,C57H106O6,C00422,3712
+tag1819Z1819Z18111Z,Cytosol,Triacylglycerol (18:1(9Z)/18:1(9Z)/18:1(11Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag1819Z1819Z1819Z,Cytosol,Triacylglycerol (18:1(9Z)/18:1(9Z)/18:1(9Z)),C57H104O6,0, ,C57H104O6,C00422,3712
+tag1819Z1819Z1835Z9Z12Z,Cytosol,"Triacylglycerol (18:1(9Z)/18:1(9Z)/18:3(5Z,9Z,12Z))",C57H100O6,0, ,C57H100O6,C00422,3712
+tag1819Z1819Z1845Z9Z12Z15Z,Cytosol,"Triacylglycerol (18:1(9Z)/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))",C57H98O6,0, ,C57H98O6,C00422,3712
+tclyc[h],Chloroplast,"7,9,7',9'-tetracis-Lycopene",C40H56,0, ,C40H56,C15858,47205178
+tczcar[h],Chloroplast,"9,15,9'-tricis-zeta-Carotene",C40H60,0, ,C40H60,C19764,135626231
+td2coa[m],Mitochondria,trans-Tetradec-2-enoyl-CoA,C35H56N7O17P3S,-4, ,C35H60N7O17P3S,C05273,7660
+td2coa[x],Glyoxysome,trans-Tetradec-2-enoyl-CoA,C35H56N7O17P3S,-4, ,C35H60N7O17P3S,C05273,7660
+tdcoa[m],Mitochondria,Tetradecanoyl-CoA (n-C14:0CoA),C35H58N7O17P3S,-4, ,C35H62N7O17P3S,C02593,5585
+tdcoa[x],Glyoxysome,Tetradecanoyl-CoA (n-C14:0CoA),C35H58N7O17P3S,-4, ,C35H62N7O17P3S,C02593,5585
+tddec2eACP[h],Chloroplast,trans-Dodec-2-enoyl-[acyl-carrier protein],C12H21OSR,0, ,C12H21OSR,C05758,8053
+tdec2eACP[h],Chloroplast,trans-Dec-2-enoyl-[acyl-carrier protein],C10H17OSR,0, ,C10H17OSR,C05754,8049
+tega,Cytosol,Tegafur,C8H8FN2O3,-1,17902-23-7,C8H9FN2O3,C12673,583063
+tega[e],Extra-organism,Tegafur,C8H8FN2O3,-1,17902-23-7,C8H9FN2O3,C12673,583063
+tfenfe2[h],Chloroplast,Transferrin[Fe(II)]2,XH2Fe2,0, ,XH2Fe2,C03029,5934
+tfenfe3[h],Chloroplast,Transferrin[Fe(III)]2,XFe2,0, ,XFe2,C03179,6061
+tgua,Cytosol,Thioguanine,C5H5N5S,0,154-42-7,C5H5N5S,C07648,9850
+tgua[e],Extra-organism,Thioguanine,C5H5N5S,0,154-42-7,C5H5N5S,C07648,9850
+thcys[h],Chloroplast,Thiocysteine,C3H7NO2S2,0,40524-74-1,C3H7NO2S2,C01962,5063
+thdp,Cytosol,"2,3,4,5-Tetrahydrodipicolinate",C7H7NO4,-2, ,C7H9NO4,C03972,6692
+thex2eACP[h],Chloroplast,trans-Hex-2-enoyl-[acyl-carrier protein],C6H9OSR,0, ,C6H9OSR,C05748,8043
+thf,Cytosol,"5,6,7,8-Tetrahydrofolate",C19H21N7O6,-2,135-16-0,C19H23N7O6,C00101,3401
+thf[h],Chloroplast,"5,6,7,8-Tetrahydrofolate",C19H21N7O6,-2,135-16-0,C19H23N7O6,C00101,3401
+thf[m],Mitochondria,"5,6,7,8-Tetrahydrofolate",C19H21N7O6,-2,135-16-0,C19H23N7O6,C00101,3401
+thfglu,Cytosol,Tetrahydrofolyl-[Glu](2),C24H28N8O9,-2, ,C24H30N8O9,C09332,11523
+thfglu[m],Mitochondria,Tetrahydrofolyl-[Glu](2),C24H28N8O9,-2, ,C24H30N8O9,C09332,11523
+thm,Cytosol,Thiamine,C12H17N4OS,1, ,C12H17N4OS,C00378,3668
+thm[e],Extra-organism,Thiamine,C12H17N4OS,1, ,C12H17N4OS,C00378,3668
+thmmp,Cytosol,Thiamine monophosphate,C12H16N4O4PS,-1, ,C12H18N4O4PS,C01081,4319
+thmpp,Cytosol,Thiamine diphosphate,C12H16N4O7P2S,-2,154-87-0,C12H19N4O7P2S,C00068,3368
+thmpp[h],Chloroplast,Thiamine diphosphate,C12H16N4O7P2S,-2,154-87-0,C12H19N4O7P2S,C00068,3368
+thmpp[m],Mitochondria,Thiamine diphosphate,C12H16N4O7P2S,-2,154-87-0,C12H19N4O7P2S,C00068,3368
+thmtp,Cytosol,Thiamine triphosphate,C12H16N4O10P3S,-3, ,C12H20N4O10P3S,C03028,2461
+thr-L,Cytosol,L-Threonine,C4H9NO3,0,72-19-5,C4H9NO3,C00188,3488
+thr-L[h],Chloroplast,L-Threonine,C4H9NO3,0,72-19-5,C4H9NO3,C00188,3488
+thr-L[m],Mitochondria,L-Threonine,C4H9NO3,0,72-19-5,C4H9NO3,C00188,3488
+thrtrna,Cytosol,L-Threonyl-tRNA(Thr),C14H24NO12PR2,0, ,C14H24NO12PR2,C02992,5901
+thrtrna[m],Mitochondria,L-Threonyl-tRNA(Thr),C14H24NO12PR2,0, ,C14H24NO12PR2,C02992,5901
+thymd,Cytosol,Thymidine,C10H14N2O5,0,50-89-5,C10H14N2O5,C00214,3514
+tmrs2eACP[h],Chloroplast,trans-Tetradec-2-enoyl-[acyl-carrier protein],C14H25OSR,0, ,C14H25OSR,C05760,8055
+toct2eACP[h],Chloroplast,trans-Oct-2-enoyl-[acyl-carrier protein],C8H13OSR,0, ,C8H13OSR,C05751,8046
+toctd2eACP[h],Chloroplast,trans-octadec-2-enoyl-[acyl-carrier protein],C18H33OSR,0, ,C18H33OSR,C16221,47205529
+tpalm2eACP[h],Chloroplast,trans-Hexadec-2-enoyl-[acyl-carrier protein],C16H29OSR,0, ,C16H29OSR,C05763,8058
+trdox,Cytosol,Oxidized thioredoxin,C6H7NO2S2R2,0, ,C6H7NO2S2R2,C00343,3636
+trdox[h],Chloroplast,Oxidized thioredoxin,C6H7NO2S2R2,0, ,C6H7NO2S2R2,C00343,3636
+trdrd,Cytosol,Reduced thioredoxin,C6H9NO2S2R2,0,52500-60-4,C6H9NO2S2R2,C00342,3635
+trdrd[h],Chloroplast,Reduced thioredoxin,C6H9NO2S2R2,0,52500-60-4,C6H9NO2S2R2,C00342,3635
+tre,Cytosol,Trehalose,C12H22O11,0,99-20-7,C12H22O11,C01083,4320
+tre6p,Cytosol,"alpha,alpha'-Trehalose 6-phosphate",C12H21O14P,-2,4484-88-2,C12H23O14P,C00689,3958
+tre6p[n],Nucleus,"alpha,alpha'-Trehalose 6-phosphate",C12H21O14P,-2,4484-88-2,C12H23O14P,C00689,3958
+trnaala,Cytosol,tRNA(Ala),C10H17O10PR2,0, ,C10H17O10PR2,C01635,4784
+trnaala[m],Mitochondria,tRNA(Ala),C10H17O10PR2,0, ,C10H17O10PR2,C01635,4784
+trnaarg,Cytosol,tRNA(Arg),C15H21N5O10PR,0, ,C15H21N5O10PR,C01636,4785
+trnaasn,Cytosol,tRNA(Asn),C10H17O10PR2,0, ,C10H17O10PR2,C01637,4786
+trnaasn[m],Mitochondria,tRNA(Asn),C10H17O10PR2,0, ,C10H17O10PR2,C01637,4786
+trnaasp,Cytosol,tRNA(Asp),C10H17O10PR2,0, ,C10H17O10PR2,C01638,4787
+trnaasp[m],Mitochondria,tRNA(Asp),C10H17O10PR2,0, ,C10H17O10PR2,C01638,4787
+trnacys,Cytosol,tRNA(Cys),C15H21N5O10PR,0, ,C15H21N5O10PR,C01639,4788
+trnagln,Cytosol,tRNA(Gln),C15H21N5O10PR,0, ,C15H21N5O10PR,C01640,4789
+trnaglu,Cytosol,tRNA(Glu),C15H21N5O10PR,0, ,C15H21N5O10PR,C01641,4790
+trnaglu[h],Chloroplast,tRNA(Glu),C15H21N5O10PR,0, ,C15H21N5O10PR,C01641,4790
+trnagly,Cytosol,tRNA(Gly),C10H17O10PR2,0, ,C10H17O10PR2,C01642,4791
+trnagly[m],Mitochondria,tRNA(Gly),C10H17O10PR2,0, ,C10H17O10PR2,C01642,4791
+trnahis,Cytosol,tRNA(His),C10H17O10PR2,0, ,C10H17O10PR2,C01643,4792
+trnaile,Cytosol,tRNA(Ile),C15H21N5O10PR,0, ,C15H21N5O10PR,C01644,4793
+trnaile[m],Mitochondria,tRNA(Ile),C15H21N5O10PR,0, ,C15H21N5O10PR,C01644,4793
+trnaleu,Cytosol,tRNA(Leu),C15H21N5O10PR,0, ,C15H21N5O10PR,C01645,4794
+trnalys,Cytosol,tRNA(Lys),C10H17O10PR2,0, ,C10H17O10PR2,C01646,4795
+trnalys[m],Mitochondria,tRNA(Lys),C10H17O10PR2,0, ,C10H17O10PR2,C01646,4795
+trnamet,Cytosol,tRNA(Met),C15H21N5O10PR,0, ,C15H21N5O10PR,C01647,4796
+trnaphe,Cytosol,tRNA(Phe),C10H17O10PR2,0, ,C10H17O10PR2,C01648,4797
+trnaphe[m],Mitochondria,tRNA(Phe),C10H17O10PR2,0, ,C10H17O10PR2,C01648,4797
+trnapro,Cytosol,tRNA(Pro),C10H17O10PR2,0, ,C10H17O10PR2,C01649,4798
+trnasecys[m],Mitochondria,tRNA(Sec),C10H17O10PR2,0, ,C10H17O10PR2,C16636,51090962
+trnaser,Cytosol,tRNA(Ser),C10H17O10PR2,0, ,C10H17O10PR2,C01650,4799
+trnathr,Cytosol,tRNA(Thr),C10H17O10PR2,0, ,C10H17O10PR2,C01651,4800
+trnathr[m],Mitochondria,tRNA(Thr),C10H17O10PR2,0, ,C10H17O10PR2,C01651,4800
+trnatrp,Cytosol,tRNA(Trp),C15H21N5O10PR,0, ,C15H21N5O10PR,C01652,4801
+trnatyr,Cytosol,tRNA(Tyr),C15H21N5O10PR,0, ,C15H21N5O10PR,C00787,4045
+trnaval,Cytosol,tRNA(Val),C15H21N5O10PR,0, ,C15H21N5O10PR,C01653,4802
+trnaval[h],Chloroplast,tRNA(Val),C15H21N5O10PR,0, ,C15H21N5O10PR,C01653,4802
+trp-L,Cytosol,L-Tryptophan,C11H12N2O2,0,73-22-3,C11H12N2O2,C00078,3378
+trp-L[h],Chloroplast,L-Tryptophan,C11H12N2O2,0,73-22-3,C11H12N2O2,C00078,3378
+trptrna,Cytosol,L-Tryptophanyl-tRNA(Trp),C26H31N7O11PR,0, ,C26H31N7O11PR,C03512,6322
+tsul,Cytosol,Thiosulfate,HS2O3,-1, ,HS2O3,C00320,3614
+tsul[e],Extra-organism,Thiosulfate,HS2O3,-1, ,HS2O3,C00320,3614
+tsul[h],Chloroplast,Thiosulfate,HS2O3,-1, ,HS2O3,C00320,3614
+tsul[m],Mitochondria,Thiosulfate,HS2O3,-1, ,HS2O3,C00320,3614
+ttc-ggdp,Cytosol,"trans,trans,cis-Geranylgeranyl diphosphate",C20H33O7P2,-3, ,C20H36O7P2,C11356,13531
+ttdca[h],Chloroplast,tetradecanoate (n-C14:0),C14H27O2,-1,544-63-8,C14H28O2,C06424,8659
+tyr-L,Cytosol,L-Tyrosine,C9H11NO3,0,60-18-4,C9H11NO3,C00082,3382
+tyr-L[h],Chloroplast,L-Tyrosine,C9H11NO3,0,60-18-4,C9H11NO3,C00082,3382
+tyr-L[m],Mitochondria,L-Tyrosine,C9H11NO3,0,60-18-4,C9H11NO3,C00082,3382
+tyr-Lso4,Cytosol,Protein L-tyrosine sulfate,C9H11NO6S,0, ,C9H11NO6S,C03721,6486
+tyrtrna,Cytosol,L-Tyrosyl-tRNA(Tyr),C24H30N6O12PR,0, ,C24H30N6O12PR,C02839,5781
+uacgam,Cytosol,UDP-N-acetyl-D-glucosamine,C17H25N3O17P2,-2, ,C17H27N3O17P2,C00043,3345
+udg[m],Mitochondria,Ureidoglycine,C3H6N3O3,-1, ,C3H7N3O3,C02091,5176
+udp,Cytosol,UDP,C9H11N2O12P2,-3,58-98-0,C9H14N2O12P2,C00015,3317
+udp[f],Flagellum,UDP,C9H10N2O12P2,-4,58-98-0,C9H14N2O12P2,C00015,3317
+udp[g],Golgi Apparatus,UDP,C9H12N2O12P2,-2,58-98-0,C9H14N2O12P2,C00015,3317
+udp[h],Chloroplast,UDP,C9H10N2O12P2,-4,58-98-0,C9H14N2O12P2,C00015,3317
+udp[m],Mitochondria,UDP,C9H11N2O12P2,-3,58-98-0,C9H14N2O12P2,C00015,3317
+udp[n],Nucleus,UDP,C9H11N2O12P2,-3,58-98-0,C9H14N2O12P2,C00015,3317
+udparab,Cytosol,UDP-L-arabinose,C14H20N2O16P2,-2, ,C14H22N2O16P2,C00935,4187
+udparab[g],Golgi Apparatus,UDP-L-arabinose,C14H20N2O16P2,-2, ,C14H22N2O16P2,C00935,4187
+udpg,Cytosol,UDP-glucose,C15H22N2O17P2,-2,133-89-1,C15H24N2O17P2,C00029,3331
+udpg[f],Flagellum,UDP-glucose,C15H21N2O17P2,-3,133-89-1,C15H24N2O17P2,C00029,3331
+udpg[h],Chloroplast,UDP-glucose,C15H21N2O17P2,-3,133-89-1,C15H24N2O17P2,C00029,3331
+udpg[n],Nucleus,UDP-glucose,C15H22N2O17P2,-2,133-89-1,C15H24N2O17P2,C00029,3331
+udpgal,Cytosol,UDP-galactose,C15H22N2O17P2,-2,2956-16-3,C15H24N2O17P2,C00052,3354
+udpgal[g],Golgi Apparatus,UDP-galactose,C15H22N2O17P2,-2,2956-16-3,C15H24N2O17P2,C00052,3354
+udpgal[h],Chloroplast,UDP-galactose,C15H21N2O17P2,-3,2956-16-3,C15H24N2O17P2,C00052,3354
+udpgalur,Cytosol,UDP-D-galacturonate,C15H19N2O18P2,-3, ,C15H22N2O18P2,C00617,3891
+udpglcur,Cytosol,UDP-D-glucuronate,C15H19N2O18P2,-3, ,C15H22N2O18P2,C00167,3467
+udpsq[h],Chloroplast,UDP-6-sulfoquinovose,C15H20N2O19P2S,-4, ,C15H23N2O19P2S,C11521,13689
+udpxyl,Cytosol,UDP-D-xylose,C14H20N2O16P2,-2,141-43-5,C14H22N2O16P2,C00190,3490
+ump,Cytosol,UMP,C9H11N2O9P,-2,58-97-9,C9H13N2O9P,C00105,3405
+ump[f],Flagellum,UMP,C9H10N2O9P,-3,58-97-9,C9H13N2O9P,C00105,3405
+ump[h],Chloroplast,UMP,C9H10N2O9P,-3,58-97-9,C9H13N2O9P,C00105,3405
+upp1[h],Chloroplast,Uroporphyrin I,C40H30N4O16,-8, ,C40H38N4O16,C05767,8062
+upp3[h],Chloroplast,Uroporphyrin III,C40H30N4O16,-8,18273-06-8,C40H38N4O16,C02469,5484
+uppg1[h],Chloroplast,Uroporphyrinogen I,C40H36N4O16,-8,1867-62-5,C40H44N4O16,C05766,8061
+uppg3[h],Chloroplast,Uroporphyrinogen III,C40H36N4O16,-8,1976-85-8,C40H44N4O16,C01051,4293
+ura,Cytosol,Uracil,C4H4N2O2,0,66-22-8,C4H4N2O2,C00106,3406
+ura[e],Extra-organism,Uracil,C4H4N2O2,0,66-22-8,C4H4N2O2,C00106,3406
+urate,Cytosol,Urate,C5H4N4O3,0,69-93-2,C5H4N4O3,C00366,3657
+urate[e],Extra-organism,Urate,C5H4N4O3,0,69-93-2,C5H4N4O3,C00366,3657
+urate[m],Mitochondria,Urate,C5H4N4O3,0,69-93-2,C5H4N4O3,C00366,3657
+urcan,Cytosol,Urocanate,C6H5N2O2,-1,104-98-3,C6H6N2O2,C00785,4043
+urdglyc,Cytosol,(-)-Ureidoglycolate,C3H5N2O4,-1, ,C3H6N2O4,C00603,3878
+urdglyc[m],Mitochondria,(-)-Ureidoglycolate,C3H5N2O4,-1, ,C3H6N2O4,C00603,3878
+urea,Cytosol,Urea,CH5N2O,1,57-13-6,CH4N2O,C00086,3386
+urea[e],Extra-organism,Urea,CH5N2O,1,57-13-6,CH4N2O,C00086,3386
+urea[m],Mitochondria,Urea,CH5N2O,1,57-13-6,CH4N2O,C00086,3386
+uri,Cytosol,Uridine,C9H12N2O6,0,58-96-8,C9H12N2O6,C00299,3593
+utp,Cytosol,UTP,C9H11N2O15P3,-4,63-39-8,C9H15N2O15P3,C00075,3375
+utp[m],Mitochondria,UTP,C9H11N2O15P3,-4,63-39-8,C9H15N2O15P3,C00075,3375
+val-L,Cytosol,L-Valine,C5H11NO2,0,72-18-4,C5H11NO2,C00183,3483
+val-L[h],Chloroplast,L-Valine,C5H11NO2,0,72-18-4,C5H11NO2,C00183,3483
+val-L[m],Mitochondria,L-Valine,C5H11NO2,0,72-18-4,C5H11NO2,C00183,3483
+valtrna,Cytosol,L-Valyl-tRNA(Val),C20H30N6O11PR,0, ,C20H30N6O11PR,C02554,5555
+valtrna[h],Chloroplast,L-Valyl-tRNA(Val),C20H30N6O11PR,0, ,C20H30N6O11PR,C02554,5555
+vioxan[u],Thylakoid Lumen,Violaxanthin,C40H56O4,0,126-29-4,C40H56O4,C08614,10807
+vitd3,Cytosol,Vitamin D3,C27H44O,0,67-97-0,C27H44O,C05443,7805
+whddca[h],Chloroplast,omega hydroxy dodecanoate (n-C12:0),C12H23O3,-1,505-95-3,C12H24O3,C08317,10515
+whhdca[h],Chloroplast,omega hydroxy hexadecanoate (n-C16:0),C16H31O3,-1, ,C16H31O3,C03547,6350
+whlnlc[h],Chloroplast,"omega hydroxy linoleate (18:2(9Z,12Z))",C18H31O3,-1, ,C18H31O3,C03547,6350
+whodce9a[h],Chloroplast,omega hydroxy octadecenoate (18:1(9Z)),C18H33O3,-1, ,C18H33O3,C03547,6350
+whttdca[h],Chloroplast,omega hydroxy tetradecanoate (n-C14:0),C14H27O3,-1, ,C14H27O3,C03547,6350
+xan,Cytosol,Xanthine,C5H4N4O2,0,69-89-6,C5H4N4O2,C00385,3675
+xan[e],Extra-organism,Xanthine,C5H4N4O2,0,69-89-6,C5H4N4O2,C00385,3675
+xmp,Cytosol,Xanthosine 5'-phosphate,C10H11N4O9P,-2,523-98-8,C10H13N4O9P,C00655,3925
+xmp[m],Mitochondria,Xanthosine 5'-phosphate,C10H11N4O9P,-2,523-98-8,C10H13N4O9P,C00655,3925
+xtp,Cytosol,XTP,C10H11N4O15P3,-4, ,C10H15N4O15P3,C00700,3968
+xtsn,Cytosol,Xanthosine,C10H12N4O6,0,146-80-5,C10H12N4O6,C01762,4895
+xu5p-D,Cytosol,D-Xylulose 5-phosphate,C5H9O8P,-2, ,C5H11O8P,C00231,3530
+xu5p-D[h],Chloroplast,D-Xylulose 5-phosphate,C5H9O8P,-2, ,C5H11O8P,C00231,3530
+xylu-D,Cytosol,D-Xylulose,C5H10O5,0, ,C5H10O5,C00310,3604
+yvite[h],Chloroplast,gamma-Tocopherol,C28H48O2,0, ,C28H48O2,C02483,5496
+zaxan[u],Thylakoid Lumen,Zeaxanthin,C40H56O2,0, ,C40H56O2,C06098,8363
+zcaro[h],Chloroplast,zeta-Carotene,C40H60,0, ,C40H60,C05430,7794
+zxan[u],Thylakoid Lumen,Zeinoxanthin,C40H56O,0,24480-38-4,C40H56O,C08590,10783
+zymst,Cytosol,Zymosterol,C27H44O,0,7488-99-5,C27H44O,C05437,7800
+zymstnl,Cytosol,Zymostenol,C27H46O,0,481-39-0,C27H46O,C03845,6582
